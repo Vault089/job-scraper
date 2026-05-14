@@ -26,7 +26,7 @@ LOG_FILE = f'{VIETNAM_DIR}/scraper.log'
 DRIVE_FOLDER_JOBS_VIETNAM = '1WyZ1CrItoSbogtKj3X_xTcYProbhlFY0'
 DRIVE_FOLDER_COVER_LETTERS = '11T_qMHbJ1z45sPSrKRyIwzJD6JvFS0l9'
 
-VENV_PYTHON = '/home/amrba/.hermes/hermes-agent/venv/bin/python3'
+VENV_PYTHON = '/home/amrba/job_scraper/venv/bin/python3'
 GAPI = '/home/amrba/.hermes/skills/productivity/google-workspace/scripts/google_api.py'
 
 # ─── PLAYWRIGHT SETUP ─────────────────────────────────────────────────────────
@@ -143,10 +143,17 @@ def parse_salary_vnd(text):
         m = re.search(pat, text)
         if m:
             if len(m.groups()) == 2:
-                lo = float(m.group(1).replace(',', '')) * 1_000_000
-                hi = float(m.group(2).replace(',', '')) * 1_000_000
+                lo_str = m.group(1).replace(',', '').strip()
+                hi_str = m.group(2).replace(',', '').strip()
+                if not lo_str or not hi_str:
+                    return None
+                lo = float(lo_str) * 1_000_000
+                hi = float(hi_str) * 1_000_000
             else:
-                val = float(m.group(1).replace(',', '')) * 1_000_000
+                val_str = m.group(1).replace(',', '').strip()
+                if not val_str:
+                    return None
+                val = float(val_str) * 1_000_000
                 lo = hi = val
             return (lo, hi)
 
@@ -154,16 +161,25 @@ def parse_salary_vnd(text):
     usd_range = r'\$([\d,]+)\s*-\s*\$?([\d,]+)\s*(?:usd|usd/month|usd/yr)'
     m = re.search(usd_range, text)
     if m:
-        lo = float(m.group(1).replace(',', '')) * USD_TO_VND
-        hi = float(m.group(2).replace(',', '')) * USD_TO_VND
+        lo_str = m.group(1).replace(',', '').strip()
+        hi_str = m.group(2).replace(',', '').strip()
+        if not lo_str or not hi_str:
+            return None
+        lo = float(lo_str) * USD_TO_VND
+        hi = float(hi_str) * USD_TO_VND
         return (lo, hi)
+
+    # Single USD value
     usd_single = r'\$([\d,]+)\s*(?:usd|usd/month|usd/yr)'
     m = re.search(usd_single, text)
     if m:
-        val = float(m.group(1).replace(',', '')) * USD_TO_VND
+        val_str = m.group(1).replace(',', '').strip()
+        if not val_str:
+            return None
+        val = float(val_str) * USD_TO_VND
         return (val, val)
 
-    return (None, None)
+    return None
 
 # ─── LINKEDIN SCRAPING ─────────────────────────────────────────────────────────
 def scrape_linkedin():
@@ -539,7 +555,8 @@ def score_job(job):
         reasons.append(f'Grade {grade} < min')
 
     # ── Salary scoring ─────────────────────────────────────────────────────
-    lo, hi = parse_salary_vnd(salary_text)
+    salary_tuple = parse_salary_vnd(salary_text)
+    lo, hi = salary_tuple if salary_tuple else (None, None)
     salary_display = ''
     if hi:
         salary_display = f'{hi/1e6:.0f}M'

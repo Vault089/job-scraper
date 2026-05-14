@@ -1573,3 +1573,797 @@ Traceback (most recent call last):
           ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 ValueError: could not convert string to float: ''
 ===== Scraper run finished: Thu May 14 02:08:37 +07 2026 | exit=1 =====
+[2026-05-14 11:48:20] 
+[2026-05-14 11:48:20] === Vietnam Job Scraper START: 20260514 ===
+[2026-05-14 11:48:20]   Loaded 21 existing jobs, 21 dedup hashes
+[2026-05-14 11:48:20] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-14 11:49:53] 
+[2026-05-14 11:49:53] === Vietnam Job Scraper START: 20260514 ===
+[2026-05-14 11:49:53]   Loaded 21 existing jobs, 21 dedup hashes
+[2026-05-14 11:49:53] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-14 11:50:12]   LinkedIn search: english teacher vietnam
+[2026-05-14 11:50:20]     Found 61 IDs total, 61 new
+[2026-05-14 11:50:24]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-14 11:50:28]     ✓ Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-14 11:50:31]     ✓ Job 3984653056: English Teacher @ Premier Residences Phu Quoc Emerald Bay Managed by AccorHotels
+[2026-05-14 11:50:35]     ✓ Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-14 11:50:39]     ✓ Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-14 11:50:43]     ✓ Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-14 11:50:46]     ✓ Job 4414545088: English Teacher (Work From Home) @ Quik Hire Staffing
+[2026-05-14 11:50:50]     ✓ Job 4414427117: Essay Coach @ AMERICAN STUDY
+[2026-05-14 11:50:54]     ✓ Job 4402617329: Giáo viên ngoại ngữ @ HTC Viễn Thông Quốc Tế
+[2026-05-14 11:51:19]     ✓ Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-14 11:51:26]     ✓ Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:51:33]     ✓ Job 4411253909: Teacher @ English 1
+[2026-05-14 11:51:38]     ✓ Job 4402624249: Giáo viên tiếng anh full time @ Trung Tâm Anh Ngữ WISE ENGLISH
+[2026-05-14 11:51:42]     ✓ Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:51:46]     ✓ Job 4319080761: Reading and Writing Teacher @ Cosmo
+[2026-05-14 11:51:50]     ✓ Job 4390579089: English and Communication Trainer (Attractive pack @ Crossian
+[2026-05-14 11:51:53]     ✓ Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 11:51:57]     ✓ Job 4399236046: [Hanoi] Full-time Secondary teachers-Atlantic Five @ Atlantic Teacher Careers
+[2026-05-14 11:52:01]     ✓ Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-14 11:52:05]     ✓ Job 4399222766: [Ha Noi] Atlantic Five-Star English- Full-Time Sec @ Atlantic Teacher Careers
+[2026-05-14 11:52:09]     ✓ Job 4414536531: Language Teacher (Work From Home) @ Quik Hire Staffing
+[2026-05-14 11:52:13]     ✓ Job 4401112892: Giáo viên tiếng Anh-Toàn thời gian @ KINDLE
+[2026-05-14 11:52:17]     ✓ Job 4323914027: Online Tutor @ Cosmo
+[2026-05-14 11:52:20]     ✓ Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-14 11:52:24]     ✓ Job 4402604584: Tuyển giáo viên tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 11:52:28]     ✓ Job 3984654269: Giáo Viên Anh Văn - English Teacher ( Full time -  @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 11:52:32]     ✓ Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-14 11:52:41]     ✓ Job 4386237792: Unknown @ Dak kindercentra
+[2026-05-14 11:52:44]     ✓ Job 4402623222: Giáo viên tiếng anh @ Kingdom
+[2026-05-14 11:52:48]     ✓ Job 4413534372: Primary EAL Teacher @ Nord Anglia Education
+[2026-05-14 11:52:51]     ✓ Job 4403409061: Trainer - English (Hanoi) @ TELUS Digital
+[2026-05-14 11:52:55]     ✓ Job 4402613315: GIÁO VIÊN @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 11:52:58]     ✓ Job 4315429069: Tuyển dụng Giảng viên khối ngành Ngôn ngữ @ CAO ĐẲNG VĂN LANG SÀI GÒN
+[2026-05-14 11:53:02]     ✓ Job 4402628219: Giáo viên Tiếng Anh @ Trung tâm anh ngữ Head English
+[2026-05-14 11:53:05]     ✓ Job 4315412925: VLSC Tuyển dụng Phụ trách ngành Tiếng Anh, Marketi @ CAO ĐẲNG VĂN LANG SÀI GÒN
+[2026-05-14 11:53:09]     ✓ Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-14 11:53:13]     ✓ Job 4402626384: GIÁO VIÊN TIẾNG ANH/ GV TIỂU HỌC @ Trung Tam
+[2026-05-14 11:53:16]     ✓ Job 4412721825: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 11:53:20]     ✓ Job 4280480549: English Teachers for Kindergarten school in Ha Noi @ Global TEFL - Global Language Training Ltd.
+[2026-05-14 11:53:24]     ✓ Job 4413249764: English Language Coach (English Native Speaker) @ Concentrix
+[2026-05-14 11:53:27]     ✓ Job 4402625241: Trợ giảng, giáo viên tiếng Anh @ CP
+[2026-05-14 11:53:31]     ✓ Job 4411990651: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Full @ Jaxtina English Center
+[2026-05-14 11:53:35]     ✓ Job 4378630652: VIETNAMESE PE TEACHER FOR AY 26/27 (HẾT HẠN) @ TH School
+[2026-05-14 11:53:39]     ✓ Job 4402626241: Nhân viên đào tạo @ AROMA Tiếng Anh Cho Người Đi Làm
+[2026-05-14 11:53:43]     ✓ Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-14 11:53:46]     ✓ Job 4402610358: Giảng viên Tiếng Anh @ Công Ty TNHH Tư Vấn James
+[2026-05-14 11:53:50]     ✓ Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-14 11:53:53]     ✓ Job 4288638790: Faculty of Multimedia Communications @ VinUniversity
+[2026-05-14 11:53:57]     ✓ Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-14 11:54:01]     ✓ Job 3984649362: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guide
+[2026-05-14 11:54:05]     ✓ Job 4411987685: [HN/HCM] Tuyển dụng giáo viên tiếng Anh TOEIC Full @ Jaxtina English Center
+[2026-05-14 11:54:08]     ✓ Job 4292490347: Trợ giảng IELTS @ Pasal International JSC
+[2026-05-14 11:54:12]     ✓ Job 4402622281: Trợ giảng tiếng anh @ Trung Tâm Anh Ngữ WISE ENGLISH
+[2026-05-14 11:54:16]     ✓ Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 11:54:19]     ✓ Job 4372060549: KDV Peutergroep VE @ Dak kindercentra
+[2026-05-14 11:54:23]     ✓ Job 4402624373: Giáo viên @ High School for Gifted Students, Hanoi National University of Education
+[2026-05-14 11:54:27]     ✓ Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-14 11:54:30]     ✓ Job 4410981304: Business English Trainer (Part-time) @ CodeLink
+[2026-05-14 11:54:34]     ✓ Job 4413293263: Communication Manager (English Language) @ Concentrix
+[2026-05-14 11:54:38]     ✓ Job 3984646917: Giáo viên tiếng Anh @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 11:54:42]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-14 11:54:44]   LinkedIn search: ielts teacher vietnam
+[2026-05-14 11:54:47]     Found 61 IDs total, 10 new
+[2026-05-14 11:54:50]     ✓ Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-14 11:55:34] 
+[2026-05-14 11:55:34] === Vietnam Job Scraper START: 20260514 ===
+[2026-05-14 11:55:34]   Loaded 21 existing jobs, 21 dedup hashes
+[2026-05-14 11:55:34] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-14 11:55:35]   LinkedIn search: english teacher vietnam
+[2026-05-14 11:55:38]     Found 58 IDs total, 58 new
+[2026-05-14 11:55:41]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:55:45]     ✓ Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:55:49]     ✓ Job 4309686917: English as a Second Language (ESL) Tutor @ DataAnnotation
+[2026-05-14 11:55:53]     ✓ Job 4402399810: Hiring FULL -TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:55:56]     ✓ Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:56:00]     ✓ Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:56:04]     ✓ Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:56:07]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-14 11:56:11]     ✓ Job 4403614509: [Hanoi] Secondary ESL Teachers for Premium Schools @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:56:14]     ✓ Job 4411982325: ESL Teacher | International School in Lao Cai, Vie @ Guardian Jobs
+[2026-05-14 11:56:19]     ✓ Job 4399236046: [Hanoi] Full-time Secondary teachers-Atlantic Five @ Atlantic Teacher Careers
+[2026-05-14 11:56:22]     ✓ Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-14 11:56:26]     ✓ Job 4412101892: FULL-TIME KINDERGARTEN ENGLISH TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:56:29]     ✓ Job 4414144018: [An Giang] FULLTIME ENGLISH TEACHERS @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:56:33]     ✓ Job 4406540565: SECONDARY ENGLISH TEACHER (Academic year 2026 - 20 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:56:36]     ✓ Job 4403951725: [Hanoi] FULL-TIME ESL-SCIENCE-MATH TEACHERS (CAMBR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:56:40]     ✓ Job 4409935466: EIV HCM - ENGLISH TEACHERS (FULLTIME/PARTIME) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:56:44]     ✓ Job 4198830029: Teach Vietnam - TJAP @ TEFL UK
+[2026-05-14 11:56:47]     ✓ Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-14 11:56:51]     ✓ Job 4280480549: English Teachers for Kindergarten school in Ha Noi @ Global TEFL - Global Language Training Ltd.
+[2026-05-14 11:56:55]     ✓ Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-14 11:56:59]     ✓ Job 4413586011: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:57:02]     ✓ Job 4408683410: ENGLISH SCIENCE TEACHER (AY 2026-2027) Starting in @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:57:06]     ✓ Job 4412799303: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:57:10]     ✓ Job 3984653056: English Teacher @ Premier Residences Phu Quoc Emerald Bay Managed by AccorHotels
+[2026-05-14 11:57:13]     ✓ Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-14 11:57:16]     ✓ Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-14 11:57:20]     ✓ Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-14 11:57:24]     ✓ Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 11:57:28]     ✓ Job 4406556162: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:57:32]     ✓ Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-14 11:57:35]     ✓ Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-14 11:57:39]     ✓ Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-14 11:57:43]     ✓ Job 4394474859: [HCM] International Program Teacher / Kindergarten @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:57:46]     ✓ Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-14 11:57:50]     ✓ Job 4321317044: Preschool ESL Teacher IMA Kindergarten (Thao Dien, @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:57:54]     ✓ Job 4399222770: [HANOI] Part-time Secondary Teachers needed for ou @ Atlantic Teacher Careers
+[2026-05-14 11:57:57]     ✓ Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-14 11:58:01]     ✓ Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-14 11:58:04]     ✓ Job 4413572607: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:58:08]     ✓ Job 4408677433: [CAN THO] PART - TIME ENGLISH TEACHERS AT ISMART E @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:58:11]     ✓ Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 11:58:16]     ✓ Job 4408665471: [Hanoi] Full-time MONTESSORI TEACHER - Currently i @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:58:20]     ✓ Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-14 11:58:23]     ✓ Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers
+[2026-05-14 11:58:27]     ✓ Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-14 11:58:30]     ✓ Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-14 11:58:34]     ✓ Job 4383109851: STEAM TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:58:37]     ✓ Job 4397282121: English Science Teacher (AY 2026–2027) – Ha Noi @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:58:41]     ✓ Job 4399222766: [Ha Noi] Atlantic Five-Star English- Full-Time Sec @ Atlantic Teacher Careers
+[2026-05-14 11:58:44]     ✓ Job 4414545088: English Teacher (Work From Home) @ Quik Hire Staffing
+[2026-05-14 11:58:48]     ✓ Job 4407005419: Primary Years Programme (PYP) Homeroom Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:58:51]     ✓ Job 4399232293: [Hanoi] [FSEL] Video Teachers for new academic pro @ Atlantic Teacher Careers
+[2026-05-14 11:58:55]     ✓ Job 4413514291: [HCM] Teacher Care and Recruitment Executive @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-14 11:58:58]     ✓ Job 4344863514: Korean-English Language Instructor @ DataAnnotation
+[2026-05-14 11:59:02]     ✓ Job 4407574831: Senior Game Designer (Onsite Hanoi, Danang or HCMC @ Gear Games
+[2026-05-14 11:59:06]     ✓ Job 4402911019: Events & Outreach Manager @ International School Ho Chi Minh City
+[2026-05-14 11:59:10]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:59:12]   LinkedIn search: ielts teacher vietnam
+[2026-05-14 11:59:15]     Found 61 IDs total, 46 new
+[2026-05-14 11:59:18]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:59:21]     ✓ Job 4309687837: ESL Instructor @ DataAnnotation
+[2026-05-14 11:59:25]     ✓ Job 4387377883: [Nha Trang - Khanh Hoa] Full-time Primary Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:59:28]     ✓ Job 4392892234: Online Teacher Wanted! Teaching All Levels @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:59:32]     ✓ Job 4407030103: Early Years Teachers Needed in Vietnam, EDVECTUS L @ Guardian Jobs
+[2026-05-14 11:59:35]     ✓ Job 4407019213: [HANOI] School Partnership Primary school Teacher  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:59:39]     ✓ Job 4198828058: Vietnam TEFL Internship @ TEFL UK
+[2026-05-14 11:59:43]     ✓ Job 4394486021: [Hanoi] Full-time Teachers (Cambridge Programme) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:59:47]     ✓ Job 4387396181: [HCM] Expat Teacher - Currently living in Viet Nam @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:59:51]     ✓ Job 4402610386: Giáo viên Tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 11:59:55]     ✓ Job 4398112798: Primary Math/Science and ELA Teachers - Starting A @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 11:59:59]     ✓ Job 4393551428: &#124;Phú Quốc&#124; Trợ giảng môn Toán (Giáo viên @ Vinschool
+[2026-05-14 12:00:03]     ✓ Job 3984646917: Giáo viên tiếng Anh @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 12:00:07]     ✓ Job 4411990651: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Full @ Jaxtina English Center
+[2026-05-14 12:00:10]     ✓ Job 4411619050: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 12:00:14]     ✓ Job 4393476031: AS - A Level CHEMISTRY TEACHERS - FULL TIME - STAR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:00:18]     ✓ Job 4408673405: LOWER SECONDARY SCIENCE TEACHERS - FULL TIME - STA @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:00:22]     ✓ Job 4319080761: Reading and Writing Teacher @ Cosmo
+[2026-05-14 12:00:25]     ✓ Job 3984649362: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guide
+[2026-05-14 12:00:29]     ✓ Job 4409688826: Senior Trainer @ 7-Eleven Vietnam
+[2026-05-14 12:00:32]     ✓ Job 4412721825: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 12:00:56] 
+[2026-05-14 12:00:56] === Vietnam Job Scraper START: 20260514 ===
+[2026-05-14 12:00:56]   Loaded 21 existing jobs, 21 dedup hashes
+[2026-05-14 12:00:56] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-14 12:00:57]   LinkedIn search: english teacher vietnam
+[2026-05-14 12:01:00]     Found 58 IDs total, 58 new
+[2026-05-14 12:01:03]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:01:06]     ✓ Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:01:10]     ✓ Job 4309686917: English as a Second Language (ESL) Tutor @ DataAnnotation
+[2026-05-14 12:01:13]     ✓ Job 4402399810: Hiring FULL -TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:01:17]     ✓ Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:01:21]     ✓ Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:01:24]     ✓ Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:01:28]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-14 12:01:31]     ✓ Job 4403614509: [Hanoi] Secondary ESL Teachers for Premium Schools @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:01:36]     ✓ Job 4411982325: ESL Teacher | International School in Lao Cai, Vie @ Guardian Jobs
+[2026-05-14 12:01:39]     ✓ Job 4399236046: [Hanoi] Full-time Secondary teachers-Atlantic Five @ Atlantic Teacher Careers
+[2026-05-14 12:01:43]     ✓ Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-14 12:01:46]     ✓ Job 4412101892: FULL-TIME KINDERGARTEN ENGLISH TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:01:50]     ✓ Job 4414144018: [An Giang] FULLTIME ENGLISH TEACHERS @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:01:54]     ✓ Job 4406540565: SECONDARY ENGLISH TEACHER (Academic year 2026 - 20 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:02:08] 
+[2026-05-14 12:02:08] === Vietnam Job Scraper START: 20260514 ===
+[2026-05-14 12:02:08]   Loaded 21 existing jobs, 21 dedup hashes
+[2026-05-14 12:02:08] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-14 12:02:09]   LinkedIn search: english teacher vietnam
+[2026-05-14 12:02:12]     Found 58 IDs total, 58 new
+[2026-05-14 12:02:15]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:02:19]     ✓ Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:02:23]     ✓ Job 4309686917: English as a Second Language (ESL) Tutor @ DataAnnotation
+[2026-05-14 12:02:27]     ✓ Job 4402399810: Hiring FULL -TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:02:30]     ✓ Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:02:34]     ✓ Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:02:37]     ✓ Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:02:40]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-14 12:02:44]     ✓ Job 4403614509: [Hanoi] Secondary ESL Teachers for Premium Schools @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:02:48]     ✓ Job 4411982325: ESL Teacher | International School in Lao Cai, Vie @ Guardian Jobs
+[2026-05-14 12:02:51]     ✓ Job 4399236046: [Hanoi] Full-time Secondary teachers-Atlantic Five @ Atlantic Teacher Careers
+[2026-05-14 12:02:55]     ✓ Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-14 12:02:59]     ✓ Job 4412101892: FULL-TIME KINDERGARTEN ENGLISH TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:03:02]     ✓ Job 4414144018: [An Giang] FULLTIME ENGLISH TEACHERS @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:03:06]     ✓ Job 4406540565: SECONDARY ENGLISH TEACHER (Academic year 2026 - 20 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:03:09]     ✓ Job 4403951725: [Hanoi] FULL-TIME ESL-SCIENCE-MATH TEACHERS (CAMBR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:03:13]     ✓ Job 4409935466: EIV HCM - ENGLISH TEACHERS (FULLTIME/PARTIME) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:03:17]     ✓ Job 4198830029: Teach Vietnam - TJAP @ TEFL UK
+[2026-05-14 12:03:20]     ✓ Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-14 12:03:24]     ✓ Job 4280480549: English Teachers for Kindergarten school in Ha Noi @ Global TEFL - Global Language Training Ltd.
+[2026-05-14 12:03:27]     ✓ Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-14 12:03:31]     ✓ Job 4413586011: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:03:35]     ✓ Job 4408683410: ENGLISH SCIENCE TEACHER (AY 2026-2027) Starting in @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:03:39]     ✓ Job 4412799303: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:03:42]     ✓ Job 3984653056: English Teacher @ Premier Residences Phu Quoc Emerald Bay Managed by AccorHotels
+[2026-05-14 12:03:46]     ✓ Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-14 12:03:50]     ✓ Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-14 12:03:54]     ✓ Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-14 12:03:57]     ✓ Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 12:04:01]     ✓ Job 4406556162: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:04:04]     ✓ Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-14 12:04:08]     ✓ Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-14 12:04:12]     ✓ Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-14 12:04:15]     ✓ Job 4394474859: [HCM] International Program Teacher / Kindergarten @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:04:18]     ✓ Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-14 12:04:22]     ✓ Job 4321317044: Preschool ESL Teacher IMA Kindergarten (Thao Dien, @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:04:26]     ✓ Job 4399222770: [HANOI] Part-time Secondary Teachers needed for ou @ Atlantic Teacher Careers
+[2026-05-14 12:04:29]     ✓ Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-14 12:04:33]     ✓ Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-14 12:04:37]     ✓ Job 4413572607: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:04:41]     ✓ Job 4408677433: [CAN THO] PART - TIME ENGLISH TEACHERS AT ISMART E @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:04:45]     ✓ Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 12:04:49]     ✓ Job 4408665471: [Hanoi] Full-time MONTESSORI TEACHER - Currently i @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:04:52]     ✓ Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-14 12:04:55]     ✓ Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers
+[2026-05-14 12:04:59]     ✓ Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-14 12:05:03]     ✓ Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-14 12:05:06]     ✓ Job 4383109851: STEAM TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:05:10]     ✓ Job 4397282121: English Science Teacher (AY 2026–2027) – Ha Noi @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:05:13]     ✓ Job 4399222766: [Ha Noi] Atlantic Five-Star English- Full-Time Sec @ Atlantic Teacher Careers
+[2026-05-14 12:05:16]     ✓ Job 4414545088: English Teacher (Work From Home) @ Quik Hire Staffing
+[2026-05-14 12:05:20]     ✓ Job 4407005419: Primary Years Programme (PYP) Homeroom Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:05:24]     ✓ Job 4399232293: [Hanoi] [FSEL] Video Teachers for new academic pro @ Atlantic Teacher Careers
+[2026-05-14 12:05:28]     ✓ Job 4413514291: [HCM] Teacher Care and Recruitment Executive @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-14 12:05:32]     ✓ Job 4344863514: Korean-English Language Instructor @ DataAnnotation
+[2026-05-14 12:05:36]     ✓ Job 4407574831: Senior Game Designer (Onsite Hanoi, Danang or HCMC @ Gear Games
+[2026-05-14 12:05:40]     ✓ Job 4402911019: Events & Outreach Manager @ International School Ho Chi Minh City
+[2026-05-14 12:05:43]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:05:45]   LinkedIn search: ielts teacher vietnam
+[2026-05-14 12:05:49]     Found 61 IDs total, 48 new
+[2026-05-14 12:05:52]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:05:55]     ✓ Job 4309687837: ESL Instructor @ DataAnnotation
+[2026-05-14 12:05:59]     ✓ Job 4387377883: [Nha Trang - Khanh Hoa] Full-time Primary Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:06:03]     ✓ Job 4392892234: Online Teacher Wanted! Teaching All Levels @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:06:07]     ✓ Job 4407030103: Early Years Teachers Needed in Vietnam, EDVECTUS L @ Guardian Jobs
+[2026-05-14 12:06:11]     ✓ Job 4407019213: [HANOI] School Partnership Primary school Teacher  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:06:14]     ✓ Job 4198828058: Vietnam TEFL Internship @ TEFL UK
+[2026-05-14 12:06:18]     ✓ Job 4394486021: [Hanoi] Full-time Teachers (Cambridge Programme) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:06:22]     ✓ Job 4387396181: [HCM] Expat Teacher - Currently living in Viet Nam @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:06:25]     ✓ Job 4402610386: Giáo viên Tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:06:28]     ✓ Job 4398112798: Primary Math/Science and ELA Teachers - Starting A @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:06:32]     ✓ Job 4393551428: &#124;Phú Quốc&#124; Trợ giảng môn Toán (Giáo viên @ Vinschool
+[2026-05-14 12:06:36]     ✓ Job 3984646917: Giáo viên tiếng Anh @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 12:06:40]     ✓ Job 4411619050: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 12:06:44]     ✓ Job 4393476031: AS - A Level CHEMISTRY TEACHERS - FULL TIME - STAR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:06:47]     ✓ Job 4408673405: LOWER SECONDARY SCIENCE TEACHERS - FULL TIME - STA @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:06:51]     ✓ Job 4319080761: Reading and Writing Teacher @ Cosmo
+[2026-05-14 12:06:55]     ✓ Job 3984649362: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guide
+[2026-05-14 12:06:59]     ✓ Job 4412721825: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 12:07:03]     ✓ Job 4402623222: Giáo viên tiếng anh @ Kingdom
+[2026-05-14 12:07:07]     ✓ Job 4402961140: Trợ giảng (Giáo viên nguồn) Tiểu học @ Vinschool
+[2026-05-14 12:07:10]     ✓ Job 4408281031: Giáo viên Tiểu học - Vinschool Golden River (Quận  @ Vinschool
+[2026-05-14 12:07:14]     ✓ Job 4393475164: AS - A Level MATHS TEACHERS - FULL TIME - START JU @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:07:18]     ✓ Job 4393465424: AS - A Level PHYSICS TEACHERS - FULL TIME - START  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:07:22]     ✓ Job 4390579089: English and Communication Trainer (Attractive pack @ Crossian
+[2026-05-14 12:07:25]     ✓ Job 3984650079: Giảng viên và Chuyên viên @ USSH-VNUHCM I Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia TP.HCM
+[2026-05-14 12:07:29]     ✓ Job 4401112892: Giáo viên tiếng Anh-Toàn thời gian @ KINDLE
+[2026-05-14 12:07:33]     ✓ Job 4377696996: International Baccalaureate (IB) teaching position @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:07:36]     ✓ Job 4367503207: Educador/a de Infância @ Santa Casa da Misericórdia da Mealhada
+[2026-05-14 12:07:40]     ✓ Job 4394472896: GLOBAL PERSPECTIVES TEACHERS - FULL TIME - START J @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:07:43]     ✓ Job 4403155980: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital
+[2026-05-14 12:07:47]     ✓ Job 4413292356: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 12:07:51]     ✓ Job 4413534372: Primary EAL Teacher @ Nord Anglia Education
+[2026-05-14 12:07:55]     ✓ Job 4402620331: Giáo viên @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:07:58]     ✓ Job 4396399637: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital Philippines
+[2026-05-14 12:08:02]     ✓ Job 4357457958: Expression of Interest – Casual Academic @ RMIT University Vietnam
+[2026-05-14 12:08:06]     ✓ Job 4402604584: Tuyển giáo viên tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:08:10]     ✓ Job 4411253909: Teacher @ English 1
+[2026-05-14 12:08:13]     ✓ Job 4402625241: Trợ giảng, giáo viên tiếng Anh @ CP
+[2026-05-14 12:08:17]     ✓ Job 4253472556: Giáo viên IELTS Part-time @ Pasal International JSC
+[2026-05-14 12:08:21]     ✓ Job 4402613315: GIÁO VIÊN @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:08:25]     ✓ Job 4402626279: Giáo viên mầm non @ Trường Thắng
+[2026-05-14 12:08:28]     ✓ Job 4412621880: Expat Primary Teacher @ US Vietnam Talent International School
+[2026-05-14 12:08:32]     ✓ Job 4402624373: Giáo viên @ High School for Gifted Students, Hanoi National University of Education
+[2026-05-14 12:08:35]     ✓ Job 4413249764: English Language Coach (English Native Speaker) @ Concentrix
+[2026-05-14 12:08:39]     ✓ Job 4402623254: Giáo viên mầm non @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:08:42]     ✓ Job 4386237792: Unknown @ Dak kindercentra
+[2026-05-14 12:08:46]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:08:49]   LinkedIn search: business teacher vietnam
+[2026-05-14 12:08:51]     Found 4 IDs total, 4 new
+[2026-05-14 12:08:55]     ✓ Job 4394473919: ECONOMICS TEACHERS - FULL TIME - START JULY 2026 ( @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:08:58]     ✓ Job 4413540414: Business Studies Teacher – International School in @ Guardian Jobs
+[2026-05-14 12:09:02]     ✓ Job 4390033021: [Hanoi, Vietnam] Urgent: DP Economics Teacher (Mic @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:09:05]     ✓ Job 4394473919: ECONOMICS TEACHERS - FULL TIME - START JULY 2026 ( @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:09:07]   LinkedIn search: economics teacher vietnam
+[2026-05-14 12:09:10]     Found 12 IDs total, 6 new
+[2026-05-14 12:09:13]     ✓ Job 4401447112: [HANOI] School Partnership Secondary & High school @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:09:17]     ✓ Job 4413567763: Math Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:09:21]     ✓ Job 4414144028: Math-Science Teachers @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:09:24]     ✓ Job 4412728194: Mathematics & Python Expert - Freelance AI Trainer @ Mindrift
+[2026-05-14 12:09:27]     ✓ Job 4314697421: Mathematics Specialist (Fluent in German) - Freela @ Meridial Marketplace, by Invisible
+[2026-05-14 12:09:31]     ✓ Job 4315169155: Mathematics Specialist (Fluent in Korean) - Freela @ Meridial Marketplace, by Invisible
+[2026-05-14 12:09:33]   LinkedIn search: esl teacher vietnam
+[2026-05-14 12:09:36]     Found 40 IDs total, 2 new
+[2026-05-14 12:09:39]     ✓ Job 3984654269: Giáo Viên Anh Văn - English Teacher ( Full time -  @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 12:09:43]     ✓ Job 4410378519: Academic Supervisor (ESL Certification & Standards @ Step Up Education
+[2026-05-14 12:09:45]   LinkedIn: collected 118 raw jobs
+[2026-05-14 12:09:45] Scraping Vietnamworks (Playwright)...
+[2026-05-14 12:09:45]     Vietnamworks: english teacher ho-chi-minh-vn page 0
+[2026-05-14 12:09:48]       Found 0 job cards on page
+[2026-05-14 12:09:48]       Found 0 job URLs via regex
+[2026-05-14 12:09:49]     Vietnamworks: english teacher ho-chi-minh-vn page 1
+[2026-05-14 12:09:51]       Found 0 job cards on page
+[2026-05-14 12:09:51]       Found 0 job URLs via regex
+[2026-05-14 12:09:53]     Vietnamworks: english teacher ha-noi-vn page 0
+[2026-05-14 12:09:55]       Found 0 job cards on page
+[2026-05-14 12:09:55]       Found 0 job URLs via regex
+[2026-05-14 12:09:57]     Vietnamworks: english teacher ha-noi-vn page 1
+[2026-05-14 12:09:59]       Found 0 job cards on page
+[2026-05-14 12:09:59]       Found 0 job URLs via regex
+[2026-05-14 12:10:01]     Vietnamworks: ielts teacher ho-chi-minh-vn page 0
+[2026-05-14 12:10:03]       Found 0 job cards on page
+[2026-05-14 12:10:03]       Found 0 job URLs via regex
+[2026-05-14 12:10:05]     Vietnamworks: ielts teacher ho-chi-minh-vn page 1
+[2026-05-14 12:10:07]       Found 0 job cards on page
+[2026-05-14 12:10:07]       Found 0 job URLs via regex
+[2026-05-14 12:10:09]     Vietnamworks: business english ho-chi-minh-vn page 0
+[2026-05-14 12:10:12]       Found 0 job cards on page
+[2026-05-14 12:10:12]       Found 0 job URLs via regex
+[2026-05-14 12:10:13]     Vietnamworks: business english ho-chi-minh-vn page 1
+[2026-05-14 12:10:16]       Found 0 job cards on page
+[2026-05-14 12:10:16]       Found 0 job URLs via regex
+[2026-05-14 12:10:18]   Vietnamworks: collected 0 raw jobs
+[2026-05-14 12:10:18]   Total raw jobs collected: 118
+[2026-05-14 12:11:53] 
+[2026-05-14 12:11:53] === Vietnam Job Scraper START: 20260514 ===
+[2026-05-14 12:11:53]   Loaded 21 existing jobs, 21 dedup hashes
+[2026-05-14 12:11:53] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-14 12:11:54]   LinkedIn search: english teacher vietnam
+[2026-05-14 12:11:57]     Found 58 IDs total, 58 new
+[2026-05-14 12:12:00]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:12:03]     ✓ Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:12:07]     ✓ Job 4309686917: English as a Second Language (ESL) Tutor @ DataAnnotation
+[2026-05-14 12:12:10]     ✓ Job 4402399810: Welcome to your professional community @ Unknown
+[2026-05-14 12:12:13]     ✓ Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:12:17]     ✓ Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:12:20]     ✓ Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:12:24]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-14 12:12:27]     ✓ Job 4403614509: [Hanoi] Secondary ESL Teachers for Premium Schools @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:12:31]     ✓ Job 4411982325: ESL Teacher | International School in Lao Cai, Vie @ Guardian Jobs
+[2026-05-14 12:12:35]     ✓ Job 4399236046: [Hanoi] Full-time Secondary teachers-Atlantic Five @ Atlantic Teacher Careers
+[2026-05-14 12:12:38]     ✓ Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-14 12:12:42]     ✓ Job 4412101892: FULL-TIME KINDERGARTEN ENGLISH TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:12:46]     ✓ Job 4414144018: [An Giang] FULLTIME ENGLISH TEACHERS @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:12:49]     ✓ Job 4406540565: SECONDARY ENGLISH TEACHER (Academic year 2026 - 20 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:12:53]     ✓ Job 4403951725: [Hanoi] FULL-TIME ESL-SCIENCE-MATH TEACHERS (CAMBR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:12:57]     ✓ Job 4409935466: EIV HCM - ENGLISH TEACHERS (FULLTIME/PARTIME) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:13:01]     ✓ Job 4198830029: Teach Vietnam - TJAP @ TEFL UK
+[2026-05-14 12:13:05]     ✓ Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-14 12:13:08]     ✓ Job 4280480549: English Teachers for Kindergarten school in Ha Noi @ Global TEFL - Global Language Training Ltd.
+[2026-05-14 12:13:12]     ✓ Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-14 12:13:16]     ✓ Job 4413586011: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:13:20]     ✓ Job 4408683410: ENGLISH SCIENCE TEACHER (AY 2026-2027) Starting in @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:13:24]     ✓ Job 4412799303: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:13:28]     ✓ Job 3984653056: English Teacher @ Premier Residences Phu Quoc Emerald Bay Managed by AccorHotels
+[2026-05-14 12:13:32]     ✓ Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-14 12:13:35]     ✓ Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-14 12:13:39]     ✓ Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-14 12:13:43]     ✓ Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 12:13:46]     ✓ Job 4406556162: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:13:50]     ✓ Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-14 12:13:54]     ✓ Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-14 12:13:57]     ✓ Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-14 12:14:00]     ✓ Job 4394474859: [HCM] International Program Teacher / Kindergarten @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:14:04]     ✓ Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-14 12:14:08]     ✓ Job 4321317044: Preschool ESL Teacher IMA Kindergarten (Thao Dien, @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:14:11]     ✓ Job 4399222770: [HANOI] Part-time Secondary Teachers needed for ou @ Atlantic Teacher Careers
+[2026-05-14 12:14:15]     ✓ Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-14 12:14:18]     ✓ Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-14 12:14:22]     ✓ Job 4413572607: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:14:25]     ✓ Job 4408677433: [CAN THO] PART - TIME ENGLISH TEACHERS AT ISMART E @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:14:29]     ✓ Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 12:14:33]     ✓ Job 4408665471: [Hanoi] Full-time MONTESSORI TEACHER - Currently i @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:14:37]     ✓ Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-14 12:14:40]     ✓ Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers
+[2026-05-14 12:14:43]     ✓ Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-14 12:14:47]     ✓ Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-14 12:14:50]     ✓ Job 4383109851: STEAM TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:14:53]     ✓ Job 4397282121: English Science Teacher (AY 2026–2027) – Ha Noi @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:14:57]     ✓ Job 4399222766: [Ha Noi] Atlantic Five-Star English- Full-Time Sec @ Atlantic Teacher Careers
+[2026-05-14 12:15:00]     ✓ Job 4414545088: English Teacher (Work From Home) @ Quik Hire Staffing
+[2026-05-14 12:15:04]     ✓ Job 4407005419: Primary Years Programme (PYP) Homeroom Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:15:07]     ✓ Job 4399232293: [Hanoi] [FSEL] Video Teachers for new academic pro @ Atlantic Teacher Careers
+[2026-05-14 12:15:11]     ✓ Job 4413514291: [HCM] Teacher Care and Recruitment Executive @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-14 12:15:14]     ✓ Job 4344863514: Korean-English Language Instructor @ DataAnnotation
+[2026-05-14 12:15:18]     ✓ Job 4407574831: Senior Game Designer (Onsite Hanoi, Danang or HCMC @ Gear Games
+[2026-05-14 12:15:22]     ✓ Job 4402911019: Events & Outreach Manager @ International School Ho Chi Minh City
+[2026-05-14 12:15:26]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:15:27]   LinkedIn search: ielts teacher vietnam
+[2026-05-14 12:15:30]     Found 61 IDs total, 46 new
+[2026-05-14 12:15:33]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:15:37]     ✓ Job 4309687837: ESL Instructor @ DataAnnotation
+[2026-05-14 12:15:40]     ✓ Job 4387377883: [Nha Trang - Khanh Hoa] Full-time Primary Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:15:44]     ✓ Job 4392892234: Online Teacher Wanted! Teaching All Levels @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:15:47]     ✓ Job 4407030103: Early Years Teachers Needed in Vietnam, EDVECTUS L @ Guardian Jobs
+[2026-05-14 12:15:50]     ✓ Job 4407019213: [HANOI] School Partnership Primary school Teacher  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:15:54]     ✓ Job 4198828058: Vietnam TEFL Internship @ TEFL UK
+[2026-05-14 12:15:58]     ✓ Job 4394486021: [Hanoi] Full-time Teachers (Cambridge Programme) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:16:01]     ✓ Job 4387396181: [HCM] Expat Teacher - Currently living in Viet Nam @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:16:05]     ✓ Job 4402610386: Giáo viên Tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:16:08]     ✓ Job 4398112798: Primary Math/Science and ELA Teachers - Starting A @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:16:12]     ✓ Job 4393551428: &#124;Phú Quốc&#124; Trợ giảng môn Toán (Giáo viên @ Vinschool
+[2026-05-14 12:16:15]     ✓ Job 3984646917: Giáo viên tiếng Anh @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 12:16:18]     ✓ Job 4411990651: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Full @ Jaxtina English Center
+[2026-05-14 12:16:22]     ✓ Job 4411619050: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 12:16:26]     ✓ Job 4393476031: AS - A Level CHEMISTRY TEACHERS - FULL TIME - STAR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:16:30]     ✓ Job 4408673405: LOWER SECONDARY SCIENCE TEACHERS - FULL TIME - STA @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:16:33]     ✓ Job 4319080761: Reading and Writing Teacher @ Cosmo
+[2026-05-14 12:16:37]     ✓ Job 3984649362: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guide
+[2026-05-14 12:16:40]     ✓ Job 4409688826: Senior Trainer @ 7-Eleven Vietnam
+[2026-05-14 12:16:45]     ✓ Job 4412721825: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 12:16:48]     ✓ Job 4402623222: Giáo viên tiếng anh @ Kingdom
+[2026-05-14 12:16:52]     ✓ Job 4402961140: Trợ giảng (Giáo viên nguồn) Tiểu học @ Vinschool
+[2026-05-14 12:17:29] 
+[2026-05-14 12:17:29] === Vietnam Job Scraper START: 20260514 ===
+[2026-05-14 12:17:29]   Loaded 21 existing jobs, 21 dedup hashes
+[2026-05-14 12:17:29] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-14 12:17:30]   LinkedIn search: english teacher vietnam
+[2026-05-14 12:17:34]     Found 59 IDs total, 59 new
+[2026-05-14 12:17:37]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:17:40]     ✓ Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:17:44]     ✓ Job 4309686917: English as a Second Language (ESL) Tutor @ DataAnnotation
+[2026-05-14 12:17:48]     ✓ Job 4402399810: Hiring FULL -TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:17:52]     ✓ Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:17:55]     ✓ Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:17:59]     ✓ Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:18:02]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-14 12:18:06]     ✓ Job 4403614509: [Hanoi] Secondary ESL Teachers for Premium Schools @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:18:10]     ✓ Job 4411982325: ESL Teacher | International School in Lao Cai, Vie @ Guardian Jobs
+[2026-05-14 12:18:13]     ✓ Job 4399236046: [Hanoi] Full-time Secondary teachers-Atlantic Five @ Atlantic Teacher Careers
+[2026-05-14 12:18:17]     ✓ Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-14 12:18:21]     ✓ Job 4412101892: FULL-TIME KINDERGARTEN ENGLISH TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:18:25]     ✓ Job 4414144018: [An Giang] FULLTIME ENGLISH TEACHERS @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:18:29]     ✓ Job 4406540565: SECONDARY ENGLISH TEACHER (Academic year 2026 - 20 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:18:32]     ✓ Job 4403951725: [Hanoi] FULL-TIME ESL-SCIENCE-MATH TEACHERS (CAMBR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:18:36]     ✓ Job 4409935466: EIV HCM - ENGLISH TEACHERS (FULLTIME/PARTIME) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:18:40]     ✓ Job 4198830029: Teach Vietnam - TJAP @ TEFL UK
+[2026-05-14 12:18:43]     ✓ Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-14 12:18:46]     ✓ Job 4280480549: English Teachers for Kindergarten school in Ha Noi @ Global TEFL - Global Language Training Ltd.
+[2026-05-14 12:18:50]     ✓ Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-14 12:18:53]     ✓ Job 4413586011: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:18:57]     ✓ Job 4408683410: ENGLISH SCIENCE TEACHER (AY 2026-2027) Starting in @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:19:01]     ✓ Job 4412799303: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:19:05]     ✓ Job 3984653056: English Teacher @ Premier Residences Phu Quoc Emerald Bay Managed by AccorHotels
+[2026-05-14 12:19:08]     ✓ Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-14 12:19:12]     ✓ Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-14 12:19:16]     ✓ Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-14 12:19:20]     ✓ Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 12:19:24]     ✓ Job 4406556162: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:19:27]     ✓ Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-14 12:19:30]     ✓ Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-14 12:19:34]     ✓ Job 4394474859: [HCM] International Program Teacher / Kindergarten @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:19:37]     ✓ Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-14 12:19:41]     ✓ Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-14 12:19:45]     ✓ Job 4321317044: Preschool ESL Teacher IMA Kindergarten (Thao Dien, @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:19:49]     ✓ Job 4399222770: [HANOI] Part-time Secondary Teachers needed for ou @ Atlantic Teacher Careers
+[2026-05-14 12:19:52]     ✓ Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-14 12:19:56]     ✓ Job 4413572607: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:19:59]     ✓ Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-14 12:20:03]     ✓ Job 4408677433: [CAN THO] PART - TIME ENGLISH TEACHERS AT ISMART E @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:20:07]     ✓ Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 12:20:10]     ✓ Job 3984654269: Giáo Viên Anh Văn - English Teacher ( Full time -  @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 12:20:14]     ✓ Job 4408665471: [Hanoi] Full-time MONTESSORI TEACHER - Currently i @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:20:17]     ✓ Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-14 12:20:20]     ✓ Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers
+[2026-05-14 12:20:24]     ✓ Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-14 12:20:27]     ✓ Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-14 12:20:31]     ✓ Job 4383109851: STEAM TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:20:35]     ✓ Job 4397282121: English Science Teacher (AY 2026–2027) – Ha Noi @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:20:39]     ✓ Job 4399222766: [Ha Noi] Atlantic Five-Star English- Full-Time Sec @ Atlantic Teacher Careers
+[2026-05-14 12:20:43]     ✓ Job 4414545088: English Teacher (Work From Home) @ Quik Hire Staffing
+[2026-05-14 12:20:46]     ✓ Job 4407005419: Primary Years Programme (PYP) Homeroom Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:20:50]     ✓ Job 4399232293: [Hanoi] [FSEL] Video Teachers for new academic pro @ Atlantic Teacher Careers
+[2026-05-14 12:20:54]     ✓ Job 4413514291: [HCM] Teacher Care and Recruitment Executive @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-14 12:20:58]     ✓ Job 4344863514: Korean-English Language Instructor @ DataAnnotation
+[2026-05-14 12:21:02]     ✓ Job 4407574831: Senior Game Designer (Onsite Hanoi, Danang or HCMC @ Gear Games
+[2026-05-14 12:21:05]     ✓ Job 4402911019: Events & Outreach Manager @ International School Ho Chi Minh City
+[2026-05-14 12:21:09]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:21:10]   LinkedIn search: ielts teacher vietnam
+[2026-05-14 12:21:14]     Found 61 IDs total, 46 new
+[2026-05-14 12:21:16]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:21:20]     ✓ Job 4309687837: ESL Instructor @ DataAnnotation
+[2026-05-14 12:21:24]     ✓ Job 4387377883: [Nha Trang - Khanh Hoa] Full-time Primary Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:21:28]     ✓ Job 4392892234: Online Teacher Wanted! Teaching All Levels @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:21:31]     ✓ Job 4407030103: Early Years Teachers Needed in Vietnam, EDVECTUS L @ Guardian Jobs
+[2026-05-14 12:21:35]     ✓ Job 4407019213: [HANOI] School Partnership Primary school Teacher  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:21:39]     ✓ Job 4198828058: Vietnam TEFL Internship @ TEFL UK
+[2026-05-14 12:21:42]     ✓ Job 4394486021: [Hanoi] Full-time Teachers (Cambridge Programme) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:21:46]     ✓ Job 4387396181: [HCM] Expat Teacher - Currently living in Viet Nam @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:21:49]     ✓ Job 4402610386: Giáo viên Tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:21:53]     ✓ Job 4398112798: Primary Math/Science and ELA Teachers - Starting A @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:21:56]     ✓ Job 4393551428: &#124;Phú Quốc&#124; Trợ giảng môn Toán (Giáo viên @ Vinschool
+[2026-05-14 12:22:00]     ✓ Job 3984646917: Giáo viên tiếng Anh @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 12:22:04]     ✓ Job 4411990651: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Full @ Jaxtina English Center
+[2026-05-14 12:22:08]     ✓ Job 4411619050: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 12:22:12]     ✓ Job 4393476031: AS - A Level CHEMISTRY TEACHERS - FULL TIME - STAR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:22:15]     ✓ Job 4408673405: LOWER SECONDARY SCIENCE TEACHERS - FULL TIME - STA @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:22:19]     ✓ Job 4319080761: Reading and Writing Teacher @ Cosmo
+[2026-05-14 12:22:23]     ✓ Job 3984649362: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guide
+[2026-05-14 12:22:27]     ✓ Job 4409688826: Senior Trainer @ 7-Eleven Vietnam
+[2026-05-14 12:22:31]     ✓ Job 4412721825: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 12:22:35]     ✓ Job 4402623222: Giáo viên tiếng anh @ Kingdom
+[2026-05-14 12:22:38]     ✓ Job 4402961140: Trợ giảng (Giáo viên nguồn) Tiểu học @ Vinschool
+[2026-05-14 12:22:42]     ✓ Job 4408281031: Giáo viên Tiểu học - Vinschool Golden River (Quận  @ Vinschool
+[2026-05-14 12:22:46]     ✓ Job 4393475164: AS - A Level MATHS TEACHERS - FULL TIME - START JU @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:22:50]     ✓ Job 4393465424: AS - A Level PHYSICS TEACHERS - FULL TIME - START  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:22:54]     ✓ Job 4390579089: English and Communication Trainer (Attractive pack @ Crossian
+[2026-05-14 12:22:57]     ✓ Job 3984650079: Giảng viên và Chuyên viên @ USSH-VNUHCM I Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia TP.HCM
+[2026-05-14 12:23:01]     ✓ Job 4401112892: Giáo viên tiếng Anh-Toàn thời gian @ KINDLE
+[2026-05-14 12:23:05]     ✓ Job 4377696996: International Baccalaureate (IB) teaching position @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:23:08]     ✓ Job 4367503207: Educador/a de Infância @ Santa Casa da Misericórdia da Mealhada
+[2026-05-14 12:23:12]     ✓ Job 4394472896: GLOBAL PERSPECTIVES TEACHERS - FULL TIME - START J @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:23:15]     ✓ Job 4403155980: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital
+[2026-05-14 12:23:18]     ✓ Job 4413292356: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 12:23:22]     ✓ Job 4413534372: Primary EAL Teacher @ Nord Anglia Education
+[2026-05-14 12:23:25]     ✓ Job 4402620331: Giáo viên @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:23:29]     ✓ Job 4396399637: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital Philippines
+[2026-05-14 12:23:33]     ✓ Job 4357457958: Expression of Interest – Casual Academic @ RMIT University Vietnam
+[2026-05-14 12:23:37]     ✓ Job 4402604584: Tuyển giáo viên tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:23:41]     ✓ Job 4411253909: Teacher @ English 1
+[2026-05-14 12:23:44]     ✓ Job 4402625241: Trợ giảng, giáo viên tiếng Anh @ CP
+[2026-05-14 12:23:47]     ✓ Job 4253472556: Giáo viên IELTS Part-time @ Pasal International JSC
+[2026-05-14 12:23:51]     ✓ Job 4402613315: GIÁO VIÊN @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:23:55]     ✓ Job 4402626279: Giáo viên mầm non @ Trường Thắng
+[2026-05-14 12:23:59]     ✓ Job 4412621880: Expat Primary Teacher @ US Vietnam Talent International School
+[2026-05-14 12:24:02]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:24:05]   LinkedIn search: business teacher vietnam
+[2026-05-14 12:24:08]     Found 4 IDs total, 4 new
+[2026-05-14 12:24:10]     ✓ Job 4394473919: ECONOMICS TEACHERS - FULL TIME - START JULY 2026 ( @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:24:14]     ✓ Job 4413540414: Business Studies Teacher – International School in @ Guardian Jobs
+[2026-05-14 12:24:17]     ✓ Job 4390033021: [Hanoi, Vietnam] Urgent: DP Economics Teacher (Mic @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:24:21]     ✓ Job 4394473919: ECONOMICS TEACHERS - FULL TIME - START JULY 2026 ( @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:24:23]   LinkedIn search: economics teacher vietnam
+[2026-05-14 12:24:27]     Found 61 IDs total, 43 new
+[2026-05-14 12:24:30]     ✓ Job 4406131083: Lecturer in Macroeconomics @ Vietnamese-German University
+[2026-05-14 12:24:33]     ✓ Job 4406150588: Full-time lecturer in Macroeconomics @ Vietnamese-German University
+[2026-05-14 12:24:37]     ✓ Job 4336755361: Faculty of Economics (for Innovation and Sustainab @ VinUniversity
+[2026-05-14 12:24:40]     ✓ Job 4400426193: Lecturer, Economics (Casual - SGS and HN) @ RMIT University Vietnam
+[2026-05-14 12:24:44]     ✓ Job 4385434358: Lecturer, International Business @ RMIT University Vietnam
+[2026-05-14 12:24:48]     ✓ Job 4336715378: Faculty of Business (for Innovation and Sustainabl @ VinUniversity
+[2026-05-14 12:24:52]     ✓ Job 4402398470: Tuyển Dụng Giảng Viên Giảng Dạy Quản Lý Tài Chính  @ Trung tâm đào tạo Kế Toán Lê Ánh
+[2026-05-14 12:24:55]     ✓ Job 4402624373: Giáo viên @ High School for Gifted Students, Hanoi National University of Education
+[2026-05-14 12:24:59]     ✓ Job 4414427117: Essay Coach @ AMERICAN STUDY
+[2026-05-14 12:25:03]     ✓ Job 4386237792: Unknown @ Dak kindercentra
+[2026-05-14 12:25:06]     ✓ Job 4315428143: VLSC Tuyển dụng 2022: Trưởng ngành và Giảng viên @ CAO ĐẲNG VĂN LANG SÀI GÒN
+[2026-05-14 12:25:10]     ✓ Job 4403928406: Macroeconomic Modeler (EViews) | Remote @ Crossing Hurdles
+[2026-05-14 12:25:14]     ✓ Job 4304436428: Vietnamese Tutor @ DataAnnotation
+[2026-05-14 12:25:17]     ✓ Job 4323914027: Online Tutor @ Cosmo
+[2026-05-14 12:25:21]     ✓ Job 4305149870: Language Teacher @ DataAnnotation
+[2026-05-14 12:25:25]     ✓ Job 4323912047: Online Tutor @ Cosmo
+[2026-05-14 12:25:28]     ✓ Job 4315420226: VLSC Thông báo tuyển dụng Giảng viên @ CAO ĐẲNG VĂN LANG SÀI GÒN
+[2026-05-14 12:25:32]     ✓ Job 4410322728: Psychology Teacher @ Singapore International School (SIS)
+[2026-05-14 12:25:35]     ✓ Job 4407680931: Greater Manchester Practice Tutor Assessor (Ref: 1 @ HM Prison and Probation Service
+[2026-05-14 12:25:39]     ✓ Job 4402399484: Tuyển Dụng Giảng Viên Giảng Dạy Kế Toán Online và  @ Trung tâm đào tạo Kế Toán Lê Ánh
+[2026-05-14 12:25:43]     ✓ Job 4405810278: Investment Facilitation Expert – Business and Inve @ NTU International A/S
+[2026-05-14 12:25:46]     ✓ Job 4405679747: Trade Facilitation Expert – Business and Investmen @ NTU International A/S
+[2026-05-14 12:25:50]     ✓ Job 4414536531: Language Teacher (Work From Home) @ Quik Hire Staffing
+[2026-05-14 12:25:54]     ✓ Job 4406978432: Education Specialist | $40/hr Remote @ Crossing Hurdles
+[2026-05-14 12:25:57]     ✓ Job 4410478106: Advisor, Economics and Financial Markets Analysis @ Techcombank (TCB)
+[2026-05-14 12:26:01]     ✓ Job 4402600451: Giáo Viên Môn Xã Hội @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-14 12:26:05]     ✓ Job 4378630652: VIETNAMESE PE TEACHER FOR AY 26/27 (HẾT HẠN) @ TH School
+[2026-05-14 12:26:08]     ✓ Job 4410478613: Advisor, Economics and Financial Markets Analysis  @ Techcombank (TCB)
+[2026-05-14 12:26:12]     ✓ Job 4402617329: Giáo viên ngoại ngữ @ HTC Viễn Thông Quốc Tế
+[2026-05-14 12:26:16]     ✓ Job 4386247446: Unknown @ Dak kindercentra
+[2026-05-14 12:26:19]     ✓ Job 4412749431: Academic Officer @ Vinschool
+[2026-05-14 12:26:23]     ✓ Job 4398008102: Giáo viên các bộ môn (Toán, Văn, KHTN, KHXH, Âm nh @ Vinschool
+[2026-05-14 12:26:27]     ✓ Job 4400427121: Chemistry/Physics Teacher, Foundation Studies Prog @ RMIT University
+[2026-05-14 12:26:30]     ✓ Job 4402620387: Gia Sư dạy kèm @ trung tâm gia sư
+[2026-05-14 12:26:34]     ✓ Job 4410115885: Senior Researcher @ CRIF
+[2026-05-14 12:26:37]     ✓ Job 4402610381: Giáo viên mầm non @ HTC Viễn Thông Quốc Tế
+[2026-05-14 12:26:41]     ✓ Job 4390827830: VIETNAMESE MATHS SECONDARY SCHOOL CO-TEACHER FOR H @ TH School
+[2026-05-14 12:26:45]     ✓ Job 4402617368: Giáo Viên Mầm non @ Viện Tài Chính Vi Mô Và Phát Triển Cộng Đồng (macdi)
+[2026-05-14 12:26:48]     ✓ Job 4381138645: Tutoring Specialist - Freelance AI Trainer Project @ Meridial Marketplace, by Invisible
+[2026-05-14 12:26:52]     ✓ Job 4413949667: Science Teacher @ Teach East
+[2026-05-14 12:26:56]     ✓ Job 4402621290: Giáo Viên Toán - Khoa Học @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-14 12:26:59]     ✓ Job 4380966781: Securities & Commodities Specialist - Freelance AI @ Meridial Marketplace, by Invisible
+[2026-05-14 12:27:03]     ✓ Job 4408660759: Finance Offline Teacher / Giáo viên Tài chính Part @ BrightCHAMPS
+[2026-05-14 12:27:05]   LinkedIn search: esl teacher vietnam
+[2026-05-14 12:27:08]     Found 40 IDs total, 1 new
+[2026-05-14 12:27:11]     ✓ Job 4410378519: Academic Supervisor (ESL Certification & Standards @ Step Up Education
+[2026-05-14 12:27:13]   LinkedIn: collected 153 raw jobs
+[2026-05-14 12:27:13] Scraping Vietnamworks (Playwright)...
+[2026-05-14 12:27:13]     Vietnamworks: english teacher ho-chi-minh-vn page 0
+[2026-05-14 12:27:15]       Found 0 job cards on page
+[2026-05-14 12:27:15]       Found 0 job URLs via regex
+[2026-05-14 12:27:16]     Vietnamworks: english teacher ho-chi-minh-vn page 1
+[2026-05-14 12:27:19]       Found 0 job cards on page
+[2026-05-14 12:27:19]       Found 0 job URLs via regex
+[2026-05-14 12:27:21]     Vietnamworks: english teacher ha-noi-vn page 0
+[2026-05-14 12:27:24]       Found 0 job cards on page
+[2026-05-14 12:27:24]       Found 0 job URLs via regex
+[2026-05-14 12:27:25]     Vietnamworks: english teacher ha-noi-vn page 1
+[2026-05-14 12:27:28]       Found 0 job cards on page
+[2026-05-14 12:27:28]       Found 0 job URLs via regex
+[2026-05-14 12:27:29]     Vietnamworks: ielts teacher ho-chi-minh-vn page 0
+[2026-05-14 12:27:32]       Found 0 job cards on page
+[2026-05-14 12:27:32]       Found 0 job URLs via regex
+[2026-05-14 12:27:33]     Vietnamworks: ielts teacher ho-chi-minh-vn page 1
+[2026-05-14 12:27:36]       Found 0 job cards on page
+[2026-05-14 12:27:36]       Found 0 job URLs via regex
+[2026-05-14 12:27:38]     Vietnamworks: business english ho-chi-minh-vn page 0
+[2026-05-14 12:27:40]       Found 0 job cards on page
+[2026-05-14 12:27:40]       Found 0 job URLs via regex
+[2026-05-14 12:27:42]     Vietnamworks: business english ho-chi-minh-vn page 1
+[2026-05-14 12:27:44]       Found 0 job cards on page
+[2026-05-14 12:27:44]       Found 0 job URLs via regex
+[2026-05-14 12:27:46]   Vietnamworks: collected 0 raw jobs
+[2026-05-14 12:27:46]   Total raw jobs collected: 153
+[2026-05-14 12:29:15] 
+[2026-05-14 12:29:15] === Vietnam Job Scraper START: 20260514 ===
+[2026-05-14 12:29:15]   Loaded 21 existing jobs, 21 dedup hashes
+[2026-05-14 12:29:15] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-14 12:29:16]   LinkedIn search: english teacher vietnam
+[2026-05-14 12:29:19]     Found 58 IDs total, 58 new
+[2026-05-14 12:29:22]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:29:25]     ✓ Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:29:29]     ✓ Job 4309686917: English as a Second Language (ESL) Tutor @ DataAnnotation
+[2026-05-14 12:29:32]     ✓ Job 4402399810: Hiring FULL -TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:29:36]     ✓ Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:29:39]     ✓ Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:29:43]     ✓ Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:29:47]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-14 12:29:51]     ✓ Job 4403614509: [Hanoi] Secondary ESL Teachers for Premium Schools @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:29:54]     ✓ Job 4411982325: ESL Teacher | International School in Lao Cai, Vie @ Guardian Jobs
+[2026-05-14 12:29:58]     ✓ Job 4399236046: [Hanoi] Full-time Secondary teachers-Atlantic Five @ Atlantic Teacher Careers
+[2026-05-14 12:30:01]     ✓ Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-14 12:30:05]     ✓ Job 4412101892: FULL-TIME KINDERGARTEN ENGLISH TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:30:09]     ✓ Job 4414144018: [An Giang] FULLTIME ENGLISH TEACHERS @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:30:13]     ✓ Job 4406540565: SECONDARY ENGLISH TEACHER (Academic year 2026 - 20 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:30:17]     ✓ Job 4403951725: [Hanoi] FULL-TIME ESL-SCIENCE-MATH TEACHERS (CAMBR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:30:20]     ✓ Job 4409935466: EIV HCM - ENGLISH TEACHERS (FULLTIME/PARTIME) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:30:24]     ✓ Job 4198830029: Teach Vietnam - TJAP @ TEFL UK
+[2026-05-14 12:30:28]     ✓ Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-14 12:30:32]     ✓ Job 4280480549: English Teachers for Kindergarten school in Ha Noi @ Global TEFL - Global Language Training Ltd.
+[2026-05-14 12:30:36]     ✓ Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-14 12:30:40]     ✓ Job 4408683410: ENGLISH SCIENCE TEACHER (AY 2026-2027) Starting in @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:30:43]     ✓ Job 4413586011: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:30:47]     ✓ Job 4412799303: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:30:50]     ✓ Job 3984653056: English Teacher @ Premier Residences Phu Quoc Emerald Bay Managed by AccorHotels
+[2026-05-14 12:30:54]     ✓ Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-14 12:30:57]     ✓ Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-14 12:31:01]     ✓ Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-14 12:31:05]     ✓ Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 12:31:08]     ✓ Job 4406556162: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:31:12]     ✓ Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-14 12:31:16]     ✓ Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-14 12:31:20]     ✓ Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-14 12:31:23]     ✓ Job 4394474859: [HCM] International Program Teacher / Kindergarten @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:31:27]     ✓ Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-14 12:31:31]     ✓ Job 4321317044: Preschool ESL Teacher IMA Kindergarten (Thao Dien, @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:31:34]     ✓ Job 4399222770: [HANOI] Part-time Secondary Teachers needed for ou @ Atlantic Teacher Careers
+[2026-05-14 12:31:39]     ✓ Job 4413572607: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:31:42]     ✓ Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-14 12:31:46]     ✓ Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-14 12:31:49]     ✓ Job 4408677433: [CAN THO] PART - TIME ENGLISH TEACHERS AT ISMART E @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:31:53]     ✓ Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 12:31:57]     ✓ Job 4408665471: [Hanoi] Full-time MONTESSORI TEACHER - Currently i @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:32:00]     ✓ Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-14 12:32:04]     ✓ Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers
+[2026-05-14 12:32:07]     ✓ Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-14 12:32:11]     ✓ Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-14 12:32:16]     ✓ Job 4383109851: STEAM TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:32:19]     ✓ Job 4397282121: English Science Teacher (AY 2026–2027) – Ha Noi @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:32:22]     ✓ Job 4399222766: [Ha Noi] Atlantic Five-Star English- Full-Time Sec @ Atlantic Teacher Careers
+[2026-05-14 12:32:26]     ✓ Job 4414545088: English Teacher (Work From Home) @ Quik Hire Staffing
+[2026-05-14 12:32:29]     ✓ Job 4407005419: Primary Years Programme (PYP) Homeroom Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:32:33]     ✓ Job 4399232293: [Hanoi] [FSEL] Video Teachers for new academic pro @ Atlantic Teacher Careers
+[2026-05-14 12:32:36]     ✓ Job 4413514291: [HCM] Teacher Care and Recruitment Executive @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-14 12:32:40]     ✓ Job 4344863514: Korean-English Language Instructor @ DataAnnotation
+[2026-05-14 12:32:44]     ✓ Job 4407574831: Senior Game Designer (Onsite Hanoi, Danang or HCMC @ Gear Games
+[2026-05-14 12:32:48]     ✓ Job 4402911019: Events & Outreach Manager @ International School Ho Chi Minh City
+[2026-05-14 12:32:51]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:32:53]   LinkedIn search: ielts teacher vietnam
+[2026-05-14 12:32:56]     Found 61 IDs total, 46 new
+[2026-05-14 12:32:59]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:33:03]     ✓ Job 4309687837: ESL Instructor @ DataAnnotation
+[2026-05-14 12:33:07]     ✓ Job 4387377883: [Nha Trang - Khanh Hoa] Full-time Primary Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:33:10]     ✓ Job 4392892234: Online Teacher Wanted! Teaching All Levels @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:33:14]     ✓ Job 4407030103: Early Years Teachers Needed in Vietnam, EDVECTUS L @ Guardian Jobs
+[2026-05-14 12:33:17]     ✓ Job 4407019213: [HANOI] School Partnership Primary school Teacher  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:33:21]     ✓ Job 4198828058: Vietnam TEFL Internship @ TEFL UK
+[2026-05-14 12:33:25]     ✓ Job 4394486021: [Hanoi] Full-time Teachers (Cambridge Programme) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:33:28]     ✓ Job 4387396181: [HCM] Expat Teacher - Currently living in Viet Nam @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:33:32]     ✓ Job 4402610386: Giáo viên Tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:33:36]     ✓ Job 4398112798: Primary Math/Science and ELA Teachers - Starting A @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:33:39]     ✓ Job 4393551428: &#124;Phú Quốc&#124; Trợ giảng môn Toán (Giáo viên @ Vinschool
+[2026-05-14 12:33:43]     ✓ Job 3984646917: Giáo viên tiếng Anh @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 12:33:46]     ✓ Job 4411990651: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Full @ Jaxtina English Center
+[2026-05-14 12:33:51]     ✓ Job 4411619050: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 12:33:54]     ✓ Job 4393476031: AS - A Level CHEMISTRY TEACHERS - FULL TIME - STAR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:33:58]     ✓ Job 4408673405: LOWER SECONDARY SCIENCE TEACHERS - FULL TIME - STA @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:34:02]     ✓ Job 4319080761: Reading and Writing Teacher @ Cosmo
+[2026-05-14 12:34:05]     ✓ Job 3984649362: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guide
+[2026-05-14 12:34:10]     ✓ Job 4409688826: Senior Trainer @ 7-Eleven Vietnam
+[2026-05-14 12:34:13]     ✓ Job 4412721825: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 12:34:17]     ✓ Job 4402623222: Giáo viên tiếng anh @ Kingdom
+[2026-05-14 12:34:20]     ✓ Job 4402961140: Trợ giảng (Giáo viên nguồn) Tiểu học @ Vinschool
+[2026-05-14 12:34:24]     ✓ Job 4408281031: Giáo viên Tiểu học - Vinschool Golden River (Quận  @ Vinschool
+[2026-05-14 12:34:28]     ✓ Job 4393475164: AS - A Level MATHS TEACHERS - FULL TIME - START JU @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:34:32]     ✓ Job 4393465424: AS - A Level PHYSICS TEACHERS - FULL TIME - START  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:34:36]     ✓ Job 4390579089: English and Communication Trainer (Attractive pack @ Crossian
+[2026-05-14 12:34:39]     ✓ Job 3984650079: Giảng viên và Chuyên viên @ USSH-VNUHCM I Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia TP.HCM
+[2026-05-14 12:34:42]     ✓ Job 4401112892: Giáo viên tiếng Anh-Toàn thời gian @ KINDLE
+[2026-05-14 12:34:46]     ✓ Job 4377696996: International Baccalaureate (IB) teaching position @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:34:49]     ✓ Job 4367503207: Educador/a de Infância @ Santa Casa da Misericórdia da Mealhada
+[2026-05-14 12:34:53]     ✓ Job 4394472896: GLOBAL PERSPECTIVES TEACHERS - FULL TIME - START J @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:34:56]     ✓ Job 4403155980: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital
+[2026-05-14 12:35:00]     ✓ Job 4413292356: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 12:35:04]     ✓ Job 4413534372: Primary EAL Teacher @ Nord Anglia Education
+[2026-05-14 12:35:08]     ✓ Job 4402620331: Giáo viên @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:35:11]     ✓ Job 4396399637: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital Philippines
+[2026-05-14 12:35:15]     ✓ Job 4357457958: Expression of Interest – Casual Academic @ RMIT University Vietnam
+[2026-05-14 12:35:18]     ✓ Job 4402604584: Tuyển giáo viên tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:35:22]     ✓ Job 4411253909: Teacher @ English 1
+[2026-05-14 12:35:26]     ✓ Job 4402625241: Trợ giảng, giáo viên tiếng Anh @ CP
+[2026-05-14 12:35:29]     ✓ Job 4253472556: Giáo viên IELTS Part-time @ Pasal International JSC
+[2026-05-14 12:35:33]     ✓ Job 4402613315: GIÁO VIÊN @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 12:35:37]     ✓ Job 4402626279: Giáo viên mầm non @ Trường Thắng
+[2026-05-14 12:35:41]     ✓ Job 4412621880: Expat Primary Teacher @ US Vietnam Talent International School
+[2026-05-14 12:35:45]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:35:47]   LinkedIn search: business teacher vietnam
+[2026-05-14 12:35:50]     Found 4 IDs total, 4 new
+[2026-05-14 12:35:53]     ✓ Job 4394473919: ECONOMICS TEACHERS - FULL TIME - START JULY 2026 ( @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:35:56]     ✓ Job 4413540414: Business Studies Teacher – International School in @ Guardian Jobs
+[2026-05-14 12:36:00]     ✓ Job 4390033021: [Hanoi, Vietnam] Urgent: DP Economics Teacher (Mic @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:36:03]     ✓ Job 4394473919: ECONOMICS TEACHERS - FULL TIME - START JULY 2026 ( @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:36:06]   LinkedIn search: economics teacher vietnam
+[2026-05-14 12:36:09]     Found 12 IDs total, 6 new
+[2026-05-14 12:36:11]     ✓ Job 4401447112: [HANOI] School Partnership Secondary & High school @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:36:15]     ✓ Job 4413567763: Math Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:36:19]     ✓ Job 4414144028: Math-Science Teachers @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 12:36:22]     ✓ Job 4412728194: Mathematics & Python Expert - Freelance AI Trainer @ Mindrift
+[2026-05-14 12:36:26]     ✓ Job 4314697421: Mathematics Specialist (Fluent in German) - Freela @ Meridial Marketplace, by Invisible
+[2026-05-14 12:36:30]     ✓ Job 4315169155: Mathematics Specialist (Fluent in Korean) - Freela @ Meridial Marketplace, by Invisible
+[2026-05-14 12:36:32]   LinkedIn search: esl teacher vietnam
+[2026-05-14 12:36:36]     Found 40 IDs total, 2 new
+[2026-05-14 12:36:38]     ✓ Job 3984654269: Giáo Viên Anh Văn - English Teacher ( Full time -  @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 12:36:42]     ✓ Job 4410378519: Academic Supervisor (ESL Certification & Standards @ Step Up Education
+[2026-05-14 12:36:45]   LinkedIn: collected 116 raw jobs
+[2026-05-14 12:36:45] Scraping Vietnamworks (Playwright)...
+[2026-05-14 12:36:45]     Vietnamworks: english teacher ho-chi-minh-vn page 0
+[2026-05-14 12:36:47]       Found 0 job cards on page
+[2026-05-14 12:36:47]       Found 0 job URLs via regex
+[2026-05-14 12:36:49]     Vietnamworks: english teacher ho-chi-minh-vn page 1
+[2026-05-14 12:36:51]       Found 0 job cards on page
+[2026-05-14 12:36:51]       Found 0 job URLs via regex
+[2026-05-14 12:36:52]     Vietnamworks: english teacher ha-noi-vn page 0
+[2026-05-14 12:36:55]       Found 0 job cards on page
+[2026-05-14 12:36:55]       Found 0 job URLs via regex
+[2026-05-14 12:36:57]     Vietnamworks: english teacher ha-noi-vn page 1
+[2026-05-14 12:36:59]       Found 0 job cards on page
+[2026-05-14 12:36:59]       Found 0 job URLs via regex
+[2026-05-14 12:37:01]     Vietnamworks: ielts teacher ho-chi-minh-vn page 0
+[2026-05-14 12:37:04]       Found 0 job cards on page
+[2026-05-14 12:37:04]       Found 0 job URLs via regex
+[2026-05-14 12:37:05]     Vietnamworks: ielts teacher ho-chi-minh-vn page 1
+[2026-05-14 12:37:07]       Found 0 job cards on page
+[2026-05-14 12:37:07]       Found 0 job URLs via regex
+[2026-05-14 12:37:09]     Vietnamworks: business english ho-chi-minh-vn page 0
+[2026-05-14 12:37:12]       Found 0 job cards on page
+[2026-05-14 12:37:12]       Found 0 job URLs via regex
+[2026-05-14 12:37:14]     Vietnamworks: business english ho-chi-minh-vn page 1
+[2026-05-14 12:37:16]       Found 0 job cards on page
+[2026-05-14 12:37:16]       Found 0 job URLs via regex
+[2026-05-14 12:37:18]   Vietnamworks: collected 0 raw jobs
+[2026-05-14 12:37:18]   Total raw jobs collected: 116
+[2026-05-14 12:37:18]   Jobs matching profile (score >= 70): 2
+[2026-05-14 12:37:18]     Score 70: Full-time Public School Teachers in Ho Chi Minh | APPLY @ Legal & Teaching Jobs for Fore | Full-time | 600,000 VND
+[2026-05-14 12:37:18]     Score 70: [An Giang] FULLTIME ENGLISH TEACHERS @ Legal & Teaching Jobs for Fore | Full-time | 36,000,000 VND
+[2026-05-14 12:37:18]   New unique matched jobs: 2
+[2026-05-14 12:37:18]   Total jobs in data store: 23
+[2026-05-14 12:37:18]   XLS saved: /home/amrba/job_scraper/vietnam/vietnam_jobs_20260514.xlsx (23 jobs)
+[2026-05-14 12:37:19]   Cover letter generated: Legal  Teaching Jobs for Foreign Te_Full-time Public School Teachers in_20260514.docx
+[2026-05-14 12:37:19]   Cover letter generated: Legal  Teaching Jobs for Foreign Te_An Giang FULLTIME ENGLISH TEACHERS_20260514.docx
+[2026-05-14 12:37:19]   Cover letters generated: 2
+[2026-05-14 12:37:19] === Vietnam Job Scraper END: 2 new, 2 cover letters ===
