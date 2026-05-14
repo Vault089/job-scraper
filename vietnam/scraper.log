@@ -1,0 +1,1575 @@
+[2026-05-12 19:26:05] === Vietnam Job Scraper START: 20260512 ===
+[2026-05-12 19:26:05]   Loaded 0 existing jobs, 0 dedup hashes
+[2026-05-12 19:26:05] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-12 19:26:05]   LinkedIn search: english teacher vietnam
+[2026-05-12 19:26:12]     Found 60 IDs, 60 new
+[2026-05-12 19:26:18]   LinkedIn search: business teacher vietnam
+[2026-05-12 19:26:23]     Found 3 IDs, 3 new
+[2026-05-12 19:26:26]   LinkedIn search: economics teacher vietnam
+[2026-05-12 19:26:30]     Found 9 IDs, 4 new
+[2026-05-12 19:26:33]   LinkedIn search: high school teacher vietnam
+[2026-05-12 19:26:39]     Found 60 IDs, 38 new
+[2026-05-12 19:26:43]   LinkedIn search: esl teacher vietnam
+[2026-05-12 19:26:50]     Found 41 IDs, 1 new
+[2026-05-12 19:26:52]   LinkedIn search: ielts teacher vietnam
+[2026-05-12 19:27:00]     Found 60 IDs, 28 new
+[2026-05-12 19:27:04]   LinkedIn: collected 0 raw jobs
+[2026-05-12 19:27:04] Scraping Vietnamworks (Playwright)...
+[2026-05-12 19:27:04]   Vietnamworks page 0
+[2026-05-12 19:27:08]     Found 0 jobs, 0 new on page 0
+[2026-05-12 19:27:09]   Vietnamworks page 1
+[2026-05-12 19:27:12]     Found 0 jobs, 0 new on page 1
+[2026-05-12 19:27:13]   Vietnamworks page 2
+[2026-05-12 19:27:16]     Found 0 jobs, 0 new on page 2
+[2026-05-12 19:27:18]   Vietnamworks: collected 0 raw jobs
+[2026-05-12 19:27:18]   Total raw jobs collected: 0
+[2026-05-12 19:27:18]   Jobs matching profile: 0
+[2026-05-12 19:27:18]   Jobs matching profile: 0
+[2026-05-12 19:27:18]   New unique jobs (deduplicated): 0
+[2026-05-12 19:27:18]   Total jobs in history: 0
+[2026-05-12 19:27:18] No jobs to export.
+[2026-05-12 19:27:18]   Jobs qualifying for cover letters (>=70 pts): 0
+[2026-05-12 19:27:18] === Vietnam Job Scraper END: 0 new, 0 cover letters ===
+[2026-05-12 19:28:01] === Vietnam Job Scraper START: 20260512 ===
+[2026-05-12 19:28:01]   Loaded 0 existing jobs, 0 dedup hashes
+[2026-05-12 19:28:01] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-12 19:28:01]   LinkedIn search: english teacher vietnam
+[2026-05-12 19:28:09]     Found 61 IDs, 61 new
+[2026-05-12 19:28:16]     Job 4389540444: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:28:21]     Job 4386872829: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:28:27]     Job 4309686917: Skip to main content @ DataAnnotation
+[2026-05-12 19:28:32]     Job 4402399810: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:28:40]     Job 4386871859: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:28:47]     Job 4411982325: Skip to main content @ Guardian Jobs
+[2026-05-12 19:28:54]     Job 4386891010: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:29:22]     Job 4198828076: Skip to main content @ TEFL UK
+[2026-05-12 19:29:27]     Job 4403614509: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:29:56]     Job 4339514282: Skip to main content @ TEFL UK
+[2026-05-12 19:30:03]     Job 4412101892: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:30:10]     Job 4405352013: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:30:38]     Job 4406540565: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:30:44]     Job 4403951725: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:30:49]     Job 4198830029: Skip to main content @ TEFL UK
+[2026-05-12 19:30:56]     Job 4304449239: Skip to main content @ DataAnnotation
+[2026-05-12 19:31:04]     Job 4280480549: Skip to main content @ Global TEFL - Global Language Training Ltd.
+[2026-05-12 19:31:09]     Job 4299039549: Skip to main content @ TEFL UK
+[2026-05-12 19:31:17]     Job 4408683410: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:31:43]     Job 4401449019: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:31:49]     Job 4304433444: Skip to main content @ DataAnnotation
+[2026-05-12 19:31:57]     Job 3984649452: Skip to main content @ Trường Thắng
+[2026-05-12 19:32:04]     Job 4401107973: Skip to main content @ Day A
+[2026-05-12 19:32:12]     Job 3984646809: Skip to main content @ Trung Tâm Tiếng Anh Lesh
+[2026-05-12 19:32:19]     Job 4399236048: Skip to main content @ Atlantic Teacher Careers
+[2026-05-12 19:32:26]     Job 4406556162: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:32:34]     Job 3984649322: Skip to main content @ Anh Ngữ TalkFirst
+[2026-05-12 19:32:42]     Job 4394474859: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:32:48]     Job 3984647946: Skip to main content @ Anh Ngữ TalkFirst
+[2026-05-12 19:33:16]     Job 4399222770: Skip to main content @ Atlantic Teacher Careers
+[2026-05-12 19:33:23]     Job 4402616544: Skip to main content @ HTC Viễn Thông Quốc Tế
+[2026-05-12 19:33:31]     Job 4402625409: Skip to main content @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-12 19:33:38]     Job 4408677433: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:33:45]     Job 4413247154: Skip to main content @ Australian International School, Vietnam
+[2026-05-12 19:33:52]     Job 3984655222: Skip to main content @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-12 19:33:59]     Job 4401105932: Skip to main content @ The DO
+[2026-05-12 19:34:06]     Job 4408665471: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:34:11]     Job 3984647670: Skip to main content @ Trung Tam
+[2026-05-12 19:34:19]     Job 4412782943: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:34:27]     Job 4399236049: Skip to main content @ Atlantic Teacher Careers
+[2026-05-12 19:34:34]     Job 4396065311: Skip to main content @ Ninja Teacher TEFL Academy
+[2026-05-12 19:34:41]     Job 4386483414: Skip to main content @ LUKglobal
+[2026-05-12 19:34:49]     Job 4383109851: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:34:56]     Job 4399222766: Skip to main content @ Atlantic Teacher Careers
+[2026-05-12 19:35:03]     Job 4401025481: Skip to main content @ Apollo English Vietnam
+[2026-05-12 19:35:11]     Job 4397282121: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:35:16]     Job 4402131381: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:35:22]     Job 4407005419: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:35:30]     Job 4399232293: Skip to main content @ Atlantic Teacher Careers
+[2026-05-12 19:35:35]     Job 4413514291: Skip to main content @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-12 19:35:42]     Job 4413504635: Skip to main content @ EduCave
+[2026-05-12 19:35:50]     Job 4344863514: Skip to main content @ DataAnnotation
+[2026-05-12 19:35:57]     Job 4360953778: Skip to main content @ Hệ thống Anh ngữ Quốc tế Queen
+[2026-05-12 19:36:05]     Job 4407574831: Skip to main content @ Gear Games
+[2026-05-12 19:36:13]     Job 4402911019: Skip to main content @ International School Ho Chi Minh City
+[2026-05-12 19:36:20]     Job 4389540444: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:36:23]   LinkedIn search: business teacher vietnam
+[2026-05-12 19:36:27]     Found 3 IDs, 3 new
+[2026-05-12 19:36:32]     Job 4413540414: Skip to main content @ Guardian Jobs
+[2026-05-12 19:36:38]     Job 4394473919: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:36:46]     Job 4390033021: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:36:49]   LinkedIn search: economics teacher vietnam
+[2026-05-12 19:36:55]     Found 9 IDs, 4 new
+[2026-05-12 19:37:01]     Job 4398112798: Skip to main content @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:37:09]     Job 4412728194: Skip to main content @ Mindrift
+[2026-05-12 19:37:35]     Job 4315169155: Skip to main content @ Meridial Marketplace, by Invisible
+[2026-05-12 19:37:38]   LinkedIn search: high school teacher vietnam
+[2026-05-12 19:39:41] === Vietnam Job Scraper START: 20260512 ===
+[2026-05-12 19:39:41]   Loaded 0 existing jobs, 0 dedup hashes
+[2026-05-12 19:39:41] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-12 19:39:41]   LinkedIn search: english teacher vietnam
+[2026-05-12 19:39:48]     Found 60 IDs, 60 new
+[2026-05-12 19:52:20] === Vietnam Job Scraper START: 20260512 ===
+[2026-05-12 19:52:20]   Loaded 0 existing jobs, 0 dedup hashes
+[2026-05-12 19:52:20] Scraping LinkedIn Vietnam (Playwright, parallel)...
+[2026-05-12 19:52:21]   LinkedIn search: english teacher vietnam
+[2026-05-12 19:52:24]     Found 60 IDs, 60 new
+[2026-05-12 19:52:24]     Job 4309686917 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcbd80 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4386872829 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4411982325 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9180 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4386871859 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4403614509 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4399236046 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4339514282 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4412101892 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4389540444 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb400 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4409935466 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb400 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4406540565 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb400 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4405352013 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4403951725 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb400 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4198830029 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4304449239 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb400 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4386891010 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcbd80 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4402399810 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fe0d80 (otid=0x76eb500011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4299039549 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb400 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4198828076 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9180 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4386873669 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9b00 (otid=0x76eb480011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4408683410 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcbd80 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4304433444 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9b00 (otid=0x76eb480011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4412799303 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fe0d80 (otid=0x76eb500011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4401449019 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9180 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 3984653056 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb400 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 3984649452 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcbd80 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4401107973 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9b00 (otid=0x76eb480011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4406556162 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb400 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4280480549 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4394474859 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9b00 (otid=0x76eb480011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4321317044 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4399236048 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9180 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4408677433 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9180 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 3984647946 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb400 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4402616544 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 3984649322 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcbd80 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4399222770 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9b00 (otid=0x76eb480011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 3984655222 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4408665471 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4413247154 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb400 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4402625409 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9180 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4401105932 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcbd80 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 3984654269 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9b00 (otid=0x76eb480011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4412782943 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb400 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 3984646809 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fe0d80 (otid=0x76eb500011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4386483414 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9b00 (otid=0x76eb480011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4399236049 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9180 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4396065311 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcbd80 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4402131381 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcbd80 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4399222766 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fe0d80 (otid=0x76eb500011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4397282121 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9180 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4413514291 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9180 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4383109851 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb400 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4401025481 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9b00 (otid=0x76eb480011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4413504635 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9180 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 3984647670 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb6c0 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4407005419 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcbd80 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4344863514 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fcb400 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4399232293 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67fe0d80 (otid=0x76eb500011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:24]     Job 4360953778 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb67ff9b00 (otid=0x76eb480011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:26]   LinkedIn search: business teacher vietnam
+[2026-05-12 19:52:32]     Found 3 IDs, 3 new
+[2026-05-12 19:52:32]     Job 4394473919 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66cb1f80 (otid=0x76eb50003360) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:32]     Job 4390033021 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66cb2340 (otid=0x76eb60006af0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:32]     Job 4413540414 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66cb1dc0 (otid=0x76eb48001690) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:34]   LinkedIn search: economics teacher vietnam
+[2026-05-12 19:52:37]     Found 9 IDs, 4 new
+[2026-05-12 19:52:37]     Job 4398112798 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66cf9b00 (otid=0x76eb480016d0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:37]     Job 4412728194 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66cf9c40 (otid=0x76eb500016b0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:37]     Job 4315169155 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66cf9c40 (otid=0x76eb500016b0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:37]     Job 4314697421 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66cfa0c0 (otid=0x76eb600071c0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:39]   LinkedIn search: high school teacher vietnam
+[2026-05-12 19:52:42]     Found 60 IDs, 38 new
+[2026-05-12 19:52:42]     Job 4394486021 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b570c0 (otid=0x76eb60006af0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4392892234 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b570c0 (otid=0x76eb60006af0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4387396181 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6c3c0 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4367503207 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57a00 (otid=0x76eb48001690) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4407030103 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57540 (otid=0x76eb50003360) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4346154547 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6cb80 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4408281031 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57540 (otid=0x76eb50003360) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4393551428 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b570c0 (otid=0x76eb60006af0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4198828058 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6d600 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4309687837 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57a00 (otid=0x76eb48001690) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 3984650079 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57540 (otid=0x76eb50003360) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 3984649362 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6c3c0 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4402961140 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57540 (otid=0x76eb50003360) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4393475164 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6cb80 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4393465424 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b570c0 (otid=0x76eb60006af0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4409688826 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b570c0 (otid=0x76eb60006af0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4408673405 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57a00 (otid=0x76eb48001690) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4402610386 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6c3c0 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4402624373 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57540 (otid=0x76eb50003360) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4407035021 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b570c0 (otid=0x76eb60006af0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4402620331 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6cb80 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4411619050 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6d600 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4393476031 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57a00 (otid=0x76eb48001690) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4411253909 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57540 (otid=0x76eb50003360) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4377696996 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6cb80 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4402626279 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b570c0 (otid=0x76eb60006af0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4402613315 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57a00 (otid=0x76eb48001690) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4386237792 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57a00 (otid=0x76eb48001690) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4412721825 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6cb80 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4411990651 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6d600 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4394472896 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57a00 (otid=0x76eb48001690) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 3984646917 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6c3c0 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4377910260 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6cb80 (otid=0x76eb580011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4408840787 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6d600 (otid=0x76eb540011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4402604584 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b6c3c0 (otid=0x76eb5c0011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4401112892 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57540 (otid=0x76eb50003360) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4402623222 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b57a00 (otid=0x76eb48001690) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:42]     Job 4402623254 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b570c0 (otid=0x76eb60006af0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:44]   LinkedIn search: esl teacher vietnam
+[2026-05-12 19:52:50]     Found 39 IDs, 1 new
+[2026-05-12 19:52:50]     Job 4394475227 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66b56700 (otid=0x76eb600071c0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:52]   LinkedIn search: ielts teacher vietnam
+[2026-05-12 19:52:55]     Found 60 IDs, 11 new
+[2026-05-12 19:52:55]     Job 4396399637 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb6691f580 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:55]     Job 4319080761 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb6691f840 (otid=0x76eb480011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:55]     Job 4406541546 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb6691f580 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:55]     Job 4407019213 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb6691f840 (otid=0x76eb480011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:55]     Job 4403155980 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66962340 (otid=0x76eb500011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:55]     Job 4390579089 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb6691f580 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:55]     Job 4387377883 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb6691f580 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:55]     Job 4357457958 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb6691f580 (otid=0x76eb600011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:55]     Job 4402625241 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb6691f840 (otid=0x76eb480011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:55]     Job 4412621880 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66963700 (otid=0x76eb5c0052c0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:55]     Job 4253472556 error: Cannot switch to a different thread
+	Current:  <greenlet.greenlet object at 0x76eb66962340 (otid=0x76eb500011a0) current active started main>
+	Expected: <greenlet.greenlet object at 0x76eb68292fc0 (otid=0x130feae0) suspended active started main>
+[2026-05-12 19:52:56]   LinkedIn: collected 0 raw jobs
+[2026-05-12 19:52:56] Scraping Vietnamworks (Playwright)...
+[2026-05-12 19:52:59]     Vietnamworks page 0: found 0 job URLs
+[2026-05-12 19:53:03]     Vietnamworks page 1: found 0 job URLs
+[2026-05-12 19:53:07]     Vietnamworks page 2: found 0 job URLs
+[2026-05-12 19:53:08]   Vietnamworks: collected 0 raw jobs
+[2026-05-12 19:53:08]   Total raw jobs collected: 0
+[2026-05-12 19:53:08]   Jobs matching profile: 0
+[2026-05-12 19:53:08]   New unique jobs: 0
+[2026-05-12 19:53:08]   Total jobs in history: 0
+[2026-05-12 19:53:08] No jobs to export.
+[2026-05-12 19:53:08]   Jobs qualifying for cover letters: 0
+[2026-05-12 19:53:08] === Vietnam Job Scraper END: 0 new, 0 cover letters ===
+[2026-05-12 19:55:06] === Vietnam Job Scraper START: 20260512 ===
+[2026-05-12 19:55:06]   Loaded 0 existing jobs, 0 dedup hashes
+[2026-05-12 19:55:06] Scraping LinkedIn Vietnam (Playwright, parallel)...
+[2026-05-12 19:55:06]   LinkedIn search: english teacher vietnam
+[2026-05-12 19:55:09]     Found 60 IDs, 60 new
+[2026-05-12 19:55:12]     Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:55:16]     Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:55:19]     Job 4309686917: English as a Second Language (ESL) Tutor @ DataAnnotation
+[2026-05-12 19:55:23]     Job 4402399810: Hiring FULL -TIME ESL Teachers in Ho Chi Minh City @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:55:26]     Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:55:30]     Job 4411982325: ESL Teacher | International School in Lao Cai, Vie @ Guardian Jobs
+[2026-05-12 19:55:34]     Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:55:37]     Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:55:41]     Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-12 19:55:45]     Job 4403614509: [Hanoi] Secondary ESL Teachers for Premium Schools @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:55:48]     Job 4399236046: [Hanoi] Full-time Secondary teachers-Atlantic Five @ Atlantic Teacher Careers
+[2026-05-12 19:55:52]     Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-12 19:55:56]     Job 4412101892: FULL-TIME KINDERGARTEN ENGLISH TEACHER @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:56:00]     Job 4405352013: [Hanoi] IELTS English Teachers| Up to 730,000 VND/ @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:56:04]     Job 4409935466: EIV HCM - ENGLISH TEACHERS (FULLTIME/PARTIME) @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:56:07]     Job 4406540565: SECONDARY ENGLISH TEACHER (Academic year 2026 - 20 @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:56:11]     Job 4403951725: [Hanoi] FULL-TIME ESL-SCIENCE-MATH TEACHERS (CAMBR @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:56:15]     Job 4198830029: Teach Vietnam - TJAP @ TEFL UK
+[2026-05-12 19:56:18]     Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-12 19:56:21]     Job 4280480549: English Teachers for Kindergarten school in Ha Noi @ Global TEFL - Global Language Training Ltd.
+[2026-05-12 19:56:25]     Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-12 19:56:29]     Job 4408683410: ENGLISH SCIENCE TEACHER (AY 2026-2027) Starting in @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:56:33]     Job 4412799303: ESL & GP Teacher (Lower Secondary) @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:56:37]     Job 4401449019: Cambridge International Teachers (English / Math / @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:56:40]     Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-12 19:56:44]     Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-12 19:56:48]     Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-12 19:56:52]     Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-12 19:56:56]     Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-12 19:57:00]     Job 4406556162: Part - Time ESL Teacher Wanted in Hanoi City @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:57:03]     Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-12 19:57:07]     Job 4394474859: [HCM] International Program Teacher / Kindergarten @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:57:11]     Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-12 19:57:14]     Job 4321317044: Preschool ESL Teacher IMA Kindergarten (Thao Dien, @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:57:18]     Job 4399222770: [HANOI] Part-time Secondary Teachers needed for ou @ Atlantic Teacher Careers
+[2026-05-12 19:57:22]     Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-12 19:57:26]     Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-12 19:57:29]     Job 4408677433: [CAN THO] PART - TIME ENGLISH TEACHERS AT ISMART E @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:57:33]     Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-12 19:57:37]     Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-12 19:57:40]     Job 4401105932: GIÁO VIÊN TIẾNG ANH @ The DO
+[2026-05-12 19:57:44]     Job 4408665471: [Hanoi] Full-time MONTESSORI TEACHER - Currently i @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:57:48]     Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-12 19:57:51]     Job 4412782943: English Teacher – Elementary Department (2026) @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:57:55]     Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers
+[2026-05-12 19:57:59]     Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-12 19:58:02]     Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-12 19:58:07]     Job 4383109851: STEAM TEACHER @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:58:11]     Job 4399222766: [Ha Noi] Atlantic Five-Star English- Full-Time Sec @ Atlantic Teacher Careers
+[2026-05-12 19:58:15]     Job 4401025481: Summer Camp English Teacher @ Apollo English Vietnam
+[2026-05-12 19:58:18]     Job 4397282121: English Science Teacher (AY 2026–2027) – Ha Noi @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:58:22]     Job 4402131381: [HCM] International Program Teacher (ELA Secondary @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:58:26]     Job 4407005419: Primary Years Programme (PYP) Homeroom Teacher @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 19:58:29]     Job 4399232293: [Hanoi] [FSEL] Video Teachers for new academic pro @ Atlantic Teacher Careers
+[2026-05-12 19:58:33]     Job 4413514291: [HCM] Teacher Care and Recruitment Executive @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-12 19:58:37]     Job 4413504635: Online English Tutor - Demo Class @ EduCave
+[2026-05-12 19:58:41]     Job 4344863514: Korean-English Language Instructor @ DataAnnotation
+[2026-05-12 19:58:44]     Job 4360953778: Giáo viên Tiếng Anh Part-time @ Hệ thống Anh ngữ Quốc tế Queen
+[2026-05-12 19:58:48]     Job 4407574831: Senior Game Designer (Onsite Hanoi, Danang or HCMC @ Gear Games
+[2026-05-12 19:58:52]     Job 4402911019: Events & Outreach Manager @ International School Ho Chi Minh City
+[2026-05-12 19:58:54]   LinkedIn search: ielts teacher vietnam
+[2026-05-12 19:58:57]     Found 60 IDs, 39 new
+[2026-05-12 19:59:00]     Job 4402617528: Trợ giảng IELTS @ Công Ty Cổ Phần Trung Tín
+[2026-05-12 19:59:04]     Job 4411990651: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Full @ Jaxtina English Center
+[2026-05-12 19:59:08]     Job 3984653056: English Teacher @ Premier Residences Phu Quoc Emerald Bay Managed by AccorHotels
+[2026-05-12 19:59:12]     Job 4292490347: Trợ giảng IELTS @ Pasal International JSC
+[2026-05-12 19:59:15]     Job 4253472556: Giáo viên IELTS Part-time @ Pasal International JSC
+[2026-05-12 19:59:19]     Job 4402617329: Giáo viên ngoại ngữ @ HTC Viễn Thông Quốc Tế
+[2026-05-12 19:59:22]     Job 4413534372: Primary EAL Teacher @ Nord Anglia Education
+[2026-05-12 19:59:26]     Job 4411253909: Teacher @ English 1
+[2026-05-12 19:59:30]     Job 4305149870: Language Teacher @ DataAnnotation
+[2026-05-12 19:59:35]     Job 4319080761: Reading and Writing Teacher @ Cosmo
+[2026-05-12 19:59:38]     Job 4378630652: VIETNAMESE PE TEACHER FOR AY 26/27 (HẾT HẠN) @ TH School
+[2026-05-12 19:59:42]     Job 4323914027: Online Tutor @ Cosmo
+[2026-05-12 19:59:45]     Job 4315429069: Tuyển dụng Giảng viên khối ngành Ngôn ngữ @ CAO ĐẲNG VĂN LANG SÀI GÒN
+[2026-05-12 19:59:50]     Job 4411987685: [HN/HCM] Tuyển dụng giáo viên tiếng Anh TOEIC Full @ Jaxtina English Center
+[2026-05-12 19:59:53]     Job 4402624249: Giáo viên tiếng anh full time @ Trung Tâm Anh Ngữ WISE ENGLISH
+[2026-05-12 19:59:57]     Job 4402628219: Giáo viên Tiếng Anh @ Trung tâm anh ngữ Head English
+[2026-05-12 20:00:01]     Job 4402604584: Tuyển giáo viên tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-12 20:00:04]     Job 4386237792: Unknown @ Dak kindercentra
+[2026-05-12 20:00:08]     Job 4402624373: Giáo viên @ High School for Gifted Students, Hanoi National University of Education
+[2026-05-12 20:00:11]     Job 4401112892: Giáo viên tiếng Anh-Toàn thời gian @ KINDLE
+[2026-05-12 20:00:15]     Job 4411619050: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-12 20:00:19]     Job 4390579089: English and Communication Trainer (Attractive pack @ Crossian
+[2026-05-12 20:00:22]     Job 4315420226: VLSC Thông báo tuyển dụng Giảng viên @ CAO ĐẲNG VĂN LANG SÀI GÒN
+[2026-05-12 20:00:26]     Job 4288638790: Faculty of Multimedia Communications @ VinUniversity
+[2026-05-12 20:00:29]     Job 4402623222: Giáo viên tiếng anh @ Kingdom
+[2026-05-12 20:00:33]     Job 4402626241: Nhân viên đào tạo @ AROMA Tiếng Anh Cho Người Đi Làm
+[2026-05-12 20:00:36]     Job 3984654269: Giáo Viên Anh Văn - English Teacher ( Full time -  @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-12 20:00:40]     Job 4402625241: Trợ giảng, giáo viên tiếng Anh @ CP
+[2026-05-12 20:00:44]     Job 4348142246: TUYỂN DỤNG GIẢNG VIÊN – KHOA CÔNG NGHỆ VÀ KỸ THUẬT @ Vietnam Japan University, VNU Hanoi
+[2026-05-12 20:00:48]     Job 3984646917: Giáo viên tiếng Anh @ Trung Tâm Tiếng Anh Lesh
+[2026-05-12 20:00:52]     Job 4385434358: Lecturer, International Business @ RMIT University Vietnam
+[2026-05-12 20:00:55]     Job 4413249764: English Language Coach (English Native Speaker) @ Concentrix
+[2026-05-12 20:00:59]     Job 4412621880: Expat Primary Teacher @ US Vietnam Talent International School
+[2026-05-12 20:01:03]     Job 3984649362: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guide
+[2026-05-12 20:01:06]     Job 4402626384: GIÁO VIÊN TIẾNG ANH/ GV TIỂU HỌC @ Trung Tam
+[2026-05-12 20:01:10]     Job 4403409061: Trainer - English (Hanoi) @ TELUS Digital
+[2026-05-12 20:01:14]     Job 4407680931: Greater Manchester Practice Tutor Assessor (Ref: 1 @ HM Prison and Probation Service
+[2026-05-12 20:01:17]     Job 4401284747: Lecturer, Business & Technology @ RMIT University Vietnam
+[2026-05-12 20:01:20]     Job 4402610358: Giảng viên Tiếng Anh @ Công Ty TNHH Tư Vấn James
+[2026-05-12 20:01:23]   LinkedIn: collected 99 raw jobs
+[2026-05-12 20:01:23] Scraping Vietnamworks (Playwright)...
+[2026-05-12 20:01:25]     Vietnamworks page 0: found 0 job URLs
+[2026-05-12 20:01:29]     Vietnamworks page 1: found 0 job URLs
+[2026-05-12 20:01:32]     Vietnamworks page 2: found 0 job URLs
+[2026-05-12 20:01:33]   Vietnamworks: collected 0 raw jobs
+[2026-05-12 20:01:33]   Total raw jobs collected: 99
+[2026-05-12 20:01:33]   Jobs matching profile: 7
+[2026-05-12 20:01:33]     New: [Hanoi] IELTS English Teachers| Up to 730,000 VND/ @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam (score: 80)
+[2026-05-12 20:01:33]     New: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers (score: 80)
+[2026-05-12 20:01:33]     New: [CAN THO] PART - TIME ENGLISH TEACHERS AT ISMART E @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam (score: 80)
+[2026-05-12 20:01:33]     New: Full-time Public School Teachers in Ho Chi Minh |  @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam (score: 75)
+[2026-05-12 20:01:33]     New: Teach Vietnam - Major @ TEFL UK (score: 75)
+[2026-05-12 20:01:33]     New: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam (score: 75)
+[2026-05-12 20:01:33]     New: [Ha Noi] Atlantic Five-Star English- Full-Time Sec @ Atlantic Teacher Careers (score: 75)
+[2026-05-12 20:01:33]   New unique jobs: 7
+[2026-05-12 20:01:33]   Total jobs in history: 7
+[2026-05-12 20:08:29]   Jobs matching profile: 7
+[2026-05-12 20:08:29]   XLS saved: /home/amrba/job_scraper/vietnam/vietnam_jobs_20260512.xlsx (7 jobs)
+[2026-05-12 20:41:20] === Vietnam Job Scraper START: 20260512 ===
+[2026-05-12 20:41:20]   Loaded 7 existing jobs, 7 dedup hashes
+[2026-05-12 20:41:20] Scraping LinkedIn Vietnam (Playwright, parallel)...
+[2026-05-12 20:41:23]   LinkedIn search: english teacher vietnam
+[2026-05-12 20:41:27]     Found 60 IDs, 60 new
+[2026-05-12 20:41:30]     Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-12 20:41:34]     Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-12 20:41:37]     Job 3984653056: English Teacher @ Premier Residences Phu Quoc Emerald Bay Managed by AccorHotels
+[2026-05-12 20:41:41]     Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-12 20:41:45]     Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-12 20:41:49]     Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-12 20:41:52]     Job 4402617329: Giáo viên ngoại ngữ @ HTC Viễn Thông Quốc Tế
+[2026-05-12 20:41:56]     Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-12 20:41:59]     Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:42:02]     Job 4411253909: Teacher @ English 1
+[2026-05-12 20:42:06]     Job 4402624249: Giáo viên tiếng anh full time @ Trung Tâm Anh Ngữ WISE ENGLISH
+[2026-05-12 20:42:10]     Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:42:14]     Job 4319080761: Reading and Writing Teacher @ Cosmo
+[2026-05-12 20:42:17]     Job 4390579089: English and Communication Trainer (Attractive pack @ Crossian
+[2026-05-12 20:42:21]     Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-12 20:42:24]     Job 4399236046: [Hanoi] Full-time Secondary teachers-Atlantic Five @ Atlantic Teacher Careers
+[2026-05-12 20:42:28]     Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-12 20:42:32]     Job 4399222766: [Ha Noi] Atlantic Five-Star English- Full-Time Sec @ Atlantic Teacher Careers
+[2026-05-12 20:42:35]     Job 4401112892: Giáo viên tiếng Anh-Toàn thời gian @ KINDLE
+[2026-05-12 20:42:39]     Job 4323914027: Online Tutor @ Cosmo
+[2026-05-12 20:42:42]     Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-12 20:42:45]     Job 4402604584: Tuyển giáo viên tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-12 20:42:49]     Job 3984654269: Giáo Viên Anh Văn - English Teacher ( Full time -  @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-12 20:42:52]     Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-12 20:42:55]     Job 4402623222: Giáo viên tiếng anh @ Kingdom
+[2026-05-12 20:42:59]     Job 4413534372: Primary EAL Teacher @ Nord Anglia Education
+[2026-05-12 20:43:02]     Job 4403409061: Trainer - English (Hanoi) @ TELUS Digital
+[2026-05-12 20:43:06]     Job 4402613315: GIÁO VIÊN @ Công Ty Cổ Phần Trung Tín
+[2026-05-12 20:43:09]     Job 4315412925: VLSC Tuyển dụng Phụ trách ngành Tiếng Anh, Marketi @ CAO ĐẲNG VĂN LANG SÀI GÒN
+[2026-05-12 20:43:13]     Job 4315429069: Tuyển dụng Giảng viên khối ngành Ngôn ngữ @ CAO ĐẲNG VĂN LANG SÀI GÒN
+[2026-05-12 20:43:16]     Job 4402628219: Giáo viên Tiếng Anh @ Trung tâm anh ngữ Head English
+[2026-05-12 20:43:20]     Job 4386237792: Unknown @ Dak kindercentra
+[2026-05-12 20:43:23]     Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-12 20:43:27]     Job 4413504635: Online English Tutor - Demo Class @ EduCave
+[2026-05-12 20:43:31]     Job 4402626384: GIÁO VIÊN TIẾNG ANH/ GV TIỂU HỌC @ Trung Tam
+[2026-05-12 20:43:34]     Job 4412721825: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-12 20:43:38]     Job 4280480549: English Teachers for Kindergarten school in Ha Noi @ Global TEFL - Global Language Training Ltd.
+[2026-05-12 20:43:42]     Job 4413249764: English Language Coach (English Native Speaker) @ Concentrix
+[2026-05-12 20:43:46]     Job 4402625241: Trợ giảng, giáo viên tiếng Anh @ CP
+[2026-05-12 20:43:49]     Job 4411990651: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Full @ Jaxtina English Center
+[2026-05-12 20:43:53]     Job 4378630652: VIETNAMESE PE TEACHER FOR AY 26/27 (HẾT HẠN) @ TH School
+[2026-05-12 20:43:56]     Job 4401105932: GIÁO VIÊN TIẾNG ANH @ The DO
+[2026-05-12 20:44:01]     Job 4402626241: Nhân viên đào tạo @ AROMA Tiếng Anh Cho Người Đi Làm
+[2026-05-12 20:44:04]     Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-12 20:44:08]     Job 4402610358: Giảng viên Tiếng Anh @ Công Ty TNHH Tư Vấn James
+[2026-05-12 20:44:12]     Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-12 20:44:16]     Job 4288638790: Faculty of Multimedia Communications @ VinUniversity
+[2026-05-12 20:44:19]     Job 4413557841: Tuyển dụng Giáo viên Tiếng anh Online (Part-time) @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-12 20:44:23]     Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-12 20:44:27]     Job 3984649362: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guide
+[2026-05-12 20:44:31]     Job 4292490347: Trợ giảng IELTS @ Pasal International JSC
+[2026-05-12 20:44:35]     Job 4411987685: [HN/HCM] Tuyển dụng giáo viên tiếng Anh TOEIC Full @ Jaxtina English Center
+[2026-05-12 20:44:38]     Job 4402622281: Trợ giảng tiếng anh @ Trung Tâm Anh Ngữ WISE ENGLISH
+[2026-05-12 20:44:42]     Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-12 20:44:45]     Job 4372060549: KDV Peutergroep VE @ Dak kindercentra
+[2026-05-12 20:44:49]     Job 4401104939: TRỢ GIẢNG TIẾNG ANH @ The DO
+[2026-05-12 20:44:53]     Job 4402624373: Giáo viên @ High School for Gifted Students, Hanoi National University of Education
+[2026-05-12 20:44:56]     Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-12 20:45:00]     Job 4410981304: Business English Trainer (Part-time) @ CodeLink
+[2026-05-12 20:45:04]     Job 4413293263: Communication Manager (English Language) @ Concentrix
+[2026-05-12 20:45:06]   LinkedIn search: ielts teacher vietnam
+[2026-05-12 20:45:09]     Found 60 IDs, 45 new
+[2026-05-12 20:45:12]     Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:45:16]     Job 4309687837: ESL Instructor @ DataAnnotation
+[2026-05-12 20:45:19]     Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:45:23]     Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:45:27]     Job 4387377883: [Nha Trang - Khanh Hoa] Full-time Primary Teacher @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:45:30]     Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-12 20:45:34]     Job 4392892234: Online Teacher Wanted! Teaching All Levels @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:45:37]     Job 4409935466: EIV HCM - ENGLISH TEACHERS (FULLTIME/PARTIME) @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:45:41]     Job 4407030103: Early Years Teachers Needed in Vietnam, EDVECTUS L @ Guardian Jobs
+[2026-05-12 20:45:44]     Job 4198830029: Teach Vietnam - TJAP @ TEFL UK
+[2026-05-12 20:45:48]     Job 4407019213: [HANOI] School Partnership Primary school Teacher  @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:45:52]     Job 4394486021: [Hanoi] Full-time Teachers (Cambridge Programme) @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:45:56]     Job 4198828058: Vietnam TEFL Internship @ TEFL UK
+[2026-05-12 20:45:59]     Job 4408665471: [Hanoi] Full-time MONTESSORI TEACHER - Currently i @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:46:03]     Job 4387396181: [HCM] Expat Teacher - Currently living in Viet Nam @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:46:07]     Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-12 20:46:11]     Job 4402610386: Giáo viên Tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-12 20:46:15]     Job 4411619050: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-12 20:46:18]     Job 4398112798: Primary Math/Science and ELA Teachers - Starting A @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:46:22]     Job 4393551428: &#124;Phú Quốc&#124; Trợ giảng môn Toán (Giáo viên @ Vinschool
+[2026-05-12 20:46:25]     Job 3984646917: Giáo viên tiếng Anh @ Trung Tâm Tiếng Anh Lesh
+[2026-05-12 20:46:30]     Job 4393476031: AS - A Level CHEMISTRY TEACHERS - FULL TIME - STAR @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:46:33]     Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers
+[2026-05-12 20:46:37]     Job 4408673405: LOWER SECONDARY SCIENCE TEACHERS - FULL TIME - STA @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:46:40]     Job 4409688826: Senior Trainer @ 7-Eleven Vietnam
+[2026-05-12 20:46:44]     Job 4383109851: STEAM TEACHER @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:46:48]     Job 4408281031: Giáo viên Tiểu học - Vinschool Golden River (Quận  @ Vinschool
+[2026-05-12 20:46:51]     Job 4402961140: Trợ giảng (Giáo viên nguồn) Tiểu học @ Vinschool
+[2026-05-12 20:46:55]     Job 4393475164: AS - A Level MATHS TEACHERS - FULL TIME - START JU @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:46:59]     Job 4393465424: AS - A Level PHYSICS TEACHERS - FULL TIME - START  @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:47:02]     Job 4407035021: Early Years Foundation Stage (EYFS) Teacher, EDVEC @ Guardian Jobs
+[2026-05-12 20:47:06]     Job 3984650079: Giảng viên và Chuyên viên @ USSH-VNUHCM I Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia TP.HCM
+[2026-05-12 20:47:10]     Job 4377696996: International Baccalaureate (IB) teaching position @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:47:13]     Job 4367503207: Educador/a de Infância @ Santa Casa da Misericórdia da Mealhada
+[2026-05-12 20:47:17]     Job 4394472896: GLOBAL PERSPECTIVES TEACHERS - FULL TIME - START J @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:47:21]     Job 4407005419: Primary Years Programme (PYP) Homeroom Teacher @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:47:25]     Job 4402131381: [HCM] International Program Teacher (ELA Secondary @ Legal &amp; Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-12 20:47:29]     Job 4403155980: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital
+[2026-05-12 20:47:32]     Job 4402620331: Giáo viên @ Công Ty Cổ Phần Trung Tín
+[2026-05-12 20:47:36]     Job 4396399637: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital Philippines
+[2026-05-12 20:47:40]     Job 4357457958: Expression of Interest – Casual Academic @ RMIT University Vietnam
+[2026-05-12 20:47:43]     Job 4253472556: Giáo viên IELTS Part-time @ Pasal International JSC
+[2026-05-12 20:47:47]     Job 4402626279: Giáo viên mầm non @ Trường Thắng
+[2026-05-12 20:47:51]     Job 4412621880: Expat Primary Teacher @ US Vietnam Talent International School
+[2026-05-12 20:47:55]     Job 4399232293: [Hanoi] [FSEL] Video Teachers for new academic pro @ Atlantic Teacher Careers
+[2026-05-12 20:47:57]   LinkedIn: collected 105 raw jobs
+[2026-05-12 20:47:57] Scraping Vietnamworks (Playwright)...
+[2026-05-12 20:47:59]     Vietnamworks page 0: found 0 job URLs
+[2026-05-12 20:48:03]     Vietnamworks page 1: found 0 job URLs
+[2026-05-12 20:48:07]     Vietnamworks page 2: found 0 job URLs
+[2026-05-12 20:48:08]   Vietnamworks: collected 0 raw jobs
+[2026-05-12 20:48:08]   Total raw jobs collected: 105
+[2026-05-12 20:48:08]   Jobs matching profile: 5
+[2026-05-12 20:48:08]   New unique jobs: 0
+[2026-05-12 20:48:08]   Total jobs in history: 7
+[2026-05-12 20:48:09]   XLS saved: /home/amrba/job_scraper/vietnam/vietnam_jobs_20260512.xlsx (7 jobs)
+[2026-05-12 20:48:09]   Jobs qualifying for cover letters: 0
+[2026-05-12 20:48:09] === Vietnam Job Scraper END: 0 new, 0 cover letters ===
+[2026-05-13 10:56:09] 
+[2026-05-13 10:56:09] === Vietnam Job Scraper START: 20260513 ===
+[2026-05-13 10:56:09]   Loaded 7 existing jobs, 7 dedup hashes
+[2026-05-13 10:56:09] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-13 10:56:15]   LinkedIn search: english teacher vietnam
+[2026-05-13 10:56:19]     Found 61 IDs total, 61 new
+[2026-05-13 10:56:23]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:56:26]     ✓ Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:56:31]     ✓ Job 4309686917: English as a Second Language (ESL) Tutor @ DataAnnotation
+[2026-05-13 10:56:35]     ✓ Job 4402399810: Hiring FULL -TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:56:39]     ✓ Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:56:42]     ✓ Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:56:46]     ✓ Job 4411982325: ESL Teacher | International School in Lao Cai, Vie @ Guardian Jobs
+[2026-05-13 10:56:50]     ✓ Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:56:54]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-13 10:56:59]     ✓ Job 4403614509: [Hanoi] Secondary ESL Teachers for Premium Schools @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:57:02]     ✓ Job 4399236046: [Hanoi] Full-time Secondary teachers-Atlantic Five @ Atlantic Teacher Careers
+[2026-05-13 10:57:06]     ✓ Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-13 10:57:10]     ✓ Job 4412101892: FULL-TIME KINDERGARTEN ENGLISH TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:57:14]     ✓ Job 4405352013: [Hanoi] IELTS English Teachers| Up to 730,000 VND/ @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:57:17]     ✓ Job 4406540565: SECONDARY ENGLISH TEACHER (Academic year 2026 - 20 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:57:21]     ✓ Job 4409935466: EIV HCM - ENGLISH TEACHERS (FULLTIME/PARTIME) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:57:25]     ✓ Job 4403951725: [Hanoi] FULL-TIME ESL-SCIENCE-MATH TEACHERS (CAMBR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:57:29]     ✓ Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-13 10:57:33]     ✓ Job 4198830029: Teach Vietnam - TJAP @ TEFL UK
+[2026-05-13 10:57:36]     ✓ Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-13 10:57:39]     ✓ Job 4280480549: English Teachers for Kindergarten school in Ha Noi @ Global TEFL - Global Language Training Ltd.
+[2026-05-13 10:57:43]     ✓ Job 4413586011: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:57:47]     ✓ Job 4412799303: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:57:50]     ✓ Job 4408683410: ENGLISH SCIENCE TEACHER (AY 2026-2027) Starting in @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:57:54]     ✓ Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-13 10:57:57]     ✓ Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-13 10:58:01]     ✓ Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-13 10:58:05]     ✓ Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-13 10:58:09]     ✓ Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-13 10:58:12]     ✓ Job 4406556162: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:58:17]     ✓ Job 4413572607: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:58:24]     ✓ Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-13 10:58:27]     ✓ Job 4394474859: [HCM] International Program Teacher / Kindergarten @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:58:31]     ✓ Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-13 10:58:35]     ✓ Job 4321317044: Preschool ESL Teacher IMA Kindergarten (Thao Dien, @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:58:39]     ✓ Job 4399222770: [HANOI] Part-time Secondary Teachers needed for ou @ Atlantic Teacher Careers
+[2026-05-13 10:58:43]     ✓ Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-13 10:58:47]     ✓ Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-13 10:58:51]     ✓ Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-13 10:58:55]     ✓ Job 4408677433: [CAN THO] PART - TIME ENGLISH TEACHERS AT ISMART E @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:58:58]     ✓ Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-13 10:59:02]     ✓ Job 4401105932: GIÁO VIÊN TIẾNG ANH @ The DO
+[2026-05-13 10:59:06]     ✓ Job 4408665471: [Hanoi] Full-time MONTESSORI TEACHER - Currently i @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:59:09]     ✓ Job 4412782943: English Teacher – Elementary Department (2026) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:59:17]     ✓ Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-13 10:59:21]     ✓ Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers
+[2026-05-13 10:59:25]     ✓ Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-13 10:59:28]     ✓ Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-13 10:59:33]     ✓ Job 4383109851: STEAM TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:59:36]     ✓ Job 4399222766: [Ha Noi] Atlantic Five-Star English- Full-Time Sec @ Atlantic Teacher Careers
+[2026-05-13 10:59:40]     ✓ Job 4397282121: English Science Teacher (AY 2026–2027) – Ha Noi @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:59:44]     ✓ Job 4401025481: Summer Camp English Teacher @ Apollo English Vietnam
+[2026-05-13 10:59:48]     ✓ Job 4410337321: [Online] English Tutor & Tester (Demo Class) @ Clevai Edtech Group
+[2026-05-13 10:59:52]     ✓ Job 4407005419: Primary Years Programme (PYP) Homeroom Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 10:59:55]     ✓ Job 4399232293: [Hanoi] [FSEL] Video Teachers for new academic pro @ Atlantic Teacher Careers
+[2026-05-13 10:59:58]     ✓ Job 4413504635: Online English Tutor - Demo Class @ EduCave
+[2026-05-13 11:00:02]     ✓ Job 4413514291: [HCM] Teacher Care and Recruitment Executive @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-13 11:00:06]     ✓ Job 4344863514: Korean-English Language Instructor @ DataAnnotation
+[2026-05-13 11:00:10]     ✓ Job 4360953778: Giáo viên Tiếng Anh Part-time @ Hệ thống Anh ngữ Quốc tế Queen
+[2026-05-13 11:00:14]     ✓ Job 4407574831: Senior Game Designer (Onsite Hanoi, Danang or HCMC @ Gear Games
+[2026-05-13 11:00:18]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:00:20]   LinkedIn search: ielts teacher vietnam
+[2026-05-13 11:00:24]     Found 61 IDs total, 46 new
+[2026-05-13 11:00:27]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:00:31]     ✓ Job 4309687837: ESL Instructor @ DataAnnotation
+[2026-05-13 11:00:35]     ✓ Job 4387377883: [Nha Trang - Khanh Hoa] Full-time Primary Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:00:39]     ✓ Job 4392892234: Online Teacher Wanted! Teaching All Levels @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:00:43]     ✓ Job 4407030103: Early Years Teachers Needed in Vietnam, EDVECTUS L @ Guardian Jobs
+[2026-05-13 11:00:46]     ✓ Job 4407019213: [HANOI] School Partnership Primary school Teacher  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:00:50]     ✓ Job 4394486021: [Hanoi] Full-time Teachers (Cambridge Programme) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:00:54]     ✓ Job 4198828058: Vietnam TEFL Internship @ TEFL UK
+[2026-05-13 11:00:58]     ✓ Job 4387396181: [HCM] Expat Teacher - Currently living in Viet Nam @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:01:01]     ✓ Job 4402610386: Giáo viên Tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-13 11:01:05]     ✓ Job 4411619050: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-13 11:01:09]     ✓ Job 4398112798: Primary Math/Science and ELA Teachers - Starting A @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:18:02] 
+[2026-05-13 11:18:02] === Vietnam Job Scraper START: 20260513 ===
+[2026-05-13 11:18:02]   Loaded 7 existing jobs, 7 dedup hashes
+[2026-05-13 11:18:02] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-13 11:18:03]   LinkedIn search: english teacher vietnam
+[2026-05-13 11:18:06]     Found 56 IDs total, 56 new
+[2026-05-13 11:18:09]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:18:13]     ✓ Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:18:17]     ✓ Job 4309686917: English as a Second Language (ESL) Tutor @ DataAnnotation
+[2026-05-13 11:18:21]     ✓ Job 4402399810: Hiring FULL -TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:18:24]     ✓ Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:18:28]     ✓ Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:18:32]     ✓ Job 4411982325: ESL Teacher | International School in Lao Cai, Vie @ Guardian Jobs
+[2026-05-13 11:18:36]     ✓ Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:18:40]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-13 11:18:44]     ✓ Job 4403614509: [Hanoi] Secondary ESL Teachers for Premium Schools @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:18:48]     ✓ Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-13 11:18:51]     ✓ Job 4412101892: FULL-TIME KINDERGARTEN ENGLISH TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:18:55]     ✓ Job 4405352013: [Hanoi] IELTS English Teachers| Up to 730,000 VND/ @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:18:59]     ✓ Job 4406540565: SECONDARY ENGLISH TEACHER (Academic year 2026 - 20 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:19:03]     ✓ Job 4409935466: EIV HCM - ENGLISH TEACHERS (FULLTIME/PARTIME) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:19:07]     ✓ Job 4403951725: [Hanoi] FULL-TIME ESL-SCIENCE-MATH TEACHERS (CAMBR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:19:11]     ✓ Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-13 11:19:14]     ✓ Job 4198830029: Teach Vietnam - TJAP @ TEFL UK
+[2026-05-13 11:19:18]     ✓ Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-13 11:19:22]     ✓ Job 4413586011: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:19:26]     ✓ Job 4412799303: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:19:31]     ✓ Job 4408683410: ENGLISH SCIENCE TEACHER (AY 2026-2027) Starting in @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:19:34]     ✓ Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-13 11:19:38]     ✓ Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-13 11:19:43]     ✓ Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-13 11:19:46]     ✓ Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-13 11:19:50]     ✓ Job 4406556162: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:19:53]     ✓ Job 4413572607: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:19:57]     ✓ Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-13 11:20:01]     ✓ Job 4394474859: [HCM] International Program Teacher / Kindergarten @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:20:04]     ✓ Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-13 11:20:08]     ✓ Job 4321317044: Preschool ESL Teacher IMA Kindergarten (Thao Dien, @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:20:12]     ✓ Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-13 11:20:16]     ✓ Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-13 11:20:19]     ✓ Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-13 11:20:23]     ✓ Job 4408677433: [CAN THO] PART - TIME ENGLISH TEACHERS AT ISMART E @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:20:27]     ✓ Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-13 11:20:30]     ✓ Job 4401105932: GIÁO VIÊN TIẾNG ANH @ The DO
+[2026-05-13 11:20:34]     ✓ Job 4408665471: [Hanoi] Full-time MONTESSORI TEACHER - Currently i @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:20:38]     ✓ Job 4412782943: English Teacher – Elementary Department (2026) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:20:42]     ✓ Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-13 11:20:46]     ✓ Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-13 11:20:49]     ✓ Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-13 11:20:53]     ✓ Job 4383109851: STEAM TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:20:57]     ✓ Job 4397282121: English Science Teacher (AY 2026–2027) – Ha Noi @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:21:01]     ✓ Job 4401025481: Summer Camp English Teacher @ Apollo English Vietnam
+[2026-05-13 11:21:04]     ✓ Job 4410337321: [Online] English Tutor & Tester (Demo Class) @ Clevai Edtech Group
+[2026-05-13 11:21:08]     ✓ Job 4407005419: Primary Years Programme (PYP) Homeroom Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:21:11]     ✓ Job 4413902549: English Teacher (Work From Home) @ Quik Hire Staffing
+[2026-05-13 11:21:15]     ✓ Job 4413504635: Online English Tutor - Demo Class @ EduCave
+[2026-05-13 11:21:19]     ✓ Job 4413514291: [HCM] Teacher Care and Recruitment Executive @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-13 11:21:23]     ✓ Job 4344863514: Korean-English Language Instructor @ DataAnnotation
+[2026-05-13 11:21:27]     ✓ Job 4360953778: Giáo viên Tiếng Anh Part-time @ Hệ thống Anh ngữ Quốc tế Queen
+[2026-05-13 11:21:31]     ✓ Job 4407574831: Senior Game Designer (Onsite Hanoi, Danang or HCMC @ Gear Games
+[2026-05-13 11:21:34]     ✓ Job 4402911019: Events & Outreach Manager @ International School Ho Chi Minh City
+[2026-05-13 11:21:38]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:21:41]   LinkedIn search: ielts teacher vietnam
+[2026-05-13 11:21:44]     Found 61 IDs total, 49 new
+[2026-05-13 11:21:47]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:21:50]     ✓ Job 4309687837: ESL Instructor @ DataAnnotation
+[2026-05-13 11:21:54]     ✓ Job 4387377883: [Nha Trang - Khanh Hoa] Full-time Primary Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:21:58]     ✓ Job 4392892234: Online Teacher Wanted! Teaching All Levels @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:22:02]     ✓ Job 4407030103: Early Years Teachers Needed in Vietnam, EDVECTUS L @ Guardian Jobs
+[2026-05-13 11:22:06]     ✓ Job 4407019213: [HANOI] School Partnership Primary school Teacher  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:22:10]     ✓ Job 4394486021: [Hanoi] Full-time Teachers (Cambridge Programme) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:22:13]     ✓ Job 4198828058: Vietnam TEFL Internship @ TEFL UK
+[2026-05-13 11:22:17]     ✓ Job 4387396181: [HCM] Expat Teacher - Currently living in Viet Nam @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:22:21]     ✓ Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-13 11:22:25]     ✓ Job 4402610386: Giáo viên Tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-13 11:22:29]     ✓ Job 4411619050: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-13 11:22:32]     ✓ Job 4398112798: Primary Math/Science and ELA Teachers - Starting A @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:22:36]     ✓ Job 4393551428: &#124;Phú Quốc&#124; Trợ giảng môn Toán (Giáo viên @ Vinschool
+[2026-05-13 11:22:40]     ✓ Job 4411990651: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Full @ Jaxtina English Center
+[2026-05-13 11:22:43]     ✓ Job 3984646917: Giáo viên tiếng Anh @ Trung Tâm Tiếng Anh Lesh
+[2026-05-13 11:22:47]     ✓ Job 4393476031: AS - A Level CHEMISTRY TEACHERS - FULL TIME - STAR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:22:51]     ✓ Job 4408673405: LOWER SECONDARY SCIENCE TEACHERS - FULL TIME - STA @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 11:22:54]     ✓ Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers
+[2026-05-13 11:22:58]     ✓ Job 4319080761: Reading and Writing Teacher @ Cosmo
+===== Scraper run started: Wed May 13 14:00:02 +07 2026 =====
+[2026-05-13 14:00:02] 
+[2026-05-13 14:00:02] === Vietnam Job Scraper START: 20260513 ===
+[2026-05-13 14:00:02]   Loaded 21 existing jobs, 21 dedup hashes
+[2026-05-13 14:00:02] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-13 14:00:05]   LinkedIn search: english teacher vietnam
+[2026-05-13 14:00:09]     Found 54 IDs total, 54 new
+[2026-05-13 14:00:12]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:16]     ✓ Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:20]     ✓ Job 4309686917: English as a Second Language (ESL) Tutor @ DataAnnotation
+[2026-05-13 14:00:24]     ✓ Job 4402399810: Hiring FULL -TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:28]     ✓ Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:36]     ✓ Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:44]     ✓ Job 4411982325: ESL Teacher | International School in Lao Cai, Vie @ Guardian Jobs
+[2026-05-13 14:00:48]     ✓ Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:51]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-13 14:00:55]     ✓ Job 4403614509: [Hanoi] Secondary ESL Teachers for Premium Schools @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:59]     ✓ Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-13 14:01:03]     ✓ Job 4412101892: FULL-TIME KINDERGARTEN ENGLISH TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:07]     ✓ Job 4405352013: [Hanoi] IELTS English Teachers| Up to 730,000 VND/ @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:11]     ✓ Job 4406540565: SECONDARY ENGLISH TEACHER (Academic year 2026 - 20 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:15]     ✓ Job 4409935466: EIV HCM - ENGLISH TEACHERS (FULLTIME/PARTIME) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:18]     ✓ Job 4403951725: [Hanoi] FULL-TIME ESL-SCIENCE-MATH TEACHERS (CAMBR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:23]     ✓ Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-13 14:01:27]     ✓ Job 4198830029: Teach Vietnam - TJAP @ TEFL UK
+[2026-05-13 14:01:31]     ✓ Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-13 14:01:35]     ✓ Job 4413586011: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:38]     ✓ Job 4412799303: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:42]     ✓ Job 4408683410: ENGLISH SCIENCE TEACHER (AY 2026-2027) Starting in @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:46]     ✓ Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-13 14:01:49]     ✓ Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-13 14:01:53]     ✓ Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-13 14:01:57]     ✓ Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-13 14:02:00]     ✓ Job 4406556162: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:04]     ✓ Job 4413572607: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:07]     ✓ Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-13 14:02:11]     ✓ Job 4394474859: [HCM] International Program Teacher / Kindergarten @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:14]     ✓ Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-13 14:02:18]     ✓ Job 4321317044: Preschool ESL Teacher IMA Kindergarten (Thao Dien, @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:22]     ✓ Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-13 14:02:26]     ✓ Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-13 14:02:30]     ✓ Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-13 14:02:34]     ✓ Job 4408677433: [CAN THO] PART - TIME ENGLISH TEACHERS AT ISMART E @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:38]     ✓ Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-13 14:02:41]     ✓ Job 4401105932: GIÁO VIÊN TIẾNG ANH @ The DO
+[2026-05-13 14:02:45]     ✓ Job 4408665471: [Hanoi] Full-time MONTESSORI TEACHER - Currently i @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:49]     ✓ Job 4412782943: English Teacher – Elementary Department (2026) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:52]     ✓ Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-13 14:02:56]     ✓ Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-13 14:02:59]     ✓ Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-13 14:03:03]     ✓ Job 4383109851: STEAM TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:03:07]     ✓ Job 4397282121: English Science Teacher (AY 2026–2027) – Ha Noi @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:03:10]     ✓ Job 4410337321: [Online] English Tutor & Tester (Demo Class) @ Clevai Edtech Group
+[2026-05-13 14:03:14]     ✓ Job 4407005419: Primary Years Programme (PYP) Homeroom Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:03:18]     ✓ Job 4413902549: English Teacher (Work From Home) @ Quik Hire Staffing
+[2026-05-13 14:03:22]     ✓ Job 4413514291: [HCM] Teacher Care and Recruitment Executive @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-13 14:03:25]     ✓ Job 4344863514: Korean-English Language Instructor @ DataAnnotation
+[2026-05-13 14:03:29]     ✓ Job 4360953778: Giáo viên Tiếng Anh Part-time @ Hệ thống Anh ngữ Quốc tế Queen
+[2026-05-13 14:03:33]     ✓ Job 4407574831: Senior Game Designer (Onsite Hanoi, Danang or HCMC @ Gear Games
+[2026-05-13 14:03:37]     ✓ Job 4402911019: Events & Outreach Manager @ International School Ho Chi Minh City
+[2026-05-13 14:03:41]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:03:43]   LinkedIn search: ielts teacher vietnam
+[2026-05-13 14:03:46]     Found 61 IDs total, 49 new
+[2026-05-13 14:03:49]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:03:53]     ✓ Job 4309687837: ESL Instructor @ DataAnnotation
+[2026-05-13 14:03:56]     ✓ Job 4387377883: [Nha Trang - Khanh Hoa] Full-time Primary Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:00]     ✓ Job 4392892234: Online Teacher Wanted! Teaching All Levels @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:03]     ✓ Job 4407030103: Early Years Teachers Needed in Vietnam, EDVECTUS L @ Guardian Jobs
+[2026-05-13 14:04:07]     ✓ Job 4407019213: [HANOI] School Partnership Primary school Teacher  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:11]     ✓ Job 4394486021: [Hanoi] Full-time Teachers (Cambridge Programme) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:15]     ✓ Job 4198828058: Vietnam TEFL Internship @ TEFL UK
+[2026-05-13 14:04:19]     ✓ Job 4387396181: [HCM] Expat Teacher - Currently living in Viet Nam @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:22]     ✓ Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-13 14:04:26]     ✓ Job 4402610386: Giáo viên Tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-13 14:04:30]     ✓ Job 4411619050: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-13 14:04:34]     ✓ Job 4398112798: Primary Math/Science and ELA Teachers - Starting A @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:38]     ✓ Job 4393551428: &#124;Phú Quốc&#124; Trợ giảng môn Toán (Giáo viên @ Vinschool
+[2026-05-13 14:04:42]     ✓ Job 4411990651: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Full @ Jaxtina English Center
+[2026-05-13 14:04:45]     ✓ Job 3984646917: Giáo viên tiếng Anh @ Trung Tâm Tiếng Anh Lesh
+[2026-05-13 14:04:49]     ✓ Job 4393476031: AS - A Level CHEMISTRY TEACHERS - FULL TIME - STAR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:53]     ✓ Job 4408673405: LOWER SECONDARY SCIENCE TEACHERS - FULL TIME - STA @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:56]     ✓ Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers
+[2026-05-13 14:05:00]     ✓ Job 4319080761: Reading and Writing Teacher @ Cosmo
+[2026-05-13 14:05:04]     ✓ Job 4412721825: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-13 14:05:08]     ✓ Job 3984649362: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guide
+[2026-05-13 14:05:11]     ✓ Job 4409688826: Senior Trainer @ 7-Eleven Vietnam
+[2026-05-13 14:05:15]     ✓ Job 4402623222: Giáo viên tiếng anh @ Kingdom
+[2026-05-13 14:05:19]     ✓ Job 4408281031: Giáo viên Tiểu học - Vinschool Golden River (Quận  @ Vinschool
+[2026-05-13 14:05:22]     ✓ Job 4402961140: Trợ giảng (Giáo viên nguồn) Tiểu học @ Vinschool
+[2026-05-13 14:05:26]     ✓ Job 4393475164: AS - A Level MATHS TEACHERS - FULL TIME - START JU @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:05:29]     ✓ Job 4393465424: AS - A Level PHYSICS TEACHERS - FULL TIME - START  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:05:33]     ✓ Job 4390579089: English and Communication Trainer (Attractive pack @ Crossian
+[2026-05-13 14:05:37]     ✓ Job 3984650079: Giảng viên và Chuyên viên @ USSH-VNUHCM I Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia TP.HCM
+[2026-05-13 14:05:40]     ✓ Job 4401112892: Giáo viên tiếng Anh-Toàn thời gian @ KINDLE
+[2026-05-13 14:05:44]     ✓ Job 4377696996: International Baccalaureate (IB) teaching position @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:05:48]     ✓ Job 4367503207: Educador/a de Infância @ Santa Casa da Misericórdia da Mealhada
+[2026-05-13 14:05:51]     ✓ Job 4394472896: GLOBAL PERSPECTIVES TEACHERS - FULL TIME - START J @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:05:55]     ✓ Job 4413292356: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-13 14:05:58]     ✓ Job 4403155980: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital
+[2026-05-13 14:06:02]     ✓ Job 4411253909: Teacher @ English 1
+[2026-05-13 14:06:06]     ✓ Job 4402620331: Giáo viên @ Công Ty Cổ Phần Trung Tín
+[2026-05-13 14:06:10]     ✓ Job 4396399637: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital Philippines
+[2026-05-13 14:06:13]     ✓ Job 4357457958: Expression of Interest – Casual Academic @ RMIT University Vietnam
+[2026-05-13 14:06:16]     ✓ Job 4402604584: Tuyển giáo viên tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-13 14:06:20]     ✓ Job 4253472556: Giáo viên IELTS Part-time @ Pasal International JSC
+[2026-05-13 14:06:24]     ✓ Job 4402613315: GIÁO VIÊN @ Công Ty Cổ Phần Trung Tín
+[2026-05-13 14:06:27]     ✓ Job 4402625241: Trợ giảng, giáo viên tiếng Anh @ CP
+[2026-05-13 14:06:31]     ✓ Job 4402626279: Giáo viên mầm non @ Trường Thắng
+[2026-05-13 14:06:35]     ✓ Job 4412621880: Expat Primary Teacher @ US Vietnam Talent International School
+[2026-05-13 14:06:38]     ✓ Job 4399232293: [Hanoi] [FSEL] Video Teachers for new academic pro @ Atlantic Teacher Careers
+[2026-05-13 14:06:42]     ✓ Job 4402624373: Giáo viên @ High School for Gifted Students, Hanoi National University of Education
+[2026-05-13 14:06:46]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:06:49]   LinkedIn search: business teacher vietnam
+[2026-05-13 14:06:51]     Found 4 IDs total, 4 new
+[2026-05-13 14:06:54]     ✓ Job 4413540414: Business Studies Teacher – International School in @ Guardian Jobs
+[2026-05-13 14:06:58]     ✓ Job 4394473919: ECONOMICS TEACHERS - FULL TIME - START JULY 2026 ( @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:07:01]     ✓ Job 4390033021: [Hanoi, Vietnam] Urgent: DP Economics Teacher (Mic @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:07:05]     ✓ Job 4413540414: Business Studies Teacher – International School in @ Guardian Jobs
+[2026-05-13 14:07:07]   LinkedIn search: economics teacher vietnam
+[2026-05-13 14:07:10]     Found 11 IDs total, 5 new
+[2026-05-13 14:07:13]     ✓ Job 4401447112: [HANOI] School Partnership Secondary & High school @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:07:16]     ✓ Job 4412728194: Mathematics & Python Expert - Freelance AI Trainer @ Mindrift
+[2026-05-13 14:07:20]     ✓ Job 4413567763: Math Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:07:24]     ✓ Job 4314697421: Mathematics Specialist (Fluent in German) - Freela @ Meridial Marketplace, by Invisible
+[2026-05-13 14:07:28]     ✓ Job 4315169155: Mathematics Specialist (Fluent in Korean) - Freela @ Meridial Marketplace, by Invisible
+[2026-05-13 14:07:30]   LinkedIn search: esl teacher vietnam
+[2026-05-13 14:07:33]     Found 43 IDs total, 5 new
+[2026-05-13 14:07:36]     ✓ Job 4399222770: [HANOI] Part-time Secondary Teachers needed for ou @ Atlantic Teacher Careers
+[2026-05-13 14:07:40]     ✓ Job 4280480549: English Teachers for Kindergarten school in Ha Noi @ Global TEFL - Global Language Training Ltd.
+[2026-05-13 14:07:43]     ✓ Job 4394475227: [HANOI] PRIMARY+SECONDARY ESL/SCIENCE TEACHER [>=2 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:07:47]     ✓ Job 3984654269: Giáo Viên Anh Văn - English Teacher ( Full time -  @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-13 14:07:50]     ✓ Job 3984653056: English Teacher @ Premier Residences Phu Quoc Emerald Bay Managed by AccorHotels
+[2026-05-13 14:07:52]   LinkedIn: collected 117 raw jobs
+[2026-05-13 14:07:52] Scraping Vietnamworks (Playwright)...
+[2026-05-13 14:07:52]     Vietnamworks: english teacher ho-chi-minh-vn page 0
+[2026-05-13 14:07:55]       Found 0 job cards on page
+[2026-05-13 14:07:55]       Found 0 job URLs via regex
+[2026-05-13 14:07:57]     Vietnamworks: english teacher ho-chi-minh-vn page 1
+[2026-05-13 14:07:59]       Found 0 job cards on page
+[2026-05-13 14:07:59]       Found 0 job URLs via regex
+[2026-05-13 14:08:00]     Vietnamworks: english teacher ha-noi-vn page 0
+[2026-05-13 14:08:03]       Found 0 job cards on page
+[2026-05-13 14:08:03]       Found 0 job URLs via regex
+[2026-05-13 14:08:05]     Vietnamworks: english teacher ha-noi-vn page 1
+[2026-05-13 14:08:08]       Found 0 job cards on page
+[2026-05-13 14:08:08]       Found 0 job URLs via regex
+[2026-05-13 14:08:09]     Vietnamworks: ielts teacher ho-chi-minh-vn page 0
+[2026-05-13 14:08:11]       Found 0 job cards on page
+[2026-05-13 14:08:11]       Found 0 job URLs via regex
+[2026-05-13 14:08:12]     Vietnamworks: ielts teacher ho-chi-minh-vn page 1
+[2026-05-13 14:08:15]       Found 0 job cards on page
+[2026-05-13 14:08:15]       Found 0 job URLs via regex
+[2026-05-13 14:08:16]     Vietnamworks: business english ho-chi-minh-vn page 0
+[2026-05-13 14:08:19]       Found 0 job cards on page
+[2026-05-13 14:08:19]       Found 0 job URLs via regex
+[2026-05-13 14:08:21]     Vietnamworks: business english ho-chi-minh-vn page 1
+[2026-05-13 14:08:23]       Found 0 job cards on page
+[2026-05-13 14:08:23]       Found 0 job URLs via regex
+[2026-05-13 14:08:25]   Vietnamworks: collected 0 raw jobs
+[2026-05-13 14:08:25]   Total raw jobs collected: 117
+[2026-05-13 14:00:02] 
+[2026-05-13 14:00:02] === Vietnam Job Scraper START: 20260513 ===
+[2026-05-13 14:00:02]   Loaded 21 existing jobs, 21 dedup hashes
+[2026-05-13 14:00:02] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-13 14:00:05]   LinkedIn search: english teacher vietnam
+[2026-05-13 14:00:09]     Found 54 IDs total, 54 new
+[2026-05-13 14:00:12]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:16]     ✓ Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:20]     ✓ Job 4309686917: English as a Second Language (ESL) Tutor @ DataAnnotation
+[2026-05-13 14:00:24]     ✓ Job 4402399810: Hiring FULL -TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:28]     ✓ Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:36]     ✓ Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:44]     ✓ Job 4411982325: ESL Teacher | International School in Lao Cai, Vie @ Guardian Jobs
+[2026-05-13 14:00:48]     ✓ Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:51]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-13 14:00:55]     ✓ Job 4403614509: [Hanoi] Secondary ESL Teachers for Premium Schools @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:00:59]     ✓ Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-13 14:01:03]     ✓ Job 4412101892: FULL-TIME KINDERGARTEN ENGLISH TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:07]     ✓ Job 4405352013: [Hanoi] IELTS English Teachers| Up to 730,000 VND/ @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:11]     ✓ Job 4406540565: SECONDARY ENGLISH TEACHER (Academic year 2026 - 20 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:15]     ✓ Job 4409935466: EIV HCM - ENGLISH TEACHERS (FULLTIME/PARTIME) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:18]     ✓ Job 4403951725: [Hanoi] FULL-TIME ESL-SCIENCE-MATH TEACHERS (CAMBR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:23]     ✓ Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-13 14:01:27]     ✓ Job 4198830029: Teach Vietnam - TJAP @ TEFL UK
+[2026-05-13 14:01:31]     ✓ Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-13 14:01:35]     ✓ Job 4413586011: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:38]     ✓ Job 4412799303: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:42]     ✓ Job 4408683410: ENGLISH SCIENCE TEACHER (AY 2026-2027) Starting in @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:01:46]     ✓ Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-13 14:01:49]     ✓ Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-13 14:01:53]     ✓ Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-13 14:01:57]     ✓ Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-13 14:02:00]     ✓ Job 4406556162: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:04]     ✓ Job 4413572607: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:07]     ✓ Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-13 14:02:11]     ✓ Job 4394474859: [HCM] International Program Teacher / Kindergarten @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:14]     ✓ Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-13 14:02:18]     ✓ Job 4321317044: Preschool ESL Teacher IMA Kindergarten (Thao Dien, @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:22]     ✓ Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-13 14:02:26]     ✓ Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-13 14:02:30]     ✓ Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-13 14:02:34]     ✓ Job 4408677433: [CAN THO] PART - TIME ENGLISH TEACHERS AT ISMART E @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:38]     ✓ Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-13 14:02:41]     ✓ Job 4401105932: GIÁO VIÊN TIẾNG ANH @ The DO
+[2026-05-13 14:02:45]     ✓ Job 4408665471: [Hanoi] Full-time MONTESSORI TEACHER - Currently i @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:49]     ✓ Job 4412782943: English Teacher – Elementary Department (2026) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:02:52]     ✓ Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-13 14:02:56]     ✓ Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-13 14:02:59]     ✓ Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-13 14:03:03]     ✓ Job 4383109851: STEAM TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:03:07]     ✓ Job 4397282121: English Science Teacher (AY 2026–2027) – Ha Noi @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:03:10]     ✓ Job 4410337321: [Online] English Tutor & Tester (Demo Class) @ Clevai Edtech Group
+[2026-05-13 14:03:14]     ✓ Job 4407005419: Primary Years Programme (PYP) Homeroom Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:03:18]     ✓ Job 4413902549: English Teacher (Work From Home) @ Quik Hire Staffing
+[2026-05-13 14:03:22]     ✓ Job 4413514291: [HCM] Teacher Care and Recruitment Executive @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-13 14:03:25]     ✓ Job 4344863514: Korean-English Language Instructor @ DataAnnotation
+[2026-05-13 14:03:29]     ✓ Job 4360953778: Giáo viên Tiếng Anh Part-time @ Hệ thống Anh ngữ Quốc tế Queen
+[2026-05-13 14:03:33]     ✓ Job 4407574831: Senior Game Designer (Onsite Hanoi, Danang or HCMC @ Gear Games
+[2026-05-13 14:03:37]     ✓ Job 4402911019: Events & Outreach Manager @ International School Ho Chi Minh City
+[2026-05-13 14:03:41]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:03:43]   LinkedIn search: ielts teacher vietnam
+[2026-05-13 14:03:46]     Found 61 IDs total, 49 new
+[2026-05-13 14:03:49]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:03:53]     ✓ Job 4309687837: ESL Instructor @ DataAnnotation
+[2026-05-13 14:03:56]     ✓ Job 4387377883: [Nha Trang - Khanh Hoa] Full-time Primary Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:00]     ✓ Job 4392892234: Online Teacher Wanted! Teaching All Levels @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:03]     ✓ Job 4407030103: Early Years Teachers Needed in Vietnam, EDVECTUS L @ Guardian Jobs
+[2026-05-13 14:04:07]     ✓ Job 4407019213: [HANOI] School Partnership Primary school Teacher  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:11]     ✓ Job 4394486021: [Hanoi] Full-time Teachers (Cambridge Programme) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:15]     ✓ Job 4198828058: Vietnam TEFL Internship @ TEFL UK
+[2026-05-13 14:04:19]     ✓ Job 4387396181: [HCM] Expat Teacher - Currently living in Viet Nam @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:22]     ✓ Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-13 14:04:26]     ✓ Job 4402610386: Giáo viên Tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-13 14:04:30]     ✓ Job 4411619050: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-13 14:04:34]     ✓ Job 4398112798: Primary Math/Science and ELA Teachers - Starting A @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:38]     ✓ Job 4393551428: &#124;Phú Quốc&#124; Trợ giảng môn Toán (Giáo viên @ Vinschool
+[2026-05-13 14:04:42]     ✓ Job 4411990651: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Full @ Jaxtina English Center
+[2026-05-13 14:04:45]     ✓ Job 3984646917: Giáo viên tiếng Anh @ Trung Tâm Tiếng Anh Lesh
+[2026-05-13 14:04:49]     ✓ Job 4393476031: AS - A Level CHEMISTRY TEACHERS - FULL TIME - STAR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:53]     ✓ Job 4408673405: LOWER SECONDARY SCIENCE TEACHERS - FULL TIME - STA @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:04:56]     ✓ Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers
+[2026-05-13 14:05:00]     ✓ Job 4319080761: Reading and Writing Teacher @ Cosmo
+[2026-05-13 14:05:04]     ✓ Job 4412721825: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-13 14:05:08]     ✓ Job 3984649362: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guide
+[2026-05-13 14:05:11]     ✓ Job 4409688826: Senior Trainer @ 7-Eleven Vietnam
+[2026-05-13 14:05:15]     ✓ Job 4402623222: Giáo viên tiếng anh @ Kingdom
+[2026-05-13 14:05:19]     ✓ Job 4408281031: Giáo viên Tiểu học - Vinschool Golden River (Quận  @ Vinschool
+[2026-05-13 14:05:22]     ✓ Job 4402961140: Trợ giảng (Giáo viên nguồn) Tiểu học @ Vinschool
+[2026-05-13 14:05:26]     ✓ Job 4393475164: AS - A Level MATHS TEACHERS - FULL TIME - START JU @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:05:29]     ✓ Job 4393465424: AS - A Level PHYSICS TEACHERS - FULL TIME - START  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:05:33]     ✓ Job 4390579089: English and Communication Trainer (Attractive pack @ Crossian
+[2026-05-13 14:05:37]     ✓ Job 3984650079: Giảng viên và Chuyên viên @ USSH-VNUHCM I Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia TP.HCM
+[2026-05-13 14:05:40]     ✓ Job 4401112892: Giáo viên tiếng Anh-Toàn thời gian @ KINDLE
+[2026-05-13 14:05:44]     ✓ Job 4377696996: International Baccalaureate (IB) teaching position @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:05:48]     ✓ Job 4367503207: Educador/a de Infância @ Santa Casa da Misericórdia da Mealhada
+[2026-05-13 14:05:51]     ✓ Job 4394472896: GLOBAL PERSPECTIVES TEACHERS - FULL TIME - START J @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:05:55]     ✓ Job 4413292356: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-13 14:05:58]     ✓ Job 4403155980: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital
+[2026-05-13 14:06:02]     ✓ Job 4411253909: Teacher @ English 1
+[2026-05-13 14:06:06]     ✓ Job 4402620331: Giáo viên @ Công Ty Cổ Phần Trung Tín
+[2026-05-13 14:06:10]     ✓ Job 4396399637: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital Philippines
+[2026-05-13 14:06:13]     ✓ Job 4357457958: Expression of Interest – Casual Academic @ RMIT University Vietnam
+[2026-05-13 14:06:16]     ✓ Job 4402604584: Tuyển giáo viên tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-13 14:06:20]     ✓ Job 4253472556: Giáo viên IELTS Part-time @ Pasal International JSC
+[2026-05-13 14:06:24]     ✓ Job 4402613315: GIÁO VIÊN @ Công Ty Cổ Phần Trung Tín
+[2026-05-13 14:06:27]     ✓ Job 4402625241: Trợ giảng, giáo viên tiếng Anh @ CP
+[2026-05-13 14:06:31]     ✓ Job 4402626279: Giáo viên mầm non @ Trường Thắng
+[2026-05-13 14:06:35]     ✓ Job 4412621880: Expat Primary Teacher @ US Vietnam Talent International School
+[2026-05-13 14:06:38]     ✓ Job 4399232293: [Hanoi] [FSEL] Video Teachers for new academic pro @ Atlantic Teacher Careers
+[2026-05-13 14:06:42]     ✓ Job 4402624373: Giáo viên @ High School for Gifted Students, Hanoi National University of Education
+[2026-05-13 14:06:46]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:06:49]   LinkedIn search: business teacher vietnam
+[2026-05-13 14:06:51]     Found 4 IDs total, 4 new
+[2026-05-13 14:06:54]     ✓ Job 4413540414: Business Studies Teacher – International School in @ Guardian Jobs
+[2026-05-13 14:06:58]     ✓ Job 4394473919: ECONOMICS TEACHERS - FULL TIME - START JULY 2026 ( @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:07:01]     ✓ Job 4390033021: [Hanoi, Vietnam] Urgent: DP Economics Teacher (Mic @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:07:05]     ✓ Job 4413540414: Business Studies Teacher – International School in @ Guardian Jobs
+[2026-05-13 14:07:07]   LinkedIn search: economics teacher vietnam
+[2026-05-13 14:07:10]     Found 11 IDs total, 5 new
+[2026-05-13 14:07:13]     ✓ Job 4401447112: [HANOI] School Partnership Secondary & High school @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:07:16]     ✓ Job 4412728194: Mathematics & Python Expert - Freelance AI Trainer @ Mindrift
+[2026-05-13 14:07:20]     ✓ Job 4413567763: Math Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:07:24]     ✓ Job 4314697421: Mathematics Specialist (Fluent in German) - Freela @ Meridial Marketplace, by Invisible
+[2026-05-13 14:07:28]     ✓ Job 4315169155: Mathematics Specialist (Fluent in Korean) - Freela @ Meridial Marketplace, by Invisible
+[2026-05-13 14:07:30]   LinkedIn search: esl teacher vietnam
+[2026-05-13 14:07:33]     Found 43 IDs total, 5 new
+[2026-05-13 14:07:36]     ✓ Job 4399222770: [HANOI] Part-time Secondary Teachers needed for ou @ Atlantic Teacher Careers
+[2026-05-13 14:07:40]     ✓ Job 4280480549: English Teachers for Kindergarten school in Ha Noi @ Global TEFL - Global Language Training Ltd.
+[2026-05-13 14:07:43]     ✓ Job 4394475227: [HANOI] PRIMARY+SECONDARY ESL/SCIENCE TEACHER [>=2 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-13 14:07:47]     ✓ Job 3984654269: Giáo Viên Anh Văn - English Teacher ( Full time -  @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-13 14:07:50]     ✓ Job 3984653056: English Teacher @ Premier Residences Phu Quoc Emerald Bay Managed by AccorHotels
+[2026-05-13 14:07:52]   LinkedIn: collected 117 raw jobs
+[2026-05-13 14:07:52] Scraping Vietnamworks (Playwright)...
+[2026-05-13 14:07:52]     Vietnamworks: english teacher ho-chi-minh-vn page 0
+[2026-05-13 14:07:55]       Found 0 job cards on page
+[2026-05-13 14:07:55]       Found 0 job URLs via regex
+[2026-05-13 14:07:57]     Vietnamworks: english teacher ho-chi-minh-vn page 1
+[2026-05-13 14:07:59]       Found 0 job cards on page
+[2026-05-13 14:07:59]       Found 0 job URLs via regex
+[2026-05-13 14:08:00]     Vietnamworks: english teacher ha-noi-vn page 0
+[2026-05-13 14:08:03]       Found 0 job cards on page
+[2026-05-13 14:08:03]       Found 0 job URLs via regex
+[2026-05-13 14:08:05]     Vietnamworks: english teacher ha-noi-vn page 1
+[2026-05-13 14:08:08]       Found 0 job cards on page
+[2026-05-13 14:08:08]       Found 0 job URLs via regex
+[2026-05-13 14:08:09]     Vietnamworks: ielts teacher ho-chi-minh-vn page 0
+[2026-05-13 14:08:11]       Found 0 job cards on page
+[2026-05-13 14:08:11]       Found 0 job URLs via regex
+[2026-05-13 14:08:12]     Vietnamworks: ielts teacher ho-chi-minh-vn page 1
+[2026-05-13 14:08:15]       Found 0 job cards on page
+[2026-05-13 14:08:15]       Found 0 job URLs via regex
+[2026-05-13 14:08:16]     Vietnamworks: business english ho-chi-minh-vn page 0
+[2026-05-13 14:08:19]       Found 0 job cards on page
+[2026-05-13 14:08:19]       Found 0 job URLs via regex
+[2026-05-13 14:08:21]     Vietnamworks: business english ho-chi-minh-vn page 1
+[2026-05-13 14:08:23]       Found 0 job cards on page
+[2026-05-13 14:08:23]       Found 0 job URLs via regex
+[2026-05-13 14:08:25]   Vietnamworks: collected 0 raw jobs
+[2026-05-13 14:08:25]   Total raw jobs collected: 117
+Traceback (most recent call last):
+  File "/home/amrba/job_scraper/vietnam_scraper.py", line 780, in <module>
+    main()
+    ~~~~^^
+  File "/home/amrba/job_scraper/vietnam_scraper.py", line 739, in main
+    matched = filter_and_score(raw_jobs)
+  File "/home/amrba/job_scraper/vietnam_scraper.py", line 550, in filter_and_score
+    scored = [j for j in jobs if score_job(j)]
+                                 ~~~~~~~~~^^^
+  File "/home/amrba/job_scraper/vietnam_scraper.py", line 516, in score_job
+    lo, hi = parse_salary_vnd(salary_text)
+             ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/amrba/job_scraper/vietnam_scraper.py", line 123, in parse_salary_vnd
+    val = float(m.group(1).replace(',', '')) * 1_000_000
+          ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: ''
+===== Scraper run finished: Wed May 13 14:08:25 +07 2026 | exit=1 =====
+===== Scraper run started: Thu May 14 02:00:01 +07 2026 =====
+[2026-05-14 02:00:01] 
+[2026-05-14 02:00:01] === Vietnam Job Scraper START: 20260514 ===
+[2026-05-14 02:00:01]   Loaded 21 existing jobs, 21 dedup hashes
+[2026-05-14 02:00:01] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-14 02:00:19]   LinkedIn search: english teacher vietnam
+[2026-05-14 02:00:28]     Found 60 IDs total, 60 new
+[2026-05-14 02:00:32]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:00:37]     ✓ Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:00:41]     ✓ Job 4309686917: English as a Second Language (ESL) Tutor @ DataAnnotation
+[2026-05-14 02:00:45]     ✓ Job 4402399810: Hiring FULL -TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:00:49]     ✓ Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:00:53]     ✓ Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:00:57]     ✓ Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:01]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-14 02:01:04]     ✓ Job 4403614509: [Hanoi] Secondary ESL Teachers for Premium Schools @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:08]     ✓ Job 4411982325: ESL Teacher | International School in Lao Cai, Vie @ Guardian Jobs
+[2026-05-14 02:01:12]     ✓ Job 4399236046: [Hanoi] Full-time Secondary teachers-Atlantic Five @ Atlantic Teacher Careers
+[2026-05-14 02:01:16]     ✓ Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-14 02:01:19]     ✓ Job 4412101892: FULL-TIME KINDERGARTEN ENGLISH TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:23]     ✓ Job 4406540565: SECONDARY ENGLISH TEACHER (Academic year 2026 - 20 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:27]     ✓ Job 4414144018: [An Giang] FULLTIME ENGLISH TEACHERS @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:31]     ✓ Job 4403951725: [Hanoi] FULL-TIME ESL-SCIENCE-MATH TEACHERS (CAMBR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:35]     ✓ Job 4409935466: EIV HCM - ENGLISH TEACHERS (FULLTIME/PARTIME) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:39]     ✓ Job 4198830029: Teach Vietnam - TJAP @ TEFL UK
+[2026-05-14 02:01:43]     ✓ Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-14 02:01:47]     ✓ Job 4280480549: English Teachers for Kindergarten school in Ha Noi @ Global TEFL - Global Language Training Ltd.
+[2026-05-14 02:01:51]     ✓ Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-14 02:01:54]     ✓ Job 4413586011: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:58]     ✓ Job 4408683410: ENGLISH SCIENCE TEACHER (AY 2026-2027) Starting in @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:02:02]     ✓ Job 3984653056: English Teacher @ Premier Residences Phu Quoc Emerald Bay Managed by AccorHotels
+[2026-05-14 02:02:06]     ✓ Job 4412799303: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:02:09]     ✓ Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-14 02:02:13]     ✓ Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-14 02:02:17]     ✓ Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-14 02:02:20]     ✓ Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 02:02:23]     ✓ Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-14 02:02:27]     ✓ Job 4406556162: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:02:31]     ✓ Job 4413572607: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:02:34]     ✓ Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-14 02:02:38]     ✓ Job 4394474859: [HCM] International Program Teacher / Kindergarten @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:02:42]     ✓ Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-14 02:02:46]     ✓ Job 4321317044: Preschool ESL Teacher IMA Kindergarten (Thao Dien, @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:02:49]     ✓ Job 4399222770: [HANOI] Part-time Secondary Teachers needed for ou @ Atlantic Teacher Careers
+[2026-05-14 02:02:53]     ✓ Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-14 02:02:57]     ✓ Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-14 02:03:00]     ✓ Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-14 02:03:03]     ✓ Job 4408677433: [CAN THO] PART - TIME ENGLISH TEACHERS AT ISMART E @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:03:07]     ✓ Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 02:03:10]     ✓ Job 3984654269: Giáo Viên Anh Văn - English Teacher ( Full time -  @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 02:03:14]     ✓ Job 4408665471: [Hanoi] Full-time MONTESSORI TEACHER - Currently i @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:03:18]     ✓ Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-14 02:03:22]     ✓ Job 4412782943: English Teacher – Elementary Department (2026) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:03:25]     ✓ Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers
+[2026-05-14 02:03:29]     ✓ Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-14 02:03:32]     ✓ Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-14 02:03:36]     ✓ Job 4383109851: STEAM TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:03:40]     ✓ Job 4399222766: [Ha Noi] Atlantic Five-Star English- Full-Time Sec @ Atlantic Teacher Careers
+[2026-05-14 02:03:43]     ✓ Job 4397282121: English Science Teacher (AY 2026–2027) – Ha Noi @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:03:47]     ✓ Job 4410337321: [Online] English Tutor & Tester (Demo Class) @ Clevai Edtech Group
+[2026-05-14 02:03:51]     ✓ Job 4407005419: Primary Years Programme (PYP) Homeroom Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:03:55]     ✓ Job 4399232293: [Hanoi] [FSEL] Video Teachers for new academic pro @ Atlantic Teacher Careers
+[2026-05-14 02:03:58]     ✓ Job 4413514291: [HCM] Teacher Care and Recruitment Executive @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-14 02:04:02]     ✓ Job 4344863514: Korean-English Language Instructor @ DataAnnotation
+[2026-05-14 02:04:06]     ✓ Job 4407574831: Senior Game Designer (Onsite Hanoi, Danang or HCMC @ Gear Games
+[2026-05-14 02:04:10]     ✓ Job 4402911019: Events & Outreach Manager @ International School Ho Chi Minh City
+[2026-05-14 02:04:13]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:16]   LinkedIn search: ielts teacher vietnam
+[2026-05-14 02:04:19]     Found 61 IDs total, 46 new
+[2026-05-14 02:04:22]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:26]     ✓ Job 4309687837: ESL Instructor @ DataAnnotation
+[2026-05-14 02:04:29]     ✓ Job 4387377883: [Nha Trang - Khanh Hoa] Full-time Primary Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:33]     ✓ Job 4392892234: Online Teacher Wanted! Teaching All Levels @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:36]     ✓ Job 4407030103: Early Years Teachers Needed in Vietnam, EDVECTUS L @ Guardian Jobs
+[2026-05-14 02:04:40]     ✓ Job 4407019213: [HANOI] School Partnership Primary school Teacher  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:44]     ✓ Job 4198828058: Vietnam TEFL Internship @ TEFL UK
+[2026-05-14 02:04:47]     ✓ Job 4394486021: [Hanoi] Full-time Teachers (Cambridge Programme) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:51]     ✓ Job 4387396181: [HCM] Expat Teacher - Currently living in Viet Nam @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:55]     ✓ Job 4402610386: Giáo viên Tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 02:04:59]     ✓ Job 4398112798: Primary Math/Science and ELA Teachers - Starting A @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:05:02]     ✓ Job 4393551428: &#124;Phú Quốc&#124; Trợ giảng môn Toán (Giáo viên @ Vinschool
+[2026-05-14 02:05:07]     ✓ Job 4411619050: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 02:05:10]     ✓ Job 3984646917: Giáo viên tiếng Anh @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 02:05:14]     ✓ Job 4411990651: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Full @ Jaxtina English Center
+[2026-05-14 02:05:18]     ✓ Job 4393476031: AS - A Level CHEMISTRY TEACHERS - FULL TIME - STAR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:05:21]     ✓ Job 4408673405: LOWER SECONDARY SCIENCE TEACHERS - FULL TIME - STA @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:05:24]     ✓ Job 4319080761: Reading and Writing Teacher @ Cosmo
+[2026-05-14 02:05:28]     ✓ Job 3984649362: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guide
+[2026-05-14 02:05:32]     ✓ Job 4409688826: Senior Trainer @ 7-Eleven Vietnam
+[2026-05-14 02:05:36]     ✓ Job 4402623222: Giáo viên tiếng anh @ Kingdom
+[2026-05-14 02:05:40]     ✓ Job 4408281031: Giáo viên Tiểu học - Vinschool Golden River (Quận  @ Vinschool
+[2026-05-14 02:05:43]     ✓ Job 4402961140: Trợ giảng (Giáo viên nguồn) Tiểu học @ Vinschool
+[2026-05-14 02:05:47]     ✓ Job 4393475164: AS - A Level MATHS TEACHERS - FULL TIME - START JU @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:05:51]     ✓ Job 4393465424: AS - A Level PHYSICS TEACHERS - FULL TIME - START  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:05:54]     ✓ Job 4390579089: English and Communication Trainer (Attractive pack @ Crossian
+[2026-05-14 02:05:58]     ✓ Job 4412721825: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 02:06:02]     ✓ Job 3984650079: Giảng viên và Chuyên viên @ USSH-VNUHCM I Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia TP.HCM
+[2026-05-14 02:06:06]     ✓ Job 4401112892: Giáo viên tiếng Anh-Toàn thời gian @ KINDLE
+[2026-05-14 02:06:09]     ✓ Job 4413292356: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 02:06:13]     ✓ Job 4377696996: International Baccalaureate (IB) teaching position @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:06:16]     ✓ Job 4367503207: Educador/a de Infância @ Santa Casa da Misericórdia da Mealhada
+[2026-05-14 02:06:20]     ✓ Job 4394472896: GLOBAL PERSPECTIVES TEACHERS - FULL TIME - START J @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:06:23]     ✓ Job 4403155980: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital
+[2026-05-14 02:06:27]     ✓ Job 4402620331: Giáo viên @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 02:06:31]     ✓ Job 4396399637: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital Philippines
+[2026-05-14 02:06:35]     ✓ Job 4357457958: Expression of Interest – Casual Academic @ RMIT University Vietnam
+[2026-05-14 02:06:38]     ✓ Job 4402604584: Tuyển giáo viên tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 02:06:42]     ✓ Job 4402625241: Trợ giảng, giáo viên tiếng Anh @ CP
+[2026-05-14 02:06:46]     ✓ Job 4253472556: Giáo viên IELTS Part-time @ Pasal International JSC
+[2026-05-14 02:06:49]     ✓ Job 4411253909: Teacher @ English 1
+[2026-05-14 02:06:53]     ✓ Job 4402613315: GIÁO VIÊN @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 02:06:57]     ✓ Job 4402626279: Giáo viên mầm non @ Trường Thắng
+[2026-05-14 02:07:01]     ✓ Job 4412621880: Expat Primary Teacher @ US Vietnam Talent International School
+[2026-05-14 02:07:05]     ✓ Job 4402624373: Giáo viên @ High School for Gifted Students, Hanoi National University of Education
+[2026-05-14 02:07:09]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:07:11]   LinkedIn search: business teacher vietnam
+[2026-05-14 02:07:14]     Found 4 IDs total, 4 new
+[2026-05-14 02:07:17]     ✓ Job 4413540414: Business Studies Teacher – International School in @ Guardian Jobs
+[2026-05-14 02:07:20]     ✓ Job 4394473919: ECONOMICS TEACHERS - FULL TIME - START JULY 2026 ( @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:07:24]     ✓ Job 4390033021: [Hanoi, Vietnam] Urgent: DP Economics Teacher (Mic @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:07:27]     ✓ Job 4413540414: Business Studies Teacher – International School in @ Guardian Jobs
+[2026-05-14 02:07:30]   LinkedIn search: economics teacher vietnam
+[2026-05-14 02:07:33]     Found 12 IDs total, 6 new
+[2026-05-14 02:07:36]     ✓ Job 4401447112: [HANOI] School Partnership Secondary & High school @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:07:39]     ✓ Job 4413567763: Math Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:07:43]     ✓ Job 4414144028: Math-Science Teachers @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:07:47]     ✓ Job 4412728194: Mathematics & Python Expert - Freelance AI Trainer @ Mindrift
+[2026-05-14 02:07:50]     ✓ Job 4314697421: Mathematics Specialist (Fluent in German) - Freela @ Meridial Marketplace, by Invisible
+[2026-05-14 02:07:54]     ✓ Job 4315169155: Mathematics Specialist (Fluent in Korean) - Freela @ Meridial Marketplace, by Invisible
+[2026-05-14 02:07:56]   LinkedIn search: esl teacher vietnam
+[2026-05-14 02:07:59]     Found 38 IDs total, 1 new
+[2026-05-14 02:08:02]     ✓ Job 4410378519: Academic Supervisor (ESL Certification & Standards @ Step Up Education
+[2026-05-14 02:08:05]   LinkedIn: collected 117 raw jobs
+[2026-05-14 02:08:05] Scraping Vietnamworks (Playwright)...
+[2026-05-14 02:08:05]     Vietnamworks: english teacher ho-chi-minh-vn page 0
+[2026-05-14 02:08:07]       Found 0 job cards on page
+[2026-05-14 02:08:07]       Found 0 job URLs via regex
+[2026-05-14 02:08:09]     Vietnamworks: english teacher ho-chi-minh-vn page 1
+[2026-05-14 02:08:11]       Found 0 job cards on page
+[2026-05-14 02:08:11]       Found 0 job URLs via regex
+[2026-05-14 02:08:13]     Vietnamworks: english teacher ha-noi-vn page 0
+[2026-05-14 02:08:16]       Found 0 job cards on page
+[2026-05-14 02:08:16]       Found 0 job URLs via regex
+[2026-05-14 02:08:17]     Vietnamworks: english teacher ha-noi-vn page 1
+[2026-05-14 02:08:20]       Found 0 job cards on page
+[2026-05-14 02:08:20]       Found 0 job URLs via regex
+[2026-05-14 02:08:21]     Vietnamworks: ielts teacher ho-chi-minh-vn page 0
+[2026-05-14 02:08:24]       Found 0 job cards on page
+[2026-05-14 02:08:24]       Found 0 job URLs via regex
+[2026-05-14 02:08:25]     Vietnamworks: ielts teacher ho-chi-minh-vn page 1
+[2026-05-14 02:08:28]       Found 0 job cards on page
+[2026-05-14 02:08:28]       Found 0 job URLs via regex
+[2026-05-14 02:08:29]     Vietnamworks: business english ho-chi-minh-vn page 0
+[2026-05-14 02:08:32]       Found 0 job cards on page
+[2026-05-14 02:08:32]       Found 0 job URLs via regex
+[2026-05-14 02:08:33]     Vietnamworks: business english ho-chi-minh-vn page 1
+[2026-05-14 02:08:36]       Found 0 job cards on page
+[2026-05-14 02:08:36]       Found 0 job URLs via regex
+[2026-05-14 02:08:37]   Vietnamworks: collected 0 raw jobs
+[2026-05-14 02:08:37]   Total raw jobs collected: 117
+[2026-05-14 02:00:01] 
+[2026-05-14 02:00:01] === Vietnam Job Scraper START: 20260514 ===
+[2026-05-14 02:00:01]   Loaded 21 existing jobs, 21 dedup hashes
+[2026-05-14 02:00:01] Scraping LinkedIn Vietnam (Playwright)...
+[2026-05-14 02:00:19]   LinkedIn search: english teacher vietnam
+[2026-05-14 02:00:28]     Found 60 IDs total, 60 new
+[2026-05-14 02:00:32]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:00:37]     ✓ Job 4386872829: Full-time Public School Teachers in Ho Chi Minh |  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:00:41]     ✓ Job 4309686917: English as a Second Language (ESL) Tutor @ DataAnnotation
+[2026-05-14 02:00:45]     ✓ Job 4402399810: Hiring FULL -TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:00:49]     ✓ Job 4386871859: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:00:53]     ✓ Job 4386891010: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:00:57]     ✓ Job 4386873669: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:01]     ✓ Job 4198828076: Teach Vietnam - Major @ TEFL UK
+[2026-05-14 02:01:04]     ✓ Job 4403614509: [Hanoi] Secondary ESL Teachers for Premium Schools @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:08]     ✓ Job 4411982325: ESL Teacher | International School in Lao Cai, Vie @ Guardian Jobs
+[2026-05-14 02:01:12]     ✓ Job 4399236046: [Hanoi] Full-time Secondary teachers-Atlantic Five @ Atlantic Teacher Careers
+[2026-05-14 02:01:16]     ✓ Job 4339514282: Teach Vietnam - Hanoi @ TEFL UK
+[2026-05-14 02:01:19]     ✓ Job 4412101892: FULL-TIME KINDERGARTEN ENGLISH TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:23]     ✓ Job 4406540565: SECONDARY ENGLISH TEACHER (Academic year 2026 - 20 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:27]     ✓ Job 4414144018: [An Giang] FULLTIME ENGLISH TEACHERS @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:31]     ✓ Job 4403951725: [Hanoi] FULL-TIME ESL-SCIENCE-MATH TEACHERS (CAMBR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:35]     ✓ Job 4409935466: EIV HCM - ENGLISH TEACHERS (FULLTIME/PARTIME) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:39]     ✓ Job 4198830029: Teach Vietnam - TJAP @ TEFL UK
+[2026-05-14 02:01:43]     ✓ Job 4304449239: English Tutor @ DataAnnotation
+[2026-05-14 02:01:47]     ✓ Job 4280480549: English Teachers for Kindergarten school in Ha Noi @ Global TEFL - Global Language Training Ltd.
+[2026-05-14 02:01:51]     ✓ Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK
+[2026-05-14 02:01:54]     ✓ Job 4413586011: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:01:58]     ✓ Job 4408683410: ENGLISH SCIENCE TEACHER (AY 2026-2027) Starting in @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:02:02]     ✓ Job 3984653056: English Teacher @ Premier Residences Phu Quoc Emerald Bay Managed by AccorHotels
+[2026-05-14 02:02:06]     ✓ Job 4412799303: ESL & GP Teacher (Lower Secondary) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:02:09]     ✓ Job 4304433444: English Teacher @ DataAnnotation
+[2026-05-14 02:02:13]     ✓ Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng
+[2026-05-14 02:02:17]     ✓ Job 4401107973: Giáo viên tiếng Anh @ Day A
+[2026-05-14 02:02:20]     ✓ Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 02:02:23]     ✓ Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers
+[2026-05-14 02:02:27]     ✓ Job 4406556162: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:02:31]     ✓ Job 4413572607: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:02:34]     ✓ Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst
+[2026-05-14 02:02:38]     ✓ Job 4394474859: [HCM] International Program Teacher / Kindergarten @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:02:42]     ✓ Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst
+[2026-05-14 02:02:46]     ✓ Job 4321317044: Preschool ESL Teacher IMA Kindergarten (Thao Dien, @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:02:49]     ✓ Job 4399222770: [HANOI] Part-time Secondary Teachers needed for ou @ Atlantic Teacher Careers
+[2026-05-14 02:02:53]     ✓ Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế
+[2026-05-14 02:02:57]     ✓ Job 4413247154: Secondary English Teacher (from Jan-2027) @ Australian International School, Vietnam
+[2026-05-14 02:03:00]     ✓ Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội
+[2026-05-14 02:03:03]     ✓ Job 4408677433: [CAN THO] PART - TIME ENGLISH TEACHERS AT ISMART E @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:03:07]     ✓ Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 02:03:10]     ✓ Job 3984654269: Giáo Viên Anh Văn - English Teacher ( Full time -  @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS
+[2026-05-14 02:03:14]     ✓ Job 4408665471: [Hanoi] Full-time MONTESSORI TEACHER - Currently i @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:03:18]     ✓ Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam
+[2026-05-14 02:03:22]     ✓ Job 4412782943: English Teacher – Elementary Department (2026) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:03:25]     ✓ Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers
+[2026-05-14 02:03:29]     ✓ Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy
+[2026-05-14 02:03:32]     ✓ Job 4386483414: English Elementary Primary School Teacher @ LUKglobal
+[2026-05-14 02:03:36]     ✓ Job 4383109851: STEAM TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:03:40]     ✓ Job 4399222766: [Ha Noi] Atlantic Five-Star English- Full-Time Sec @ Atlantic Teacher Careers
+[2026-05-14 02:03:43]     ✓ Job 4397282121: English Science Teacher (AY 2026–2027) – Ha Noi @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:03:47]     ✓ Job 4410337321: [Online] English Tutor & Tester (Demo Class) @ Clevai Edtech Group
+[2026-05-14 02:03:51]     ✓ Job 4407005419: Primary Years Programme (PYP) Homeroom Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:03:55]     ✓ Job 4399232293: [Hanoi] [FSEL] Video Teachers for new academic pro @ Atlantic Teacher Careers
+[2026-05-14 02:03:58]     ✓ Job 4413514291: [HCM] Teacher Care and Recruitment Executive @ Kyna English (Kyna Pte. Ltd.)
+[2026-05-14 02:04:02]     ✓ Job 4344863514: Korean-English Language Instructor @ DataAnnotation
+[2026-05-14 02:04:06]     ✓ Job 4407574831: Senior Game Designer (Onsite Hanoi, Danang or HCMC @ Gear Games
+[2026-05-14 02:04:10]     ✓ Job 4402911019: Events & Outreach Manager @ International School Ho Chi Minh City
+[2026-05-14 02:04:13]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:16]   LinkedIn search: ielts teacher vietnam
+[2026-05-14 02:04:19]     Found 61 IDs total, 46 new
+[2026-05-14 02:04:22]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:26]     ✓ Job 4309687837: ESL Instructor @ DataAnnotation
+[2026-05-14 02:04:29]     ✓ Job 4387377883: [Nha Trang - Khanh Hoa] Full-time Primary Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:33]     ✓ Job 4392892234: Online Teacher Wanted! Teaching All Levels @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:36]     ✓ Job 4407030103: Early Years Teachers Needed in Vietnam, EDVECTUS L @ Guardian Jobs
+[2026-05-14 02:04:40]     ✓ Job 4407019213: [HANOI] School Partnership Primary school Teacher  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:44]     ✓ Job 4198828058: Vietnam TEFL Internship @ TEFL UK
+[2026-05-14 02:04:47]     ✓ Job 4394486021: [Hanoi] Full-time Teachers (Cambridge Programme) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:51]     ✓ Job 4387396181: [HCM] Expat Teacher - Currently living in Viet Nam @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:04:55]     ✓ Job 4402610386: Giáo viên Tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 02:04:59]     ✓ Job 4398112798: Primary Math/Science and ELA Teachers - Starting A @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:05:02]     ✓ Job 4393551428: &#124;Phú Quốc&#124; Trợ giảng môn Toán (Giáo viên @ Vinschool
+[2026-05-14 02:05:07]     ✓ Job 4411619050: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 02:05:10]     ✓ Job 3984646917: Giáo viên tiếng Anh @ Trung Tâm Tiếng Anh Lesh
+[2026-05-14 02:05:14]     ✓ Job 4411990651: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Full @ Jaxtina English Center
+[2026-05-14 02:05:18]     ✓ Job 4393476031: AS - A Level CHEMISTRY TEACHERS - FULL TIME - STAR @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:05:21]     ✓ Job 4408673405: LOWER SECONDARY SCIENCE TEACHERS - FULL TIME - STA @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:05:24]     ✓ Job 4319080761: Reading and Writing Teacher @ Cosmo
+[2026-05-14 02:05:28]     ✓ Job 3984649362: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guide
+[2026-05-14 02:05:32]     ✓ Job 4409688826: Senior Trainer @ 7-Eleven Vietnam
+[2026-05-14 02:05:36]     ✓ Job 4402623222: Giáo viên tiếng anh @ Kingdom
+[2026-05-14 02:05:40]     ✓ Job 4408281031: Giáo viên Tiểu học - Vinschool Golden River (Quận  @ Vinschool
+[2026-05-14 02:05:43]     ✓ Job 4402961140: Trợ giảng (Giáo viên nguồn) Tiểu học @ Vinschool
+[2026-05-14 02:05:47]     ✓ Job 4393475164: AS - A Level MATHS TEACHERS - FULL TIME - START JU @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:05:51]     ✓ Job 4393465424: AS - A Level PHYSICS TEACHERS - FULL TIME - START  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:05:54]     ✓ Job 4390579089: English and Communication Trainer (Attractive pack @ Crossian
+[2026-05-14 02:05:58]     ✓ Job 4412721825: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 02:06:02]     ✓ Job 3984650079: Giảng viên và Chuyên viên @ USSH-VNUHCM I Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia TP.HCM
+[2026-05-14 02:06:06]     ✓ Job 4401112892: Giáo viên tiếng Anh-Toàn thời gian @ KINDLE
+[2026-05-14 02:06:09]     ✓ Job 4413292356: Teach English in Indonesia this 2026– No Experienc @ English 1
+[2026-05-14 02:06:13]     ✓ Job 4377696996: International Baccalaureate (IB) teaching position @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:06:16]     ✓ Job 4367503207: Educador/a de Infância @ Santa Casa da Misericórdia da Mealhada
+[2026-05-14 02:06:20]     ✓ Job 4394472896: GLOBAL PERSPECTIVES TEACHERS - FULL TIME - START J @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:06:23]     ✓ Job 4403155980: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital
+[2026-05-14 02:06:27]     ✓ Job 4402620331: Giáo viên @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 02:06:31]     ✓ Job 4396399637: Chuyên Viên Đào Tạo - Dự Án Tiếng Nhật (Open For T @ TELUS Digital Philippines
+[2026-05-14 02:06:35]     ✓ Job 4357457958: Expression of Interest – Casual Academic @ RMIT University Vietnam
+[2026-05-14 02:06:38]     ✓ Job 4402604584: Tuyển giáo viên tiếng Anh @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 02:06:42]     ✓ Job 4402625241: Trợ giảng, giáo viên tiếng Anh @ CP
+[2026-05-14 02:06:46]     ✓ Job 4253472556: Giáo viên IELTS Part-time @ Pasal International JSC
+[2026-05-14 02:06:49]     ✓ Job 4411253909: Teacher @ English 1
+[2026-05-14 02:06:53]     ✓ Job 4402613315: GIÁO VIÊN @ Công Ty Cổ Phần Trung Tín
+[2026-05-14 02:06:57]     ✓ Job 4402626279: Giáo viên mầm non @ Trường Thắng
+[2026-05-14 02:07:01]     ✓ Job 4412621880: Expat Primary Teacher @ US Vietnam Talent International School
+[2026-05-14 02:07:05]     ✓ Job 4402624373: Giáo viên @ High School for Gifted Students, Hanoi National University of Education
+[2026-05-14 02:07:09]     ✓ Job 4406541546: PRIMARY TEACHER (Core Subjects) Academic year 2026 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:07:11]   LinkedIn search: business teacher vietnam
+[2026-05-14 02:07:14]     Found 4 IDs total, 4 new
+[2026-05-14 02:07:17]     ✓ Job 4413540414: Business Studies Teacher – International School in @ Guardian Jobs
+[2026-05-14 02:07:20]     ✓ Job 4394473919: ECONOMICS TEACHERS - FULL TIME - START JULY 2026 ( @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:07:24]     ✓ Job 4390033021: [Hanoi, Vietnam] Urgent: DP Economics Teacher (Mic @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:07:27]     ✓ Job 4413540414: Business Studies Teacher – International School in @ Guardian Jobs
+[2026-05-14 02:07:30]   LinkedIn search: economics teacher vietnam
+[2026-05-14 02:07:33]     Found 12 IDs total, 6 new
+[2026-05-14 02:07:36]     ✓ Job 4401447112: [HANOI] School Partnership Secondary & High school @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:07:39]     ✓ Job 4413567763: Math Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:07:43]     ✓ Job 4414144028: Math-Science Teachers @ Legal & Teaching Jobs for Foreign Teachers in Vietnam
+[2026-05-14 02:07:47]     ✓ Job 4412728194: Mathematics & Python Expert - Freelance AI Trainer @ Mindrift
+[2026-05-14 02:07:50]     ✓ Job 4314697421: Mathematics Specialist (Fluent in German) - Freela @ Meridial Marketplace, by Invisible
+[2026-05-14 02:07:54]     ✓ Job 4315169155: Mathematics Specialist (Fluent in Korean) - Freela @ Meridial Marketplace, by Invisible
+[2026-05-14 02:07:56]   LinkedIn search: esl teacher vietnam
+[2026-05-14 02:07:59]     Found 38 IDs total, 1 new
+[2026-05-14 02:08:02]     ✓ Job 4410378519: Academic Supervisor (ESL Certification & Standards @ Step Up Education
+[2026-05-14 02:08:05]   LinkedIn: collected 117 raw jobs
+[2026-05-14 02:08:05] Scraping Vietnamworks (Playwright)...
+[2026-05-14 02:08:05]     Vietnamworks: english teacher ho-chi-minh-vn page 0
+[2026-05-14 02:08:07]       Found 0 job cards on page
+[2026-05-14 02:08:07]       Found 0 job URLs via regex
+[2026-05-14 02:08:09]     Vietnamworks: english teacher ho-chi-minh-vn page 1
+[2026-05-14 02:08:11]       Found 0 job cards on page
+[2026-05-14 02:08:11]       Found 0 job URLs via regex
+[2026-05-14 02:08:13]     Vietnamworks: english teacher ha-noi-vn page 0
+[2026-05-14 02:08:16]       Found 0 job cards on page
+[2026-05-14 02:08:16]       Found 0 job URLs via regex
+[2026-05-14 02:08:17]     Vietnamworks: english teacher ha-noi-vn page 1
+[2026-05-14 02:08:20]       Found 0 job cards on page
+[2026-05-14 02:08:20]       Found 0 job URLs via regex
+[2026-05-14 02:08:21]     Vietnamworks: ielts teacher ho-chi-minh-vn page 0
+[2026-05-14 02:08:24]       Found 0 job cards on page
+[2026-05-14 02:08:24]       Found 0 job URLs via regex
+[2026-05-14 02:08:25]     Vietnamworks: ielts teacher ho-chi-minh-vn page 1
+[2026-05-14 02:08:28]       Found 0 job cards on page
+[2026-05-14 02:08:28]       Found 0 job URLs via regex
+[2026-05-14 02:08:29]     Vietnamworks: business english ho-chi-minh-vn page 0
+[2026-05-14 02:08:32]       Found 0 job cards on page
+[2026-05-14 02:08:32]       Found 0 job URLs via regex
+[2026-05-14 02:08:33]     Vietnamworks: business english ho-chi-minh-vn page 1
+[2026-05-14 02:08:36]       Found 0 job cards on page
+[2026-05-14 02:08:36]       Found 0 job URLs via regex
+[2026-05-14 02:08:37]   Vietnamworks: collected 0 raw jobs
+[2026-05-14 02:08:37]   Total raw jobs collected: 117
+Traceback (most recent call last):
+  File "/home/amrba/job_scraper/vietnam_scraper.py", line 780, in <module>
+    main()
+    ~~~~^^
+  File "/home/amrba/job_scraper/vietnam_scraper.py", line 739, in main
+    matched = filter_and_score(raw_jobs)
+  File "/home/amrba/job_scraper/vietnam_scraper.py", line 550, in filter_and_score
+    scored = [j for j in jobs if score_job(j)]
+                                 ~~~~~~~~~^^^
+  File "/home/amrba/job_scraper/vietnam_scraper.py", line 516, in score_job
+    lo, hi = parse_salary_vnd(salary_text)
+             ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/home/amrba/job_scraper/vietnam_scraper.py", line 123, in parse_salary_vnd
+    val = float(m.group(1).replace(',', '')) * 1_000_000
+          ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: ''
+===== Scraper run finished: Thu May 14 02:08:37 +07 2026 | exit=1 =====
