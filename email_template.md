@@ -6,15 +6,13 @@ General job applications to schools/companies in China and Vietnam. Adjust [Spec
 ## Template
 
 ```
-Hi [Name],
+Hi,
 
-Hope you're well. I'm applying for the [Specific Position] at [School Name].
+I'm a teacher with over 6 years of experience across IELTS preparation, Business English, and Cambridge/international curricula. I hold a PGCE from Liverpool John Moores University, an MA in Education, and an MA in AI for Business.
 
-I bring 6+ years of teaching experience across Business, Economics, and exam preparation (IGCSE, IB, A-Level), with a PGCE from Liverpool John Moores, an MA in Education, and an MA in AI for Business. I'm particularly focused on Business English and have worked extensively with students across Asia who need to master Business and Economics concepts in a non-native English environment.
+I'm currently based in Vietnam and ready to relocate. I'm particularly experienced with students in non-native English environments and have a track record of helping them achieve strong results in IELTS and Business English.
 
-IELTS has been part of my toolkit, but I'm looking to move deeper into Business and Economics full-time.
-
-Currently ready to relocate wherever the right opportunity takes me. Happy to share my CV or jump on a call.
+Happy to share my CV or jump on a call.
 
 Best,
 Ford
