@@ -1,180 +1,171 @@
-[2026-05-14 11:47:01] ============================================================
-[2026-05-14 11:47:01] STARTING JOB SCRAPE v2
-[2026-05-14 11:47:01] ============================================================
-[2026-05-14 11:47:01] eChinacities session cookies loaded
-[2026-05-14 11:47:01] Scraping eChinacities...
-[2026-05-14 11:47:03]   'english teacher': HTTP 200, 862825 bytes
-[2026-05-14 11:47:03]     Total available: 2087 jobs
-[2026-05-14 11:47:03]     Page 1: 25 jobs
-[2026-05-14 11:47:03]     Page 2: 25 jobs
-[2026-05-14 11:47:04]     Page 3: 25 jobs
-[2026-05-14 11:47:04]     Page 4: 25 jobs
-[2026-05-14 11:47:05]     Page 5: 25 jobs
-[2026-05-14 11:47:05]     Page 6: 25 jobs
-[2026-05-14 11:47:05]     Page 7: 25 jobs
-[2026-05-14 11:47:06]     Page 8: 25 jobs
-[2026-05-14 11:47:06]     Page 9: 25 jobs
-[2026-05-14 11:47:06]     Page 10: 25 jobs
-[2026-05-14 11:47:07]     Page 11: 25 jobs
-[2026-05-14 11:47:07]     Page 12: 25 jobs
-[2026-05-14 11:47:08]     Page 13: 25 jobs
-[2026-05-14 11:47:08]     Page 14: 25 jobs
-[2026-05-14 11:47:08]     Page 15: 25 jobs
-[2026-05-14 11:47:09]     Page 16: 25 jobs
-[2026-05-14 11:47:09]     Page 17: 25 jobs
-[2026-05-14 11:47:09]     Page 18: 25 jobs
-[2026-05-14 11:47:10]     Page 19: 25 jobs
-[2026-05-14 11:47:10]     Page 20: 25 jobs
-[2026-05-14 11:47:11]   'business teacher': HTTP 200, 862771 bytes
-[2026-05-14 11:47:11]     Total available: 2033 jobs
-[2026-05-14 11:47:11]     Page 1: 25 jobs
-[2026-05-14 11:47:11]     Page 2: 25 jobs
-[2026-05-14 11:47:11]     Page 3: 25 jobs
-[2026-05-14 11:47:12]     Page 4: 25 jobs
-[2026-05-14 11:47:12]     Page 5: 25 jobs
-[2026-05-14 11:47:12]     Page 6: 25 jobs
-[2026-05-14 11:47:13]     Page 7: 25 jobs
-[2026-05-14 11:47:13]     Page 8: 25 jobs
-[2026-05-14 11:47:13]     Page 9: 25 jobs
-[2026-05-14 11:47:14]     Page 10: 25 jobs
-[2026-05-14 11:47:14]     Page 11: 25 jobs
-[2026-05-14 11:47:15]     Page 12: 25 jobs
-[2026-05-14 11:47:15]     Page 13: 25 jobs
-[2026-05-14 11:47:15]     Page 14: 25 jobs
-[2026-05-14 11:47:16]     Page 15: 25 jobs
-[2026-05-14 11:47:16]     Page 16: 25 jobs
-[2026-05-14 11:47:16]     Page 17: 25 jobs
-[2026-05-14 11:47:17]     Page 18: 25 jobs
-[2026-05-14 11:47:17]     Page 19: 25 jobs
-[2026-05-14 11:47:18]     Page 20: 25 jobs
-[2026-05-14 11:47:18]   'economics teacher': HTTP 200, 863549 bytes
-[2026-05-14 11:47:18]     Total available: 1994 jobs
-[2026-05-14 11:47:18]     Page 1: 25 jobs
-[2026-05-14 11:47:18]     Page 2: 25 jobs
-[2026-05-14 11:47:19]     Page 3: 25 jobs
-[2026-05-14 11:47:19]     Page 4: 25 jobs
-[2026-05-14 11:47:19]     Page 5: 25 jobs
-[2026-05-14 11:47:20]     Page 6: 25 jobs
-[2026-05-14 11:47:20]     Page 7: 25 jobs
-[2026-05-14 11:47:21]     Page 8: 25 jobs
-[2026-05-14 11:47:21]     Page 9: 25 jobs
-[2026-05-14 11:47:21]     Page 10: 25 jobs
-[2026-05-14 11:47:22]     Page 11: 25 jobs
-[2026-05-14 11:47:22]     Page 12: 25 jobs
-[2026-05-14 11:47:22]     Page 13: 25 jobs
-[2026-05-14 11:47:23]     Page 14: 25 jobs
-[2026-05-14 11:47:23]     Page 15: 25 jobs
-[2026-05-14 11:47:24]     Page 16: 25 jobs
-[2026-05-14 11:47:24]     Page 17: 25 jobs
-[2026-05-14 11:47:24]     Page 18: 25 jobs
-[2026-05-14 11:47:25]     Page 19: 25 jobs
-[2026-05-14 11:47:25]     Page 20: 25 jobs
-[2026-05-14 11:47:25]   'humanities teacher': HTTP 200, 862375 bytes
-[2026-05-14 11:47:25]     Total available: 1989 jobs
-[2026-05-14 11:47:25]     Page 1: 25 jobs
-[2026-05-14 11:47:26]     Page 2: 25 jobs
-[2026-05-14 11:47:26]     Page 3: 25 jobs
-[2026-05-14 11:47:26]     Page 4: 25 jobs
-[2026-05-14 11:47:27]     Page 5: 25 jobs
-[2026-05-14 11:47:27]     Page 6: 25 jobs
-[2026-05-14 11:47:28]     Page 7: 25 jobs
-[2026-05-14 11:47:28]     Page 8: 25 jobs
-[2026-05-14 11:47:28]     Page 9: 25 jobs
-[2026-05-14 11:47:29]     Page 10: 25 jobs
-[2026-05-14 11:47:29]     Page 11: 25 jobs
-[2026-05-14 11:47:29]     Page 12: 25 jobs
-[2026-05-14 11:47:30]     Page 13: 25 jobs
-[2026-05-14 11:47:30]     Page 14: 25 jobs
-[2026-05-14 11:47:30]     Page 15: 25 jobs
-[2026-05-14 11:47:31]     Page 16: 25 jobs
-[2026-05-14 11:47:31]     Page 17: 25 jobs
-[2026-05-14 11:47:32]     Page 18: 25 jobs
-[2026-05-14 11:47:32]     Page 19: 25 jobs
-[2026-05-14 11:47:32]     Page 20: 25 jobs
-[2026-05-14 11:47:33]   'finance teacher': HTTP 200, 862481 bytes
-[2026-05-14 11:47:33]     Total available: 1988 jobs
-[2026-05-14 11:47:33]     Page 1: 25 jobs
-[2026-05-14 11:47:33]     Page 2: 25 jobs
-[2026-05-14 11:47:33]     Page 3: 25 jobs
-[2026-05-14 11:47:34]     Page 4: 25 jobs
-[2026-05-14 11:47:34]     Page 5: 25 jobs
-[2026-05-14 11:47:34]     Page 6: 25 jobs
-[2026-05-14 11:47:35]     Page 7: 25 jobs
-[2026-05-14 11:47:35]     Page 8: 25 jobs
-[2026-05-14 11:47:36]     Page 9: 25 jobs
-[2026-05-14 11:47:36]     Page 10: 25 jobs
-[2026-05-14 11:47:36]     Page 11: 25 jobs
-[2026-05-14 11:47:37]     Page 12: 25 jobs
-[2026-05-14 11:47:37]     Page 13: 25 jobs
-[2026-05-14 11:47:37]     Page 14: 25 jobs
-[2026-05-14 11:47:38]     Page 15: 25 jobs
-[2026-05-14 11:47:38]     Page 16: 25 jobs
-[2026-05-14 11:47:38]     Page 17: 25 jobs
-[2026-05-14 11:47:39]     Page 18: 25 jobs
-[2026-05-14 11:47:39]     Page 19: 25 jobs
-[2026-05-14 11:47:40]     Page 20: 25 jobs
-[2026-05-14 11:47:40]   eChinacities total: 90 unique jobs
-[2026-05-14 11:47:40] Total raw jobs: 90
-[2026-05-14 11:47:40] New (non-duplicate) jobs: 27 (skipped 63 duplicates)
-[2026-05-14 11:47:40]   ✅ MATCH: International School English Teacher  @ Zhejiang Wenhe Talent Development Co., LTD | ≤25000 CNY /Month | Hangzhou
-[2026-05-14 11:47:40]   ✅ MATCH: Middle&High School IBDP English Teacher @ Gushang Technology (Wuhan) Co., Ltd. | 25000 - 35000 CNY /Month | Suzhou
-[2026-05-14 11:47:40]   ✅ MATCH: High School English Teacher @ Gushang Technology (Wuhan) Co., Ltd. | 25000 - 35000 CNY /Month | Chengdu
-[2026-05-14 11:47:40]   ✅ MATCH: Native English Teacher Wanted for Kinder @ Zhangjiagang Shine Compass Kindergarten | 16000 - 22000 CNY /Month | Suzhou
-[2026-05-14 11:47:40]   ✅ MATCH: Cambridge High School English Teacher @ Xudashan Consulting Co.ltd | 25000 - 35000 CNY /Month | Beijing
-[2026-05-14 11:47:40]   ⛔ SKIP: Primary School English Teacher — Grade level too low
-[2026-05-14 11:47:40]   ⛔ SKIP: Primary English Teacher — Grade level too low
-[2026-05-14 11:47:40]   ✅ MATCH: IBDP EAL Teacher（English B） @ X-GIANTS  (Shanghai) Human Resources Co., Ltd. | 30000 - 40000 CNY /Month | Suzhou
-[2026-05-14 11:47:40]   ⛔ SKIP: Kindergarten English Teacher — Grade level too low
-[2026-05-14 11:47:40]   ✅ MATCH: Foreign English Teacher @ Shanghai Enrich Education Technology Co., Ltd | 20000 - 25000 CNY /Month | Shanghai
-[2026-05-14 11:47:40]   ✅ MATCH: English Teacher @ Beijing Yingcai Dingsheng Education Technology Co., Ltd. | 25000 - 30000 CNY /Month | Beijing
-[2026-05-14 11:47:40]   ⛔ SKIP: Kindergarten English & Homeroom Teacher — Grade level too low
-[2026-05-14 11:47:40]   ⛔ SKIP:  Kindergarten English Teacher（Shanghai） — Grade level too low
-[2026-05-14 11:47:40]   ✅ MATCH: Middle School English Teacher  @ To Summer Information Consulting Co., Ltd | 17000 - 18000 CNY /Month | Shenzhen
-[2026-05-14 11:47:40]   ⛔ SKIP: Kindergarten English Teacher (ESL) — Grade level too low
-[2026-05-14 11:47:40]   ⛔ SKIP: English Teacher — Grade level too low
-[2026-05-14 11:47:40]   ⛔ SKIP: Kindergarten Teachers — Subject mismatch
-[2026-05-14 11:47:40]   ✅ MATCH: Middle School Economics Teacher @ London Teacher Training College,China TEFL Branch | 20000 - 25000 CNY /Month | Guangzhou
-[2026-05-14 11:47:40]   ✅ MATCH: AP Humanities Teacher @ TiC, ticket into China | 25000 - 32000 CNY /Month | Chengdu
-[2026-05-14 11:47:40]   ⛔ SKIP: AP literature Teacher — Subject mismatch
-[2026-05-14 11:47:40]   ⛔ SKIP: University ESL Teacher for Sept. 2026 — Subject mismatch
-[2026-05-14 11:47:40]   ⛔ SKIP: University ESL Teacher in Jinan,Shandong — Subject mismatch
-[2026-05-14 11:47:40]   ⛔ SKIP: University EAP Teacher in Foshan — Subject mismatch
-[2026-05-14 11:47:40]   ⛔ SKIP: University Software Engineering Teacher — Subject mismatch
-[2026-05-14 11:47:40]   ⛔ SKIP: Math/Physics Teacher for High School  — Subject mismatch
-[2026-05-14 11:47:40]   ⛔ SKIP: IBPYP Kindergarten Teacher — Subject mismatch
-[2026-05-14 11:47:40]   ⛔ SKIP: Upper Secondary Biology Teacher — Subject mismatch
-[2026-05-14 11:47:40] Profile-matched jobs: 11
-[2026-05-14 11:47:40] Saved JSON: /home/amrba/job_scraper/jobs_data.json
-[2026-05-14 11:47:40] Saved XLS: /home/amrba/job_scraper/teaching_jobs_china_20260514.xlsx
-[2026-05-14 11:47:43]   ☁️  Drive: https://docs.google.com/spreadsheets/d/1zaYUdPXSXBi3nyeHNs0WrnmunzGfe12W/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
-[2026-05-14 11:47:43]   📄 Cover letter: 1_Zhejiang Wenhe Talen_International School English T.docx
-[2026-05-14 11:47:45]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1wrfdotFpSc4LwdHZuhRlkT8dTZbI9p_k/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
-[2026-05-14 11:47:45]   📄 Cover letter: 2_Gushang Technology W_MiddleHigh School IBDP English.docx
-[2026-05-14 11:47:48]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1h5T_3n23cS-a8GH5G2etgxC-4u6QgOmv/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
-[2026-05-14 11:47:48]   📄 Cover letter: 3_Gushang Technology W_High School English Teacher.docx
-[2026-05-14 11:47:50]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1Y2OOvE9KItj7zPiMjvES2OxRu03_8wyy/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
-[2026-05-14 11:47:50]   📄 Cover letter: 4_Xudashan Consulting_Cambridge High School English.docx
-[2026-05-14 11:47:52]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/18EifPo5hT3LUgnZSJ_Szqj2AzX9l4lfK/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
-[2026-05-14 11:47:52]   📄 Cover letter: 5_X-GIANTS  Shanghai H_IBDP EAL TeacherEnglish B.docx
-[2026-05-14 11:47:55]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1b_3q2pi_ldyzzUUgzY0fcGRk2OyqPnOm/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
-[2026-05-14 11:47:55]   📄 Cover letter: 6_Shanghai Enrich Educ_Foreign English Teacher.docx
-[2026-05-14 11:47:57]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1W9_n--JZX86LQMqON3Dce3cbhUq1OlGB/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
-[2026-05-14 11:47:57]   📄 Cover letter: 7_Beijing Yingcai Ding_English Teacher.docx
-[2026-05-14 11:48:00]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1Du5IfWs6kBRKP80GyeB0aMA5qgMCsVlK/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
-[2026-05-14 11:48:00]   📄 Cover letter: 8_London Teacher Train_Middle School Economics Teache.docx
-[2026-05-14 11:48:02]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1J6BbusPXTPacSBNhCR4BsF14mpP7f_is/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
-[2026-05-14 11:48:02]   📄 Cover letter: 9_TiC ticket into Chin_AP Humanities Teacher.docx
-[2026-05-14 11:48:05]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1oUxf0JhhgL-5gFR6ceIP6A__3bWchenU/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
-[2026-05-14 11:48:05]   📄 Cover letter: 10_Zhangjiagang Shine C_Native English Teacher Wanted.docx
-[2026-05-14 11:48:07]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1hkMLpSTrWHs31HX8d2nMyA8rhgn2bSHz/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
-[2026-05-14 11:48:07]   📄 Cover letter: 11_To Summer Informatio_Middle School English Teacher.docx
-[2026-05-14 11:48:09]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1G2cH53UojOiVULXLHNc7ifbz4yYto1YC/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
-[2026-05-14 11:48:09] Generated 11 cover letters in /home/amrba/job_scraper/cover_letters/
-[2026-05-14 11:48:09] ============================================================
-[2026-05-14 11:48:09] SCRAPE COMPLETE
-[2026-05-14 11:48:09]   Total scraped: 90
-[2026-05-14 11:48:09]   New jobs: 27
-[2026-05-14 11:48:09]   Matched: 11
-[2026-05-14 11:48:09]   XLS: /home/amrba/job_scraper/teaching_jobs_china_20260514.xlsx
-[2026-05-14 11:48:09]   Cover letters: /home/amrba/job_scraper/cover_letters/
-[2026-05-14 11:48:09] ============================================================
+[2026-05-15 00:01:00] ============================================================
+[2026-05-15 00:01:00] STARTING JOB SCRAPE v2
+[2026-05-15 00:01:00] ============================================================
+[2026-05-15 00:01:00] eChinacities session cookies loaded
+[2026-05-15 00:01:00] Scraping eChinacities...
+[2026-05-15 00:01:02]   'english teacher': HTTP 200, 860196 bytes
+[2026-05-15 00:01:02]     Total available: 2093 jobs
+[2026-05-15 00:01:02]     Page 1: 25 jobs
+[2026-05-15 00:01:03]     Page 2: 25 jobs
+[2026-05-15 00:01:03]     Page 3: 25 jobs
+[2026-05-15 00:01:03]     Page 4: 25 jobs
+[2026-05-15 00:01:04]     Page 5: 25 jobs
+[2026-05-15 00:01:04]     Page 6: 25 jobs
+[2026-05-15 00:01:05]     Page 7: 25 jobs
+[2026-05-15 00:01:05]     Page 8: 25 jobs
+[2026-05-15 00:01:05]     Page 9: 25 jobs
+[2026-05-15 00:01:06]     Page 10: 25 jobs
+[2026-05-15 00:01:06]     Page 11: 25 jobs
+[2026-05-15 00:01:07]     Page 12: 25 jobs
+[2026-05-15 00:01:07]     Page 13: 25 jobs
+[2026-05-15 00:01:08]     Page 14: 25 jobs
+[2026-05-15 00:01:08]     Page 15: 25 jobs
+[2026-05-15 00:01:08]     Page 16: 25 jobs
+[2026-05-15 00:01:09]     Page 17: 25 jobs
+[2026-05-15 00:01:09]     Page 18: 25 jobs
+[2026-05-15 00:01:10]     Page 19: 25 jobs
+[2026-05-15 00:01:10]     Page 20: 25 jobs
+[2026-05-15 00:01:10]   'business teacher': HTTP 200, 861270 bytes
+[2026-05-15 00:01:10]     Total available: 2037 jobs
+[2026-05-15 00:01:10]     Page 1: 25 jobs
+[2026-05-15 00:01:11]     Page 2: 25 jobs
+[2026-05-15 00:01:11]     Page 3: 25 jobs
+[2026-05-15 00:01:12]     Page 4: 25 jobs
+[2026-05-15 00:01:12]     Page 5: 25 jobs
+[2026-05-15 00:01:13]     Page 6: 25 jobs
+[2026-05-15 00:01:13]     Page 7: 25 jobs
+[2026-05-15 00:01:14]     Page 8: 25 jobs
+[2026-05-15 00:01:14]     Page 9: 25 jobs
+[2026-05-15 00:01:14]     Page 10: 25 jobs
+[2026-05-15 00:01:15]     Page 11: 25 jobs
+[2026-05-15 00:01:15]     Page 12: 25 jobs
+[2026-05-15 00:01:16]     Page 13: 25 jobs
+[2026-05-15 00:01:16]     Page 14: 25 jobs
+[2026-05-15 00:01:17]     Page 15: 25 jobs
+[2026-05-15 00:01:17]     Page 16: 25 jobs
+[2026-05-15 00:01:17]     Page 17: 25 jobs
+[2026-05-15 00:01:18]     Page 18: 25 jobs
+[2026-05-15 00:01:18]     Page 19: 25 jobs
+[2026-05-15 00:01:19]     Page 20: 25 jobs
+[2026-05-15 00:01:19]   'economics teacher': HTTP 200, 861965 bytes
+[2026-05-15 00:01:19]     Total available: 1998 jobs
+[2026-05-15 00:01:19]     Page 1: 25 jobs
+[2026-05-15 00:01:19]     Page 2: 25 jobs
+[2026-05-15 00:01:20]     Page 3: 25 jobs
+[2026-05-15 00:01:20]     Page 4: 25 jobs
+[2026-05-15 00:01:21]     Page 5: 25 jobs
+[2026-05-15 00:01:21]     Page 6: 25 jobs
+[2026-05-15 00:01:22]     Page 7: 25 jobs
+[2026-05-15 00:01:22]     Page 8: 25 jobs
+[2026-05-15 00:01:22]     Page 9: 25 jobs
+[2026-05-15 00:01:23]     Page 10: 25 jobs
+[2026-05-15 00:01:23]     Page 11: 25 jobs
+[2026-05-15 00:01:24]     Page 12: 25 jobs
+[2026-05-15 00:01:24]     Page 13: 25 jobs
+[2026-05-15 00:01:25]     Page 14: 25 jobs
+[2026-05-15 00:01:25]     Page 15: 25 jobs
+[2026-05-15 00:01:25]     Page 16: 25 jobs
+[2026-05-15 00:01:26]     Page 17: 25 jobs
+[2026-05-15 00:01:26]     Page 18: 25 jobs
+[2026-05-15 00:01:28]     Page 19: 25 jobs
+[2026-05-15 00:01:28]     Page 20: 25 jobs
+[2026-05-15 00:01:28]   'humanities teacher': HTTP 200, 861021 bytes
+[2026-05-15 00:01:28]     Total available: 1994 jobs
+[2026-05-15 00:01:28]     Page 1: 25 jobs
+[2026-05-15 00:01:29]     Page 2: 25 jobs
+[2026-05-15 00:01:29]     Page 3: 25 jobs
+[2026-05-15 00:01:30]     Page 4: 25 jobs
+[2026-05-15 00:01:30]     Page 5: 25 jobs
+[2026-05-15 00:01:30]     Page 6: 25 jobs
+[2026-05-15 00:01:31]     Page 7: 25 jobs
+[2026-05-15 00:01:31]     Page 8: 25 jobs
+[2026-05-15 00:01:31]     Page 9: 25 jobs
+[2026-05-15 00:01:32]     Page 10: 25 jobs
+[2026-05-15 00:01:32]     Page 11: 25 jobs
+[2026-05-15 00:01:32]     Page 12: 25 jobs
+[2026-05-15 00:01:33]     Page 13: 25 jobs
+[2026-05-15 00:01:33]     Page 14: 25 jobs
+[2026-05-15 00:01:34]     Page 15: 25 jobs
+[2026-05-15 00:01:34]     Page 16: 25 jobs
+[2026-05-15 00:01:34]     Page 17: 25 jobs
+[2026-05-15 00:01:35]     Page 18: 25 jobs
+[2026-05-15 00:01:35]     Page 19: 25 jobs
+[2026-05-15 00:01:35]     Page 20: 25 jobs
+[2026-05-15 00:01:36]   'finance teacher': HTTP 200, 861022 bytes
+[2026-05-15 00:01:36]     Total available: 1992 jobs
+[2026-05-15 00:01:36]     Page 1: 25 jobs
+[2026-05-15 00:01:36]     Page 2: 25 jobs
+[2026-05-15 00:01:36]     Page 3: 25 jobs
+[2026-05-15 00:01:37]     Page 4: 25 jobs
+[2026-05-15 00:01:37]     Page 5: 25 jobs
+[2026-05-15 00:01:38]     Page 6: 25 jobs
+[2026-05-15 00:01:38]     Page 7: 25 jobs
+[2026-05-15 00:01:38]     Page 8: 25 jobs
+[2026-05-15 00:01:39]     Page 9: 25 jobs
+[2026-05-15 00:01:39]     Page 10: 25 jobs
+[2026-05-15 00:01:39]     Page 11: 25 jobs
+[2026-05-15 00:01:40]     Page 12: 25 jobs
+[2026-05-15 00:01:40]     Page 13: 25 jobs
+[2026-05-15 00:01:40]     Page 14: 25 jobs
+[2026-05-15 00:01:41]     Page 15: 25 jobs
+[2026-05-15 00:01:41]     Page 16: 25 jobs
+[2026-05-15 00:01:42]     Page 17: 25 jobs
+[2026-05-15 00:01:42]     Page 18: 25 jobs
+[2026-05-15 00:01:42]     Page 19: 25 jobs
+[2026-05-15 00:01:43]     Page 20: 25 jobs
+[2026-05-15 00:01:43]   eChinacities total: 91 unique jobs
+[2026-05-15 00:01:43] Total raw jobs: 91
+[2026-05-15 00:01:43] New (non-duplicate) jobs: 26 (skipped 65 duplicates)
+[2026-05-15 00:01:43]   ⛔ SKIP: Primary School English Teacher  — Grade level too low
+[2026-05-15 00:01:43]   ⛔ SKIP: Kindergarten English Teacher(Beijing)  — Grade level too low
+[2026-05-15 00:01:43]   ✅ MATCH: High School English Teacher @ Sino-Global Education Development Foundation | 20000 - 28000 CNY /Month | Hefei
+[2026-05-15 00:01:43]   ⛔ SKIP: Part time English Teacher — Salary too low
+[2026-05-15 00:01:43]   ✅ MATCH: Middle/High School English Teacher @ New Peak Recruitment | 30000 - 34000 CNY /Month | Shenzhen
+[2026-05-15 00:01:43]   ✅ MATCH: English Teacher @ TiC, ticket into China | 16000 - 18000 CNY /Month | Shanghai
+[2026-05-15 00:01:43]   ⛔ SKIP: Public High School Oral English Teacher — Salary too low
+[2026-05-15 00:01:43]   ✅ MATCH: English Teacher in Kids Training Center  @ Yinzhi International Talent | 15000 - 18000 CNY /Month | Wuhan
+[2026-05-15 00:01:43]   ✅ MATCH: English Teacher @ Shenzhen Ruiqu Education Consulting Co., Ltd. | 20000 - 35000 CNY /Month | Shenzhen
+[2026-05-15 00:01:43]   ⛔ SKIP: Primary School English Teacher — Grade level too low
+[2026-05-15 00:01:43]   ⛔ SKIP: Primary School English Teacher wanted  — Grade level too low
+[2026-05-15 00:01:43]   ⛔ SKIP: Kindergarten English Teacher — Grade level too low
+[2026-05-15 00:01:43]   ⛔ SKIP: Kindergarten English Teacher  — Grade level too low
+[2026-05-15 00:01:43]   ⛔ SKIP: Kindergarten Homeroom Teacher,Downtown — Subject mismatch
+[2026-05-15 00:01:43]   ⛔ SKIP: Family Pre-Nursery Teacher for 1.5yr boy — Grade level too low
+[2026-05-15 00:01:43]   ⛔ SKIP: Kindergarten Homeroom Teacher in Pudong — Subject mismatch
+[2026-05-15 00:01:43]   ⛔ SKIP: Kindergarten Homeroom Teacher  — Subject mismatch
+[2026-05-15 00:01:43]   ⛔ SKIP: Kindergarten Homeroom Teacher  — Grade level too low
+[2026-05-15 00:01:43]   ⛔ SKIP: Volleyball Teacher Start in Sep — Subject mismatch
+[2026-05-15 00:01:43]   ⛔ SKIP: Physic /Math Teacher for University — Subject mismatch
+[2026-05-15 00:01:43]   ✅ MATCH: Kinder Teacher Start in Sep @ Sichuan International Talent Service Center(Chengdu) Co., Ltd. | 24000 - 25000 CNY /Month | Chengdu
+[2026-05-15 00:01:43]   ⛔ SKIP: Art Teacher for International School-Aug — Subject mismatch
+[2026-05-15 00:01:43]   ✅ MATCH: EAP Teacher for Uni Start in Sep @ Sichuan International Talent Service Center(Chengdu) Co., Ltd. | 25000 CNY /Month | Sanya
+[2026-05-15 00:01:43]   ⛔ SKIP: Homeroom / ESL  Teacher — Subject mismatch
+[2026-05-15 00:01:43]   ⛔ SKIP: Chengdu, Kindergarten Homeroom Teacher — Subject mismatch
+[2026-05-15 00:01:43]   ⛔ SKIP: Homeroom ESL Teacher  — Subject mismatch
+[2026-05-15 00:01:43] Profile-matched jobs: 7
+[2026-05-15 00:01:43] Saved JSON: /home/amrba/job_scraper/jobs_data.json
+[2026-05-15 00:01:43] Saved XLS: /home/amrba/job_scraper/teaching_jobs_china_20260515.xlsx
+[2026-05-15 00:01:46]   ☁️  Drive: https://docs.google.com/spreadsheets/d/1ipC8n2A8i6PZPh74wMRkHxRbRsCw3o7D/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
+[2026-05-15 00:01:46]   📄 Cover letter: 1_Sino-Global Educatio_High School English Teacher.docx
+[2026-05-15 00:01:48]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1w6W38989sFIq2XPrxIBwaR9NVCvHGv2p/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
+[2026-05-15 00:01:48]   📄 Cover letter: 2_New Peak Recruitment_MiddleHigh School English Teac.docx
+[2026-05-15 00:01:52]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1DcOq_vKhMuRx9XhlIoO5_TJq8RgBs5Dw/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
+[2026-05-15 00:01:52]   📄 Cover letter: 3_Shenzhen Ruiqu Educa_English Teacher.docx
+[2026-05-15 00:01:54]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1nZ5tako9KC9tlWs88JjNbtFzvMpSclQ1/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
+[2026-05-15 00:01:54]   📄 Cover letter: 4_Sichuan Internationa_Kinder Teacher Start in Sep.docx
+[2026-05-15 00:01:56]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1dx8FBcrwWCNJJOKfXjTLg6jN0JwjJxl-/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
+[2026-05-15 00:01:56]   📄 Cover letter: 5_Sichuan Internationa_EAP Teacher for Uni Start in S.docx
+[2026-05-15 00:01:59]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/15DAJ8ruDgXpVL15TeZGHnGi3lTF5Nrp0/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
+[2026-05-15 00:01:59]   📄 Cover letter: 6_TiC ticket into Chin_English Teacher.docx
+[2026-05-15 00:02:01]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1LmEYN6MpO-wdFzC44vVE2P--u7HPug2x/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
+[2026-05-15 00:02:01]   📄 Cover letter: 7_Yinzhi International_English Teacher in Kids Traini.docx
+[2026-05-15 00:02:04]   ☁️  Uploaded to Drive: https://docs.google.com/document/d/1f3USNQqmfmFxnlG6bpqf5irXW2KuRWLI/edit?usp=drivesdk&ouid=115581999654882243428&rtpof=true&sd=true
+[2026-05-15 00:02:04] Generated 7 cover letters in /home/amrba/job_scraper/cover_letters/
+[2026-05-15 00:02:04] ============================================================
+[2026-05-15 00:02:04] SCRAPE COMPLETE
+[2026-05-15 00:02:04]   Total scraped: 91
+[2026-05-15 00:02:04]   New jobs: 26
+[2026-05-15 00:02:04]   Matched: 7
+[2026-05-15 00:02:04]   XLS: /home/amrba/job_scraper/teaching_jobs_china_20260515.xlsx
+[2026-05-15 00:02:04]   Cover letters: /home/amrba/job_scraper/cover_letters/
+[2026-05-15 00:02:04] ============================================================

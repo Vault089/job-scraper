@@ -101,7 +101,10 @@ def parse_salary_vnd(text):
     for pat in hourly_patterns:
         m = re.search(pat, text)
         if m:
-            val = float(m.group(1).replace(',', '')) * 1_000
+            raw = m.group(1).replace(',', '').strip()
+            if not raw:
+                return (None, None)
+            val = float(raw) * 1_000
             monthly = val * HOURS_PER_MONTH
             return (monthly, monthly)
 
@@ -116,11 +119,17 @@ def parse_salary_vnd(text):
     for pat in month_patterns:
         m = re.search(pat, text)
         if m:
+            raw1 = m.group(1).replace(',', '').strip()
+            if not raw1:
+                return (None, None)
             if len(m.groups()) == 2:
-                lo = float(m.group(1).replace(',', '')) * 1_000_000
-                hi = float(m.group(2).replace(',', '')) * 1_000_000
+                raw2 = m.group(2).replace(',', '').strip()
+                if not raw2:
+                    return (None, None)
+                lo = float(raw1) * 1_000_000
+                hi = float(raw2) * 1_000_000
             else:
-                val = float(m.group(1).replace(',', '')) * 1_000_000
+                val = float(raw1) * 1_000_000
                 lo = hi = val
             return (lo, hi)
 
@@ -128,13 +137,20 @@ def parse_salary_vnd(text):
     usd_range = r'\$([\d,]+)\s*-\s*\$?([\d,]+)\s*(?:usd|usd/month|usd/yr)'
     m = re.search(usd_range, text)
     if m:
-        lo = float(m.group(1).replace(',', '')) * USD_TO_VND
-        hi = float(m.group(2).replace(',', '')) * USD_TO_VND
+        raw1 = m.group(1).replace(',', '').strip()
+        raw2 = m.group(2).replace(',', '').strip()
+        if not raw1 or not raw2:
+            return (None, None)
+        lo = float(raw1) * USD_TO_VND
+        hi = float(raw2) * USD_TO_VND
         return (lo, hi)
     usd_single = r'\$([\d,]+)\s*(?:usd|usd/month|usd/yr)'
     m = re.search(usd_single, text)
     if m:
-        val = float(m.group(1).replace(',', '')) * USD_TO_VND
+        raw = m.group(1).replace(',', '').strip()
+        if not raw:
+            return (None, None)
+        val = float(raw) * USD_TO_VND
         return (val, val)
 
     return (None, None)
