@@ -56,12 +56,8 @@ PROFILE = {
     'name': 'Amro Badr (Ford)',
     'email': 'amrbadr15@gmail.com',
     'phone': '+84 898091337',
-    'subjects': ['english', 'business', 'economics', 'humanities',
-                 'business management', 'finance'],
-    'min_salary_vnd': 50_000_000,   # 50M VND/month minimum
-    'target_salary_vnd': 70_000_000, # 70M VND target
-    'min_grade': 6,
-    'require_fulltime': True,
+    'subjects': ['english', 'esl', 'efl', 'tefl', 'business', 'economics', 'humanities',
+                 'business management', 'finance', 'teaching', 'education'],
 }
 
 SEARCH_TERMS = [
@@ -511,43 +507,9 @@ def score_job(job):
                  job.get('requirements', '')).lower()
     salary_text = job.get('salary', '') or ''
 
-    # ── Grade scoring ──────────────────────────────────────────────────────
-    grade = grade_level(full_text)
-    if isinstance(grade, int) and grade >= PROFILE['min_grade']:
-        score += 40
-        reasons.append(f'Grade {grade}')
-    elif grade == 'high':
-        score += 30
-        reasons.append('High School')
-    elif grade == 'uni':
-        score += 20
-        reasons.append('University')
-    elif grade is None:
-        score += 10  # unspecified grade — don't penalise heavily
-        reasons.append('Grade unspecified')
-    else:
-        reasons.append(f'Grade {grade} < min')
-
-    # ── Salary scoring ─────────────────────────────────────────────────────
-    lo, hi = parse_salary_vnd(salary_text)
-    salary_display = ''
-    if hi:
-        salary_display = f'{hi/1e6:.0f}M'
-    if hi and hi >= PROFILE['target_salary_vnd']:
-        score += 30
-        reasons.append(f'Salary {salary_display}M VND (target)')
-    elif hi and hi >= PROFILE['min_salary_vnd']:
-        score += 20
-        reasons.append(f'Salary {salary_display}M VND (min met)')
-    elif hi is None and salary_text:
-        score += 5  # salary stated but couldn't parse
-        reasons.append('Salary stated')
-    elif hi and hi < PROFILE['min_salary_vnd']:
-        reasons.append(f'Salary {salary_display}M VND (low)')
-
     # ── Subject match ──────────────────────────────────────────────────────
     if subject_match(full_text):
-        score += 20
+        score += 30
         reasons.append('Subject match')
 
     # ── Job type ───────────────────────────────────────────────────────────
@@ -555,17 +517,26 @@ def score_job(job):
     if jt == 'Full-time':
         score += 10
         reasons.append('Full-time')
-    elif PROFILE['require_fulltime'] and jt != 'Full-time':
-        score -= 20  # penalise part-time/contract
+
+    # ── Salary bonus (if parseable, no minimum enforced) ───────────────────
+    lo, hi = parse_salary_vnd(salary_text)
+    if hi:
+        salary_display = f'{hi/1e6:.0f}M'
+        if hi >= 70_000_000:
+            score += 20
+            reasons.append(f'Salary {salary_display}M VND (target)')
+        elif hi >= 50_000_000:
+            score += 10
+            reasons.append(f'Salary {salary_display}M VND')
 
     job['match_score'] = score
     job['match_reasons'] = ', '.join(reasons)
-    return score >= 70
+    return score >= 30   # low threshold — cast wide net
 
 def filter_and_score(jobs):
     scored = [j for j in jobs if score_job(j)]
     scored.sort(key=lambda j: j['match_score'], reverse=True)
-    log(f"  Jobs matching profile (score >= 70): {len(scored)}")
+    log(f"  Jobs matching profile (score >= 30): {len(scored)}")
     for j in scored:
         log(f"    Score {j['match_score']}: {j['title'][:55]} @ {j['company'][:30]} "
             f"| {j['job_type']} | {j['salary']}")
@@ -773,7 +744,7 @@ def main():
 
     # ── Export XLS ─────────────────────────────────────────────────────────────
     # Export all matched jobs (new + previously matched)
-    exportable = [j for j in all_jobs if j.get('match_score', 0) >= 70]
+    exportable = [j for j in all_jobs if j.get('match_score', 0) >= 30]
     exportable.sort(key=lambda x: x.get('match_score', 0), reverse=True)
     export_xls(exportable, date_str)
 

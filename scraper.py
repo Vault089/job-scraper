@@ -24,10 +24,7 @@ PROFILE = {
     'name': 'Amro Badr (Ford)',
     'email': 'Amrbadr15@gmail.com',
     'phone': '+84 898091337',
-    'subjects': ['english', 'business', 'economics', 'humanities', 'business management', 'finance'],
-    'min_salary_rmb': 14000,
-    'min_grade': 6,
-    'min_contract_months': 10,
+    'subjects': ['english', 'esl', 'efl', 'tefl', 'business', 'economics', 'humanities', 'business management', 'finance', 'teaching', 'education'],
     'teaching_certs': ['TEFL', 'TESOL', 'PGCE'],
     'degree': 'BA Business Management & Finance',
     'experience_years': 7,
@@ -168,19 +165,16 @@ def grade_level_ok(text):
 
 def matches_profile(job):
     full_text = f"{job.get('title', '')} {job.get('description', '')}"
-    
+
     # Must mention target subjects
     if not meets_subject_requirement(full_text):
         return False, 'Subject mismatch'
-    
-    # Must meet salary
-    if not meets_salary_requirement(job.get('salary', job.get('salaryRmb', ''))):
-        return False, 'Salary too low'
-    
-    # Must have acceptable grade level
-    if not grade_level_ok(full_text):
-        return False, 'Grade level too low'
-    
+
+    # Score the job
+    job['match_score'] = compute_match_score(job)
+    if job['match_score'] < 30:
+        return False, 'Score too low'
+
     return True, 'Match'
 
 def compute_match_score(job):
@@ -365,7 +359,6 @@ def scrape_all():
     for job in new_jobs:
         is_match, reason = matches_profile(job)
         if is_match:
-            job['match_score'] = compute_match_score(job)
             matched_jobs.append(job)
             log(f"  ✅ MATCH: {job['title']} @ {job['company']} | {job['salary']} | {job['location']}")
         else:
