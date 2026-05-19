@@ -10,6 +10,10 @@ import os, sys, re, json, hashlib
 from datetime import datetime
 import time, random
 
+# Email discovery — only include jobs we can actually email
+sys.path.insert(0, '/home/amrba/job_scraper')
+from email_discovery import discover_email, enrich_job_with_email
+
 # ─── PATHS ────────────────────────────────────────────────────────────────────
 BASE_DIR = '/home/amrba/job_scraper'
 VENV_PYTHON = '/home/amrba/job_scraper/venv/bin/python3'
@@ -189,9 +193,16 @@ def scrape_linkedin():
             for jid in new_ids:
                 job = _fetch_linkedin_job(browser, jid)
                 if job:
-                    jobs.append(job)
-                    log(f"    ✓ Job {job['id']}: {job['title'][:50]} @ {job['company']}")
-                time.sleep(random.uniform(0.5, 1.0))
+                    # Email-first filtering: only keep jobs we can email
+                    email = discover_email(job, browser)
+                    if email:
+                        job['recruiter_email'] = email
+                        job['email_path'] = 'direct'
+                        jobs.append(job)
+                        log(f"    ✓ Job {job['id']}: {job['title'][:50]} @ {job['company']} → {email}")
+                    else:
+                        log(f"    ✗ Job {jid}: no email path found (skipping)")
+                    time.sleep(random.uniform(0.5, 1.0))
 
         except Exception as e:
             log(f"  Search error for '{term}': {e}")
@@ -347,9 +358,15 @@ def scrape_vietnamworks():
                     full_url = f'https://www.vietnamworks.com{jurl}'
                     job = _fetch_vietnamworks_job(browser, full_url)
                     if job:
-                        jobs.append(job)
-                        log(f"      ✓ {job['title'][:50]} @ {job['company']}")
-                    time.sleep(random.uniform(0.5, 1.0))
+                        email = discover_email(job, browser)
+                        if email:
+                            job['recruiter_email'] = email
+                            job['email_path'] = 'direct'
+                            jobs.append(job)
+                            log(f"      ✓ {job['title'][:50]} @ {job['company']} → {email}")
+                        else:
+                            log(f"      ✗ {full_url}: no email path (skipping)")
+                        time.sleep(random.uniform(0.5, 1.0))
 
             except Exception as e:
                 log(f"      Page error: {e}")
@@ -587,7 +604,7 @@ def export_xls(jobs, date_str):
     border = Border(left=thin, right=thin, top=thin, bottom=thin)
 
     cols = ['Company Name', 'Job Title', 'Location', 'Salary (VND)',
-            'Requirements', 'Score', 'Match Reasons', 'Source', 'URL', 'Job Type']
+            'Recruiter Email', 'Requirements', 'Score', 'Match Reasons', 'Source', 'URL', 'Job Type']
     ws.append(cols)
     for cell in ws[1]:
         cell.font = header_font
@@ -601,6 +618,7 @@ def export_xls(jobs, date_str):
             job.get('title', ''),
             job.get('location', ''),
             job.get('salary', ''),
+            job.get('recruiter_email', ''),
             (job.get('requirements', '') or job.get('description', ''))[:400],
             job.get('match_score', 0),
             job.get('match_reasons', ''),
@@ -617,16 +635,17 @@ def export_xls(jobs, date_str):
         for col in range(1, len(cols) + 1):
             ws.cell(row=row_idx, column=col).border = border
 
-    ws.column_dimensions['A'].width = 28
-    ws.column_dimensions['B'].width = 38
-    ws.column_dimensions['C'].width = 20
-    ws.column_dimensions['D'].width = 20
-    ws.column_dimensions['E'].width = 55
-    ws.column_dimensions['F'].width = 8
-    ws.column_dimensions['G'].width = 32
-    ws.column_dimensions['H'].width = 14
-    ws.column_dimensions['I'].width = 45
-    ws.column_dimensions['J'].width = 12
+    ws.column_dimensions['A'].width = 26
+    ws.column_dimensions['B'].width = 36
+    ws.column_dimensions['C'].width = 18
+    ws.column_dimensions['D'].width = 18
+    ws.column_dimensions['E'].width = 28
+    ws.column_dimensions['F'].width = 50
+    ws.column_dimensions['G'].width = 8
+    ws.column_dimensions['H'].width = 30
+    ws.column_dimensions['I'].width = 14
+    ws.column_dimensions['J'].width = 42
+    ws.column_dimensions['K'].width = 12
     ws.freeze_panes = 'A2'
     try:
         ws.auto_filter.ref = ws.dimensions

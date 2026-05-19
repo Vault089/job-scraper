@@ -19,6 +19,11 @@ from docx import Document
 from docx.shared import Pt, RGBColor, Inches
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
+# Email discovery — only include jobs we can actually email
+import sys
+sys.path.insert(0, '/mnt/f/job_scraper')
+from email_discovery import discover_email
+
 # ─── CONFIGURATION ───────────────────────────────────────────────
 PROFILE = {
     'name': 'Amro Badr (Ford)',
@@ -281,7 +286,13 @@ def scrape_eChinacities(session):
                             'is_new': job.get('isNew', False),
                             'is_hot': job.get('hot', False),
                         }
-                        jobs.append(j)
+                        # Email-first: only keep jobs we can actually apply to
+                        email = discover_email(j)
+                        if email:
+                            j['recruiter_email'] = email
+                            j['email_path'] = 'direct'
+                            jobs.append(j)
+                        # else: skip job silently — no email path = no application
                 else:
                     if page == 1:
                         log(f"    No JSON data found")
@@ -410,7 +421,7 @@ def export_to_xls(jobs):
     )
     alt_fill = PatternFill(start_color='E8F0F7', end_color='E8F0F7', fill_type='solid')
     
-    headers = ['#', 'Company', 'Job Title', 'Location', 'Salary (RMB)', 'Job Type', 'Match %', 'URL', 'Description', 'Tags']
+    headers = ['#', 'Company', 'Job Title', 'Location', 'Salary (RMB)', 'Job Type', 'Match %', 'Recruiter Email', 'URL', 'Description', 'Tags']
     for col, h in enumerate(headers, 1):
         cell = ws.cell(row=1, column=col, value=h)
         cell.font = header_font
@@ -418,7 +429,7 @@ def export_to_xls(jobs):
         cell.alignment = header_align
         cell.border = thin_border
     
-    col_widths = [5, 28, 40, 18, 18, 15, 8, 45, 55, 30]
+    col_widths = [5, 26, 38, 16, 16, 14, 8, 28, 42, 52, 28]
     for col, width in enumerate(col_widths, 1):
         ws.column_dimensions[openpyxl.utils.get_column_letter(col)].width = width
     
@@ -431,6 +442,7 @@ def export_to_xls(jobs):
             job.get('salary', 'N/A'),
             job.get('job_type', 'N/A'),
             f"{job.get('match_score', 0)}%",
+            job.get('recruiter_email', 'N/A'),
             job.get('url', 'N/A'),
             (job.get('description', '') or '')[:300],
             ', '.join(job.get('tags', [])),
