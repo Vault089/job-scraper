@@ -196,3 +196,138 @@
 [2026-05-18 17:24:29]   XLS: /home/amrba/job_scraper/teaching_jobs_china_20260518.xlsx
 [2026-05-18 17:24:29]   Cover letters: /home/amrba/job_scraper/cover_letters/
 [2026-05-18 17:24:29] ============================================================
+[2026-05-23 00:01:29] ============================================================
+[2026-05-23 00:01:29] STARTING JOB SCRAPE v2
+[2026-05-23 00:01:29] ============================================================
+[2026-05-23 00:01:29] Scraping eChinacities...
+[2026-05-23 00:01:30]   'english teacher': HTTP 200, 706422 bytes
+[2026-05-23 00:01:30]     Total available: 2013 jobs
+[2026-05-23 00:01:30]     Page 1: 25 jobs
+[2026-05-23 00:01:31]     Page 2: 25 jobs
+[2026-05-23 00:01:31]     Page 3: 25 jobs
+[2026-05-23 00:01:32]     Page 4: 25 jobs
+[2026-05-23 00:01:32]     Page 5: 25 jobs
+[2026-05-23 00:01:32]     Page 6: 25 jobs
+[2026-05-23 00:01:33]     Page 7: 25 jobs
+[2026-05-23 00:01:33]     Page 8: 25 jobs
+[2026-05-23 00:01:33]     Page 9: 25 jobs
+[2026-05-23 00:01:34]     Page 10: 25 jobs
+[2026-05-23 00:01:34]     Page 11: 25 jobs
+[2026-05-23 00:01:34]     Page 12: 25 jobs
+[2026-05-23 00:01:35]     Page 13: 25 jobs
+[2026-05-23 00:01:35]     Page 14: 25 jobs
+[2026-05-23 00:01:35]     Page 15: 25 jobs
+[2026-05-23 00:01:36]     Page 16: 25 jobs
+[2026-05-23 00:01:36]     Page 17: 25 jobs
+[2026-05-23 00:01:36]     Page 18: 25 jobs
+[2026-05-23 00:01:37]     Page 19: 25 jobs
+[2026-05-23 00:01:37]     Page 20: 25 jobs
+[2026-05-23 00:01:37]   'business teacher': HTTP 200, 706520 bytes
+[2026-05-23 00:01:37]     Total available: 1961 jobs
+[2026-05-23 00:01:37]     Page 1: 25 jobs
+[2026-05-23 00:01:38]     Page 2: 25 jobs
+[2026-05-23 00:01:38]     Page 3: 25 jobs
+[2026-05-23 00:01:38]     Page 4: 25 jobs
+[2026-05-23 00:01:39]     Page 5: 25 jobs
+[2026-05-23 00:01:39]     Page 6: 25 jobs
+[2026-05-23 00:01:39]     Page 7: 25 jobs
+[2026-05-23 00:01:40]     Page 8: 25 jobs
+[2026-05-23 00:01:40]     Page 9: 25 jobs
+[2026-05-23 00:01:40]     Page 10: 25 jobs
+[2026-05-23 00:01:41]     Page 11: 25 jobs
+[2026-05-23 00:01:41]     Page 12: 25 jobs
+[2026-05-23 00:01:41]     Page 13: 25 jobs
+[2026-05-23 00:01:42]     Page 14: 25 jobs
+[2026-05-23 00:01:42]     Page 15: 25 jobs
+[2026-05-23 00:01:42]     Page 16: 25 jobs
+[2026-05-23 00:01:43]     Page 17: 25 jobs
+[2026-05-23 00:01:43]     Page 18: 25 jobs
+[2026-05-23 00:01:43]     Page 19: 25 jobs
+[2026-05-23 00:01:44]     Page 20: 25 jobs
+[2026-05-23 00:01:44]   'economics teacher': HTTP 200, 707223 bytes
+[2026-05-23 00:01:44]     Total available: 1921 jobs
+[2026-05-23 00:01:44]     Page 1: 25 jobs
+[2026-05-23 00:01:44]     Page 2: 25 jobs
+[2026-05-23 00:01:45]     Page 3: 25 jobs
+[2026-05-23 00:01:45]     Page 4: 25 jobs
+[2026-05-23 00:01:45]     Page 5: 25 jobs
+[2026-05-23 00:01:46]     Page 6: 25 jobs
+[2026-05-23 00:01:46]     Page 7: 25 jobs
+[2026-05-23 00:01:46]     Page 8: 25 jobs
+[2026-05-23 00:01:47]     Page 9: 25 jobs
+[2026-05-23 00:01:47]     Page 10: 25 jobs
+[2026-05-23 00:01:47]     Page 11: 25 jobs
+[2026-05-23 00:01:48]     Page 12: 25 jobs
+[2026-05-23 00:01:48]     Page 13: 25 jobs
+[2026-05-23 00:01:48]     Page 14: 25 jobs
+[2026-05-23 00:01:49]     Page 15: 25 jobs
+[2026-05-23 00:01:49]     Page 16: 25 jobs
+[2026-05-23 00:01:49]     Page 17: 25 jobs
+[2026-05-23 00:01:50]     Page 18: 25 jobs
+[2026-05-23 00:01:50]     Page 19: 25 jobs
+[2026-05-23 00:01:50]     Page 20: 25 jobs
+[2026-05-23 00:01:51]   'humanities teacher': HTTP 200, 706758 bytes
+[2026-05-23 00:01:51]     Total available: 1921 jobs
+[2026-05-23 00:01:51]     Page 1: 25 jobs
+[2026-05-23 00:01:51]     Page 2: 25 jobs
+[2026-05-23 00:01:51]     Page 3: 25 jobs
+[2026-05-23 00:01:52]     Page 4: 25 jobs
+[2026-05-23 00:01:52]     Page 5: 25 jobs
+[2026-05-23 00:01:52]     Page 6: 25 jobs
+[2026-05-23 00:01:53]     Page 7: 25 jobs
+[2026-05-23 00:01:53]     Page 8: 25 jobs
+[2026-05-23 00:01:53]     Page 9: 25 jobs
+[2026-05-23 00:01:54]     Page 10: 25 jobs
+[2026-05-23 00:01:54]     Page 11: 25 jobs
+[2026-05-23 00:01:54]     Page 12: 25 jobs
+[2026-05-23 00:01:55]     Page 13: 25 jobs
+[2026-05-23 00:01:55]     Page 14: 25 jobs
+[2026-05-23 00:01:55]     Page 15: 25 jobs
+[2026-05-23 00:01:56]     Page 16: 25 jobs
+[2026-05-23 00:01:56]     Page 17: 25 jobs
+[2026-05-23 00:01:56]     Page 18: 25 jobs
+[2026-05-23 00:01:57]     Page 19: 25 jobs
+[2026-05-23 00:01:57]     Page 20: 25 jobs
+[2026-05-23 00:01:57]   'finance teacher': HTTP 200, 706829 bytes
+[2026-05-23 00:01:57]     Total available: 1913 jobs
+[2026-05-23 00:01:57]     Page 1: 25 jobs
+[2026-05-23 00:01:58]     Page 2: 25 jobs
+[2026-05-23 00:01:58]     Page 3: 25 jobs
+[2026-05-23 00:01:58]     Page 4: 25 jobs
+[2026-05-23 00:01:59]     Page 5: 25 jobs
+[2026-05-23 00:01:59]     Page 6: 25 jobs
+[2026-05-23 00:01:59]     Page 7: 25 jobs
+[2026-05-23 00:02:00]     Page 8: 25 jobs
+[2026-05-23 00:02:00]     Page 9: 25 jobs
+[2026-05-23 00:02:00]     Page 10: 25 jobs
+[2026-05-23 00:02:01]     Page 11: 25 jobs
+[2026-05-23 00:02:01]     Page 12: 25 jobs
+[2026-05-23 00:02:01]     Page 13: 25 jobs
+[2026-05-23 00:02:02]     Page 14: 25 jobs
+[2026-05-23 00:02:02]     Page 15: 25 jobs
+[2026-05-23 00:02:02]     Page 16: 25 jobs
+[2026-05-23 00:02:03]     Page 17: 25 jobs
+[2026-05-23 00:02:03]     Page 18: 25 jobs
+[2026-05-23 00:02:03]     Page 19: 25 jobs
+[2026-05-23 00:02:04]     Page 20: 25 jobs
+[2026-05-23 00:02:04]   eChinacities total: 0 unique jobs
+[2026-05-23 00:02:04] Total raw jobs: 0
+[2026-05-23 00:02:04] New (non-duplicate) jobs: 0 (skipped 0 duplicates)
+[2026-05-23 00:02:04] Profile-matched jobs: 0
+[2026-05-23 00:02:04] Saved JSON: /home/amrba/job_scraper/jobs_data.json
+[2026-05-23 00:02:04] Saved XLS: /home/amrba/job_scraper/teaching_jobs_china_20260523.xlsx
+[2026-05-23 00:02:05] Generated 0 cover letters in /home/amrba/job_scraper/cover_letters/
+[2026-05-23 00:02:05] ============================================================
+[2026-05-23 00:02:05] SCRAPE COMPLETE
+[2026-05-23 00:02:05]   Total scraped: 0
+[2026-05-23 00:02:05]   New jobs: 0
+[2026-05-23 00:02:05]   Matched: 0
+[2026-05-23 00:02:05]   XLS: /home/amrba/job_scraper/teaching_jobs_china_20260523.xlsx
+[2026-05-23 00:02:05]   Cover letters: /home/amrba/job_scraper/cover_letters/
+[2026-05-23 00:02:05] ============================================================
+
+✅ SCRAPE COMPLETE
+   Jobs matched to profile: 0
+   XLS file: /home/amrba/job_scraper/teaching_jobs_china_20260523.xlsx
+   Cover letters: /home/amrba/job_scraper/cover_letters/
+   Log: /home/amrba/job_scraper/scraper.log
