@@ -14,6 +14,8 @@ import re
 import json
 import os
 import hashlib
+import time
+import random
 from datetime import datetime
 from docx import Document
 from docx.shared import Pt, RGBColor, Inches
@@ -35,6 +37,7 @@ PROFILE = {
     'experience_years': 7,
     'current_title': 'International Teacher',
     'languages': {'English': 'Native', 'Arabic': 'Native', 'Vietnamese': 'Spoken'},
+    'min_salary_rmb': 14000,
 }
 
 HEADERS = {
@@ -175,6 +178,15 @@ def matches_profile(job):
     if not meets_subject_requirement(full_text):
         return False, 'Subject mismatch'
 
+    # Filter out kindergarten / primary / elementary
+    if not grade_level_ok(full_text):
+        return False, 'Grade level too low'
+
+    # Salary minimum check (allows jobs with no salary listed)
+    sal_str = job.get('salary', '') or job.get('salaryRmb', '')
+    if sal_str and not meets_salary_requirement(sal_str):
+        return False, 'Salary too low'
+
     # Score the job
     job['match_score'] = compute_match_score(job)
     if job['match_score'] < 30:
@@ -240,10 +252,16 @@ def scrape_eChinacities(session):
         'finance teacher',
     ]
     
-    for term in search_terms:
+    for idx, term in enumerate(search_terms):
+        # Rate-limit: wait between search terms to avoid 429
+        if idx > 0:
+            time.sleep(random.uniform(3.0, 5.0))
         # Paginate through up to 20 pages per search term
         for page in range(1, 21):
             try:
+                # Delay between pages to avoid rate limiting
+                if page > 1:
+                    time.sleep(random.uniform(1.0, 2.0))
                 url = f'https://jobs.echinacities.com/jobs/search?keyword={term}&jobType=0&lastUpdate=30&page={page}'
                 r = session.get(url, headers=HEADERS, timeout=20)
                 
@@ -286,13 +304,15 @@ def scrape_eChinacities(session):
                             'is_new': job.get('isNew', False),
                             'is_hot': job.get('hot', False),
                         }
-                        # Email-first: only keep jobs we can actually apply to
+                        # Email discovery: keep job regardless, but track email status
                         email = discover_email(j)
                         if email:
                             j['recruiter_email'] = email
                             j['email_path'] = 'direct'
-                            jobs.append(j)
-                        # else: skip job silently — no email path = no application
+                        else:
+                            j['recruiter_email'] = None
+                            j['email_path'] = 'platform'  # apply via eChinacities
+                        jobs.append(j)
                 else:
                     if page == 1:
                         log(f"    No JSON data found")
