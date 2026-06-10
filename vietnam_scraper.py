@@ -193,15 +193,15 @@ def scrape_linkedin():
             for jid in new_ids:
                 job = _fetch_linkedin_job(browser, jid)
                 if job:
-                    # Email-first filtering: only keep jobs we can email
                     email = discover_email(job, browser)
                     if email:
                         job['recruiter_email'] = email
                         job['email_path'] = 'direct'
-                        jobs.append(job)
-                        log(f"    ✓ Job {job['id']}: {job['title'][:50]} @ {job['company']} → {email}")
                     else:
-                        log(f"    ✗ Job {jid}: no email path found (skipping)")
+                        job['recruiter_email'] = None
+                        job['email_path'] = 'platform'
+                    jobs.append(job)
+                    log(f"    ✓ Job {job['id']}: {job['title'][:50]} @ {job['company']} → {email or 'platform'}")
                     time.sleep(random.uniform(0.5, 1.0))
 
         except Exception as e:
@@ -362,10 +362,11 @@ def scrape_vietnamworks():
                         if email:
                             job['recruiter_email'] = email
                             job['email_path'] = 'direct'
-                            jobs.append(job)
-                            log(f"      ✓ {job['title'][:50]} @ {job['company']} → {email}")
                         else:
-                            log(f"      ✗ {full_url}: no email path (skipping)")
+                            job['recruiter_email'] = None
+                            job['email_path'] = 'platform'
+                        jobs.append(job)
+                        log(f"      ✓ {job['title'][:50]} @ {job['company']} → {email or 'platform'}")
                         time.sleep(random.uniform(0.5, 1.0))
 
             except Exception as e:
