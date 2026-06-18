@@ -27,7 +27,7 @@ HISTORY_FILE = f'{VIETNAM_DIR}/scraped_history.json'
 LOG_FILE = f'{VIETNAM_DIR}/scraper.log'
 
 # ─── PLAYWRIGHT SETUP ─────────────────────────────────────────────────────────
-PLAYWRIGHT_BROWSER_PATH = '/snap/chromium/3423/usr/lib/chromium-browser/chrome'
+PLAYWRIGHT_BROWSER_PATH = '/snap/chromium/current/usr/lib/chromium-browser/chrome'
 PLAYWRIGHT_AVAILABLE = os.path.exists(PLAYWRIGHT_BROWSER_PATH)
 
 _playwright_instance = None
