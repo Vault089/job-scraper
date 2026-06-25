@@ -6094,3 +6094,303 @@ ValueError: could not convert string to float: ''
 [2026-05-18 17:15:04] === Vietnam Job Scraper START: 20260518 ===
 [2026-05-18 17:15:04]   Loaded 24 existing jobs, 24 dedup hashes
 [2026-05-18 17:15:04] Scraping LinkedIn Vietnam (Playwright)...
+[2026-06-25 18:44:13] 
+[2026-06-25 18:44:13] === Vietnam Job Scraper START: 20260625 ===
+[2026-06-25 18:44:13]   Loaded 493 existing jobs, 493 dedup hashes
+[2026-06-25 18:44:13] Scraping LinkedIn Vietnam (Playwright)...
+[2026-06-25 18:44:21]   LinkedIn search: english teacher vietnam
+[2026-06-25 18:44:24]     Found 60 IDs total, 60 new
+[2026-06-25 18:44:27]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:44:31]     ✓ Job 4423941200: Full-time Public School Teachers in Ho Chi Minh |  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:44:35]     ✓ Job 4417882416: Expat ESL Teachers Wanted in Vietnam! Join us now! @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:44:39]     ✓ Job 4423919880: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:44:43]     ✓ Job 4423936497: Hiring ESL Teachers for our 70+ centres! (for Over @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:44:47]     ✓ Job 4423942166: Hiring ESL Teachers| For Expatriates currently in  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:45:04]     ✓ Job 4309686917: English as a Second Language (ESL) Tutor - AI Trai @ DataAnnotation → platform
+[2026-06-25 18:45:08]     ✓ Job 4399236046: [Hanoi] Full-time Secondary teachers-Atlantic Five @ Atlantic Teacher Careers → info@atlanticteacher.com
+[2026-06-25 18:45:12]     ✓ Job 4198828076: English Teacher - Ho Chi Minh City, Vietnam (Major @ TEFL UK → info@tefluk.com
+[2026-06-25 18:45:16]     ✓ Job 4422874938: [HN] Full-time English teacher - Sakura Schools (J @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:45:20]     ✓ Job 4198830029: Teach Vietnam - TJAP @ TEFL UK → info@tefluk.com
+[2026-06-25 18:45:24]     ✓ Job 4416188031: [Hanoi, Vietnam] Elementary/ Middle/ High school E @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:45:28]     ✓ Job 4422013205: Part-time English Teacher – Public Schools | HCM,  @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:45:31]     ✓ Job 4299039549: Teach Vietnam - VietAhn @ TEFL UK → info@tefluk.com
+[2026-06-25 18:45:48]     ✓ Job 4304433444: English Teacher - AI Trainer @ DataAnnotation → platform
+[2026-06-25 18:46:05]     ✓ Job 4304449239: English Tutor - AI Trainer @ DataAnnotation → platform
+[2026-06-25 18:46:09]     ✓ Job 4422895003: Primary/Secondary ESL/ELA Teacher (Expat only) sta @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:46:13]     ✓ Job 4427721044: Kindergarten English Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:46:16]     ✓ Job 4424575215: ENGLISH TEACHER, MATHS AND SCIENCE TEACHER - HCM @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:46:20]     ✓ Job 4426342285: Kindergarten English Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:46:25]     ✓ Job 4424578213: [Hanoi] English Teacher – Secondary Public Schools @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:46:29]     ✓ Job 4419078245: ESL Teachers (Primary, Middle or High School) @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:46:32]     ✓ Job 4423918900: FOREIGN ENGLISH TEACHER AT EASTERN INTERNATIONAL U @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:46:38]     ✓ Job 3984653056: English Teacher @ Premier Residences Phu Quoc Emerald Bay Managed by AccorHotels → platform
+[2026-06-25 18:46:45]     ✓ Job 4401107973: Giáo viên tiếng Anh @ Day A → platform
+[2026-06-25 18:46:51]     ✓ Job 3984646809: Native English Teacher @ Trung Tâm Tiếng Anh Lesh → platform
+[2026-06-25 18:46:57]     ✓ Job 3984649452: Giáo viên tiếng Anh @ Trường Thắng → platform
+[2026-06-25 18:47:01]     ✓ Job 4321317044: Preschool ESL Teacher IMA Kindergarten (Thao Dien, @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:47:05]     ✓ Job 4427722029: Kindergarten, Primary & Secondary Teachers @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:47:09]     ✓ Job 4417882394: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:47:13]     ✓ Job 4426091380: Secondary English Teachers - Late July 2026, Licen @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:47:17]     ✓ Job 4426349170: IELTS/ English Teachers @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:47:21]     ✓ Job 4399236048: [HANOI] Full-time High school/IELTS Teachers neede @ Atlantic Teacher Careers → info@atlanticteacher.com
+[2026-06-25 18:47:25]     ✓ Job 4432286066: ESL Teacher (Elementary–Secondary) – Hanoi – $1800 @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:47:29]     ✓ Job 4429315662: CAMBRIDGE ENGLISH TEACHERS - PART TIME - START JUL @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:47:32]     ✓ Job 4426966261: ESL, Math, and Science Teachers @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:47:36]     ✓ Job 4429451854: Teach Vietnam - Hanoi @ TEFL UK → info@tefluk.com
+[2026-06-25 18:47:43]     ✓ Job 3984649322: Giáo viên tiếng anh @ Anh Ngữ TalkFirst → platform
+[2026-06-25 18:47:50]     ✓ Job 4402625409: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà Nội → platform
+[2026-06-25 18:47:54]     ✓ Job 4426082555: Primary ESL Teachers - Late July 2026, Licensed Te @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:48:00]     ✓ Job 3984647946: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst → platform
+[2026-06-25 18:48:06]     ✓ Job 4402616544: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế → platform
+[2026-06-25 18:48:10]     ✓ Job 4430557457: Full-Time ESL, IELTS, Math & Science Teachers | Te @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:48:14]     ✓ Job 4399222770: [HANOI] Part-time Secondary Teachers needed for ou @ Atlantic Teacher Careers → info@atlanticteacher.com
+[2026-06-25 18:48:20]     ✓ Job 3984655222: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS → platform
+[2026-06-25 18:48:26]     ✓ Job 3984654269: Giáo Viên Anh Văn - English Teacher ( Full time -  @ Hệ thống anh ngữ Quốc tế Bắc Mỹ - NIS → platform
+[2026-06-25 18:48:32]     ✓ Job 4415784222: Expat - English Teacher @ Einstein School Ho Chi Minh City - ESH → platform
+[2026-06-25 18:48:36]     ✓ Job 4399236049: [HANOI] Part-time Primary Teachers needed for our  @ Atlantic Teacher Careers → info@atlanticteacher.com
+[2026-06-25 18:48:43]     ✓ Job 3984647670: Giáo viên Tiếng Anh @ Trung Tam → platform
+[2026-06-25 18:48:50]     ✓ Job 4396065311: English Teacher @ Ninja Teacher TEFL Academy → platform
+[2026-06-25 18:48:56]     ✓ Job 4424672238: Voice Recording Specialist (Vietnamese Speaker) |  @ OpsArmy Careers → platform
+[2026-06-25 18:49:02]     ✓ Job 4424690020: Voice Recording Specialist (Vietnamese Speaker) |  @ OpsArmy Careers → platform
+[2026-06-25 18:49:08]     ✓ Job 4430571392: Moderation Trainer - Open For English Teacher @ Gear Inc. → platform
+[2026-06-25 18:49:12]     ✓ Job 4424425045: [Ha Noi] English Teacher @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:49:16]     ✓ Job 4399222766: [Ha Noi] Atlantic Five-Star English- Full-Time Sec @ Atlantic Teacher Careers → recruitment@atlantic.edu.vn
+[2026-06-25 18:49:22]     ✓ Job 4424670863: Voice Recording Specialist (Vietnamese Speaker) |  @ OpsArmy Careers → platform
+[2026-06-25 18:49:26]     ✓ Job 4432554987: English Second Language Teacher @ Apollo Education and Training Organization Vietnam → teaching@apollo.edu.vn
+[2026-06-25 18:49:32]     ✓ Job 4420914624: Teacher @ International Schools Partnership Limited → platform
+[2026-06-25 18:49:36]     ✓ Job 4426084533: HEAD OF SOCIAL SCIENCE CUM CAMBRIDGE ESL TEACHER @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:49:40]     ✓ Job 4389540444: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUON @ Legal & Teaching Jobs for Foreign Teachers in Vietnam → info@legalandteachingjobs.com
+[2026-06-25 18:49:42]   LinkedIn search: ielts teacher vietnam
+[2026-06-25 18:49:46]     Found 61 IDs total, 42 new
+[2026-06-25 18:49:51]     ✓ Job 4411990651: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Full @ Jaxtina English Center → platform
+[2026-06-25 18:49:59]     ✓ Job 4419595839: English and Communication Trainer (Attractive pack @ Crossian → platform
+[2026-06-25 18:50:06]     ✓ Job 4402617528: Trợ giảng IELTS @ Công Ty Cổ Phần Trung Tín → platform
+[2026-06-25 18:50:12]     ✓ Job 4402626241: Nhân viên đào tạo @ AROMA Tiếng Anh Cho Người Đi Làm → platform
+[2026-06-25 18:50:17]     ✓ Job 4425454048: Corporate English Trainer @ GFT Technologies APAC & GCC → platform
+[2026-06-25 18:50:21]     ✓ Job 4431487331: PERSONAL ENGLISH COACH FULL-TIME (HUẤN LUYỆN VIÊN  @ Axcela English → hr@axcelavietnam.com
+[2026-06-25 18:50:27]     ✓ Job 4402620325: Trợ giảng tiếng Anh @ Công Ty Cổ Phần Trung Tín → platform
+[2026-06-25 18:50:33]     ✓ Job 4402617329: Giáo viên ngoại ngữ @ HTC Viễn Thông Quốc Tế → platform
+[2026-06-25 18:50:38]     ✓ Job 3984649362: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guide → platform
+[2026-06-25 18:50:44]     ✓ Job 4402624249: Giáo viên tiếng anh full time @ Trung Tâm Anh Ngữ WISE ENGLISH → platform
+[2026-06-25 18:50:51]     ✓ Job 4420112623: [HN/HCM] Tuyển dụng giáo viên tiếng Anh TOEIC Full @ Jaxtina English Center → platform
+[2026-06-25 18:50:58]     ✓ Job 4423896365: 2 English Trainer II @ MiTek → platform
+[2026-06-25 18:51:07]     ✓ Job 4401112892: Giáo viên tiếng Anh-Toàn thời gian @ KINDLE → platform
+[2026-06-25 18:51:13]     ✓ Job 3984650037: Nhân viên biết Tiếng Anh @ Công Ty TNHH BBQ Việt Nam → platform
+[2026-06-25 18:51:20]     ✓ Job 4432529711: Full-Time Teacher Trainer @ Ninja Teacher TEFL Academy → platform
+[2026-06-25 18:51:27]     ✓ Job 4430429143: Student Support Teacher (AY 2026-2027) @ Australian International School, Vietnam → platform
+[2026-06-25 18:51:33]     ✓ Job 4402625241: Trợ giảng, giáo viên tiếng Anh @ CP → aos@2.3.1
+[2026-06-25 18:51:40]     ✓ Job 4402623222: Giáo viên tiếng anh @ Kingdom → platform
+[2026-06-25 18:51:47]     ✓ Job 4416817295: Lecturer, International Business @ RMIT University Vietnam → platform
+[2026-06-25 18:51:51]     ✓ Job 4315429069: Tuyển dụng Giảng viên khối ngành Ngôn ngữ @ CAO ĐẲNG VĂN LANG SÀI GÒN → vlsc@vanlangsaigon.edu.vn
+[2026-06-25 18:51:57]     ✓ Job 4426691826: Study Abroad Academic Consultant @ Red Sun Visa → platform
+[2026-06-25 18:52:03]     ✓ Job 4402615489: GIÁO VIÊN TIẾNG ANH (tiểu học) @ Trung Tam → platform
+[2026-06-25 18:52:10]     ✓ Job 4401118680: Full-time interviewer @ Step By Step HR → platform
+[2026-06-25 18:52:17]     ✓ Job 4430937312: Hiring Now! Teach English Overseas with Full Train @ English 1 → platform
+[2026-06-25 18:52:22]     ✓ Job 4430938247: Hiring for 2026! Teach English Abroad | Full Train @ English 1 → platform
+[2026-06-25 18:52:29]     ✓ Job 4402613297: ADMISSION OFFICER @ TCL Talent Hub (Viet Nam) → platform
+[2026-06-25 18:52:36]     ✓ Job 4426232190: English Interpreter - Hanoi @ Bureau Veritas → platform
+[2026-06-25 18:52:44]     ✓ Job 4419822801: Interpreter/Translator @ Arup → platform
+[2026-06-25 18:52:50]     ✓ Job 4402604474: Trợ lý Chương trình @ Trung Tâm Gia Sư THÀNH TÀI → platform
+[2026-06-25 18:52:53]     ✓ Job 4431206691: Chuyên viên Nội dung tiếng Anh @ Monkey Vietnam → thuylinh.nguyen@monkey.edu.vn
+[2026-06-25 18:53:17]     ✓ Job 4379408045: Specialist, Client Relations - English Language Le @ Pearson → platform
+[2026-06-25 18:53:24]     ✓ Job 4427157487: Senior/ middle English Trainer @ MiTek Vietnam → platform
+[2026-06-25 18:53:31]     ✓ Job 4430372751: Tiếp viên Hàng không (Chưa/Có kinh nghiệm) @ Sun PhuQuoc Airways → platform
+[2026-06-25 18:53:37]     ✓ Job 4422241423: Senior Admissions Officer @ Fulbright University Vietnam → info.fsppm@fulbright.edu.vn
+[2026-06-25 18:53:41]     ✓ Job 4315420226: VLSC Thông báo tuyển dụng Giảng viên @ CAO ĐẲNG VĂN LANG SÀI GÒN → tuyendung@vanlangsaigon.edu.vn
+[2026-06-25 18:53:48]     ✓ Job 4414476119: Senior English Trainer @ MiTek → platform
+[2026-06-25 18:53:54]     ✓ Job 4428384530: Bilingual Interpreter @ TransPerfect Connect → platform
+[2026-06-25 18:54:01]     ✓ Job 4401121129: Nhân Viên Tư Vấn Khóa Học @ Saigon A.I. → platform
+[2026-06-25 18:54:07]     ✓ Job 4414777109: University & Careers Counsellor @ International Schools Partnership Limited → platform
+[2026-06-25 18:54:13]     ✓ Job 4402603478: Tuyển Dụng Nhân Viên Tư Vấn Khóa Học Tiếng Anh (Th @ Trung Tâm Anh Ngữ WISE ENGLISH → platform
+[2026-06-25 18:54:32]     ✓ Job 4423005895: SEA Management Trainee 2026 - Vietnam (Da Nang) @ Hilton → platform
+[2026-06-25 18:54:36]     ✓ Job 4431218136: CHUYÊN VIÊN TUYỂN DỤNG & HỖ TRỢ GIÁO VIÊN NƯỚC NGO @ PMP ENGLISH → hr@pmpenglish.edu.vn
+[2026-06-25 18:54:39]   LinkedIn search: business teacher vietnam
+[2026-06-25 18:54:41]     Found 0 IDs total, 0 new
+[2026-06-25 18:54:43]   LinkedIn search: economics teacher vietnam
+[2026-06-25 18:54:46]     Found 5 IDs total, 2 new
+[2026-06-25 18:54:52]     ✓ Job 4314697421: Mathematics Specialist (Fluent in German) - Freela @ Meridial Marketplace, by Invisible → platform
+[2026-06-25 18:54:58]     ✓ Job 4315169155: Mathematics Specialist (Fluent in Korean) - Freela @ Meridial Marketplace, by Invisible → platform
+[2026-06-25 18:55:01]   LinkedIn search: esl teacher vietnam
+[2026-06-25 18:55:04]     Found 61 IDs total, 14 new
+[2026-06-25 18:55:10]     ✓ Job 4402599475: TUYỂN DỤNG TRỢ GIẢNG TIẾNG ANH @ Công Ty Cổ Phần Trung Tín → platform
+[2026-06-25 18:55:13]     ✓ Job 4431457588: Prep (Reception) Teacher @ KinderWorld International Group → jobapplication-hanoi@kinderworldgroup.com
+[2026-06-25 18:55:19]     ✓ Job 4427480878: Educator - Kerastase @ L'Oréal → platform
+[2026-06-25 18:55:26]     ✓ Job 4414761259: Learning support assistant @ International Schools Partnership Limited → platform
+[2026-06-25 18:55:32]     ✓ Job 4416639990: Trainer - English (Hanoi) @ TELUS Digital → platform
+[2026-06-25 18:55:39]     ✓ Job 4379286037: BOARDING SCHOOL TEACHER & RESIDENTIAL LIFE COORDIN @ TH School → platform
+[2026-06-25 18:55:43]     ✓ Job 4426806299: Student - Teacher Liaison @ Ni Hao Ma - Mandarin Learning Lab → human.resources@nihaoma-mandarin.com
+[2026-06-25 18:55:49]     ✓ Job 3984646922: Giáo viên tiếng nhật @ Nói Tiếng Anh Đi → platform
+[2026-06-25 18:55:55]     ✓ Job 4402617383: Giáo viên mầm non, y tế @ HỌC VIỆN TƯ VẤN - ĐÀO TẠO PMS → platform
+[2026-06-25 18:56:04]     ✓ Job 4288638790: Faculty of Multimedia Communications @ VinUniversity → platform
+[2026-06-25 18:56:11]     ✓ Job 4430349692: Media And Communication Lecturer @ FPT University  (Dai hoc FPT) → platform
+[2026-06-25 18:56:17]     ✓ Job 4425815111: Primary Learning Support Teacher @ Cognita Schools → platform
+[2026-06-25 18:56:23]     ✓ Job 4426033974: Training Specialist @ Jabil → wght@8..144
+[2026-06-25 18:56:30]     ✓ Job 4402625242: Nhân viên hỗ trợ học tập @ Hệ Thống Học Trực Tuyến VioEdu - Tập Đoàn FPT → platform
+[2026-06-25 18:56:32]   LinkedIn: collected 118 raw jobs
+[2026-06-25 18:56:32] Scraping Vietnamworks (Playwright)...
+[2026-06-25 18:56:32]     Vietnamworks: english teacher ho-chi-minh-vn page 0
+[2026-06-25 18:56:34]       Found 0 job cards on page
+[2026-06-25 18:56:34]       Found 0 job URLs via regex
+[2026-06-25 18:56:36]     Vietnamworks: english teacher ho-chi-minh-vn page 1
+[2026-06-25 18:56:38]       Found 0 job cards on page
+[2026-06-25 18:56:38]       Found 0 job URLs via regex
+[2026-06-25 18:56:40]     Vietnamworks: english teacher ha-noi-vn page 0
+[2026-06-25 18:56:43]       Found 0 job cards on page
+[2026-06-25 18:56:43]       Found 0 job URLs via regex
+[2026-06-25 18:56:44]     Vietnamworks: english teacher ha-noi-vn page 1
+[2026-06-25 18:56:47]       Found 0 job cards on page
+[2026-06-25 18:56:47]       Found 0 job URLs via regex
+[2026-06-25 18:56:49]     Vietnamworks: ielts teacher ho-chi-minh-vn page 0
+[2026-06-25 18:56:51]       Found 0 job cards on page
+[2026-06-25 18:56:51]       Found 0 job URLs via regex
+[2026-06-25 18:56:53]     Vietnamworks: ielts teacher ho-chi-minh-vn page 1
+[2026-06-25 18:56:55]       Found 0 job cards on page
+[2026-06-25 18:56:55]       Found 0 job URLs via regex
+[2026-06-25 18:56:56]     Vietnamworks: business english ho-chi-minh-vn page 0
+[2026-06-25 18:56:59]       Found 0 job cards on page
+[2026-06-25 18:56:59]       Found 0 job URLs via regex
+[2026-06-25 18:57:01]     Vietnamworks: business english ho-chi-minh-vn page 1
+[2026-06-25 18:57:03]       Found 0 job cards on page
+[2026-06-25 18:57:03]       Found 0 job URLs via regex
+[2026-06-25 18:57:05]   Vietnamworks: collected 0 raw jobs
+[2026-06-25 18:57:05]   Total raw jobs collected: 118
+[2026-06-25 18:57:05]   Jobs matching profile (score >= 30): 116
+[2026-06-25 18:57:05]     Score 60: Full-time Public School Teachers in Ho Chi Minh | APPLY @ Legal & Teaching Jobs for Fore | Full-time | 600,000 VND
+[2026-06-25 18:57:05]     Score 60: Hiring ESL Teachers for our 70+ centres! (for Overseas  @ Legal & Teaching Jobs for Fore | Full-time | 500,000 VND
+[2026-06-25 18:57:05]     Score 60: Hiring ESL Teachers| For Expatriates currently in Vietn @ Legal & Teaching Jobs for Fore | Full-time | 500,000 VND
+[2026-06-25 18:57:05]     Score 60: Giáo viên mầm non, y tế @ HỌC VIỆN TƯ VẤN - ĐÀO TẠO PMS | Full-time | 5,500,000vnd
+[2026-06-25 18:57:05]     Score 50: Hiring PART-TIME ESL Teachers in Ho Chi Minh City @ Legal & Teaching Jobs for Fore | Part-time | 500,000 VND
+[2026-06-25 18:57:05]     Score 50: [Hanoi] Full-time Secondary teachers-Atlantic Five-Star @ Atlantic Teacher Careers | Part-time | 540,000 VND
+[2026-06-25 18:57:05]     Score 50: English Teacher - Ho Chi Minh City, Vietnam (Major Educ @ TEFL UK | Contract | 350,000 VND
+[2026-06-25 18:57:05]     Score 50: [HN] Full-time English teacher - Sakura Schools (July 2 @ Legal & Teaching Jobs for Fore | Part-time | 600,000 VND
+[2026-06-25 18:57:05]     Score 50: [Hanoi] English Teacher – Secondary Public Schools | Up @ Legal & Teaching Jobs for Fore | Contract | 730,000 VND
+[2026-06-25 18:57:05]     Score 50: Part - Time ESL Teacher Wanted in Hanoi City @ Legal & Teaching Jobs for Fore | Part-time | 560,000 VND
+[2026-06-25 18:57:05]     Score 50: [HANOI] Full-time High school/IELTS Teachers needed for @ Atlantic Teacher Careers | Part-time | 580,000VND
+[2026-06-25 18:57:05]     Score 50: [HANOI] Part-time Secondary Teachers needed for our in- @ Atlantic Teacher Careers | Part-time | 540,000VND
+[2026-06-25 18:57:05]     Score 50: [HANOI] Part-time Primary Teachers needed for our in-sc @ Atlantic Teacher Careers | Part-time | 540,000VND
+[2026-06-25 18:57:05]     Score 50: [Ha Noi] Atlantic Five-Star English- Full-Time Secondar @ Atlantic Teacher Careers | Part-time | 730,000 VND
+[2026-06-25 18:57:05]     Score 50: English Second Language Teacher @ Apollo Education and Training  | Part-time | 730,000 VND
+[2026-06-25 18:57:05]     Score 40: [Hanoi, Vietnam] Elementary/ Middle/ High school Englis @ Legal & Teaching Jobs for Fore | Full-time | 1 m
+[2026-06-25 18:57:05]     Score 40: Teach Vietnam - VietAhn @ TEFL UK | Full-time | 9 m
+[2026-06-25 18:57:05]     Score 40: ENGLISH TEACHER, MATHS AND SCIENCE TEACHER - HCM @ Legal & Teaching Jobs for Fore | Full-time | , M
+[2026-06-25 18:57:05]     Score 40: ESL Teachers (Primary, Middle or High School) @ Legal & Teaching Jobs for Fore | Full-time | , M
+[2026-06-25 18:57:05]     Score 40: Giáo viên tiếng Anh @ Day A | Full-time | 2 m
+[2026-06-25 18:57:05]     Score 40: ESL, Math, and Science Teachers @ Legal & Teaching Jobs for Fore | Full-time | , M
+[2026-06-25 18:57:05]     Score 40: Giáo Viên Tiếng Anh @ Hệ thống đào tạo CNTT T3H Hà N | Full-time | 3 m
+[2026-06-25 18:57:05]     Score 40: GIÁO VIÊN TIẾNG ANH @ Anh Ngữ TalkFirst | Full-time | 2 m
+[2026-06-25 18:57:05]     Score 40: Giáo viên Tiếng ANh @ HTC Viễn Thông Quốc Tế | Full-time | 2 m
+[2026-06-25 18:57:05]     Score 40: Full-Time ESL, IELTS, Math & Science Teachers | Teachin @ Legal & Teaching Jobs for Fore | Full-time | , M
+[2026-06-25 18:57:05]     Score 40: Expat - English Teacher @ Einstein School Ho Chi Minh Ci | Full-time | 2 m
+[2026-06-25 18:57:05]     Score 40: Voice Recording Specialist (Vietnamese Speaker) | Remot @ OpsArmy Careers | Full-time | 1 m
+[2026-06-25 18:57:05]     Score 40: Voice Recording Specialist (Vietnamese Speaker) | Remot @ OpsArmy Careers | Full-time | 1 m
+[2026-06-25 18:57:05]     Score 40: Moderation Trainer - Open For English Teacher @ Gear Inc. | Full-time | , tr
+[2026-06-25 18:57:05]     Score 40: [Ha Noi] English Teacher @ Legal & Teaching Jobs for Fore | Full-time | 03, M
+[2026-06-25 18:57:05]     Score 40: Voice Recording Specialist (Vietnamese Speaker) | Remot @ OpsArmy Careers | Full-time | 1 m
+[2026-06-25 18:57:05]     Score 40: Teacher @ International Schools Partners | Full-time | 3 m
+[2026-06-25 18:57:05]     Score 40: HEAD OF SOCIAL SCIENCE CUM CAMBRIDGE ESL TEACHER @ Legal & Teaching Jobs for Fore | Full-time | , M
+[2026-06-25 18:57:05]     Score 40: Nhân viên đào tạo @ AROMA Tiếng Anh Cho Người Đi L | Full-time | 3 m
+[2026-06-25 18:57:05]     Score 40: Giáo viên ngoại ngữ @ HTC Viễn Thông Quốc Tế | Full-time | 2 m
+[2026-06-25 18:57:05]     Score 40: Giáo viên Tiếng Anh fulltime @ Trung tâm Anh ngữ English Guid | Full-time | 2 m
+[2026-06-25 18:57:05]     Score 40: Giáo viên tiếng anh full time @ Trung Tâm Anh Ngữ WISE ENGLISH | Full-time | 3 m
+[2026-06-25 18:57:05]     Score 40: 2 English Trainer II @ MiTek | Full-time | , M
+[2026-06-25 18:57:05]     Score 40: Giáo viên tiếng Anh-Toàn thời gian @ KINDLE | Full-time | 3 m
+[2026-06-25 18:57:05]     Score 40: Nhân viên biết Tiếng Anh @ Công Ty TNHH BBQ Việt Nam | Full-time | 3 m
+[2026-06-25 18:57:05]     Score 40: Full-Time Teacher Trainer @ Ninja Teacher TEFL Academy | Full-time | , M
+[2026-06-25 18:57:05]     Score 40: Student Support Teacher (AY 2026-2027) @ Australian International Schoo | Full-time | 1 m
+[2026-06-25 18:57:05]     Score 40: Trợ giảng, giáo viên tiếng Anh @ CP | Full-time | 3 m
+[2026-06-25 18:57:05]     Score 40: Study Abroad Academic Consultant @ Red Sun Visa | Full-time | , tr
+[2026-06-25 18:57:05]     Score 40: GIÁO VIÊN TIẾNG ANH (tiểu học) @ Trung Tam | Full-time | 2 m
+[2026-06-25 18:57:05]     Score 40: Full-time interviewer @ Step By Step HR | Full-time | 3 m
+[2026-06-25 18:57:05]     Score 40: Trợ lý Chương trình @ Trung Tâm Gia Sư THÀNH TÀI | Full-time | 2 m
+[2026-06-25 18:57:05]     Score 40: Chuyên viên Nội dung tiếng Anh @ Monkey Vietnam | Full-time | 18tr
+[2026-06-25 18:57:05]     Score 40: Specialist, Client Relations - English Language Learnin @ Pearson | Full-time | , m
+[2026-06-25 18:57:05]     Score 40: Senior/ middle English Trainer @ MiTek Vietnam | Full-time | , m
+[2026-06-25 18:57:05]     Score 40: Senior English Trainer @ MiTek | Full-time | 1 m
+[2026-06-25 18:57:05]     Score 40: Bilingual Interpreter @ TransPerfect Connect | Full-time | , m
+[2026-06-25 18:57:05]     Score 40: Nhân Viên Tư Vấn Khóa Học @ Saigon A.I. | Full-time | 2 m
+[2026-06-25 18:57:05]     Score 40: University & Careers Counsellor @ International Schools Partners | Full-time | 1 m
+[2026-06-25 18:57:05]     Score 40: Tuyển Dụng Nhân Viên Tư Vấn Khóa Học Tiếng Anh (Thu Nhậ @ Trung Tâm Anh Ngữ WISE ENGLISH | Full-time | 10 Triệu
+[2026-06-25 18:57:05]     Score 40: SEA Management Trainee 2026 - Vietnam (Da Nang) @ Hilton | Full-time | 40 USD
+[2026-06-25 18:57:05]     Score 40: CHUYÊN VIÊN TUYỂN DỤNG & HỖ TRỢ GIÁO VIÊN NƯỚC NGOÀI @ PMP ENGLISH | Full-time | , tr
+[2026-06-25 18:57:05]     Score 40: TUYỂN DỤNG TRỢ GIẢNG TIẾNG ANH @ Công Ty Cổ Phần Trung Tín | Full-time | 3 m
+[2026-06-25 18:57:05]     Score 40: Prep (Reception) Teacher @ KinderWorld International Grou | Full-time | 2 m
+[2026-06-25 18:57:05]     Score 40: Educator - Kerastase @ L'Oréal | Full-time | , m
+[2026-06-25 18:57:05]     Score 40: Learning support assistant @ International Schools Partners | Full-time | 1 m
+[2026-06-25 18:57:05]     Score 40: BOARDING SCHOOL TEACHER & RESIDENTIAL LIFE COORDINATOR @ TH School | Full-time | 3 m
+[2026-06-25 18:57:05]     Score 40: Student - Teacher Liaison @ Ni Hao Ma - Mandarin Learning  | Full-time | 000 VND/month
+[2026-06-25 18:57:05]     Score 40: Giáo viên tiếng nhật @ Nói Tiếng Anh Đi | Full-time | 2 m
+[2026-06-25 18:57:05]     Score 40: Faculty of Multimedia Communications @ VinUniversity | Full-time | 10 m
+[2026-06-25 18:57:05]     Score 40: Media And Communication Lecturer @ FPT University  (Dai hoc FPT) | Full-time | 2 m
+[2026-06-25 18:57:05]     Score 40: Primary Learning Support Teacher @ Cognita Schools | Full-time | , m
+[2026-06-25 18:57:05]     Score 40: Training Specialist @ Jabil | Full-time | , m
+[2026-06-25 18:57:05]     Score 40: Nhân viên hỗ trợ học tập @ Hệ Thống Học Trực Tuyến VioEdu | Full-time | 3 m
+[2026-06-25 18:57:05]     Score 30: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUONG, DO @ Legal & Teaching Jobs for Fore | Contract | 3 m
+[2026-06-25 18:57:05]     Score 30: Expat ESL Teachers Wanted in Vietnam! Join us now! @ Legal & Teaching Jobs for Fore | Contract | 1 m
+[2026-06-25 18:57:05]     Score 30: English as a Second Language (ESL) Tutor - AI Trainer @ DataAnnotation | Contract | 2 m
+[2026-06-25 18:57:05]     Score 30: Teach Vietnam - TJAP @ TEFL UK | Contract | 12 m
+[2026-06-25 18:57:05]     Score 30: Part-time English Teacher – Public Schools | HCM, Binh  @ Legal & Teaching Jobs for Fore | Part-time | 2 m
+[2026-06-25 18:57:05]     Score 30: English Teacher - AI Trainer @ DataAnnotation | Part-time | 3 m
+[2026-06-25 18:57:05]     Score 30: English Tutor - AI Trainer @ DataAnnotation | Contract | 2 m
+[2026-06-25 18:57:05]     Score 30: Primary/Secondary ESL/ELA Teacher (Expat only) starting @ Legal & Teaching Jobs for Fore | Part-time | 2 m
+[2026-06-25 18:57:05]     Score 30: Kindergarten English Teacher @ Legal & Teaching Jobs for Fore | Part-time | , m
+[2026-06-25 18:57:05]     Score 30: Kindergarten English Teacher @ Legal & Teaching Jobs for Fore | Part-time | , m
+[2026-06-25 18:57:05]     Score 30: FOREIGN ENGLISH TEACHER AT EASTERN INTERNATIONAL UNIVER @ Legal & Teaching Jobs for Fore | Part-time | 3 m
+[2026-06-25 18:57:05]     Score 30: English Teacher @ Premier Residences Phu Quoc Em | Contract | 1 m
+[2026-06-25 18:57:05]     Score 30: Native English Teacher @ Trung Tâm Tiếng Anh Lesh | Part-time | 2 m
+[2026-06-25 18:57:05]     Score 30: Giáo viên tiếng Anh @ Trường Thắng | Part-time | , tr
+[2026-06-25 18:57:05]     Score 30: Preschool ESL Teacher IMA Kindergarten (Thao Dien, Dist @ Legal & Teaching Jobs for Fore | Contract | 4 m
+[2026-06-25 18:57:05]     Score 30: Kindergarten, Primary & Secondary Teachers @ Legal & Teaching Jobs for Fore | Contract | 2 m
+[2026-06-25 18:57:05]     Score 30: Secondary English Teachers - Late July 2026, Licensed T @ Legal & Teaching Jobs for Fore | Contract | 40 m
+[2026-06-25 18:57:05]     Score 30: IELTS/ English Teachers @ Legal & Teaching Jobs for Fore | Part-time | 2 m
+[2026-06-25 18:57:05]     Score 30: ESL Teacher (Elementary–Secondary) – Hanoi – $1800/mont @ Legal & Teaching Jobs for Fore | Contract | 6 m
+[2026-06-25 18:57:05]     Score 30: CAMBRIDGE ENGLISH TEACHERS - PART TIME - START JULY 202 @ Legal & Teaching Jobs for Fore | Part-time | 1 m
+[2026-06-25 18:57:05]     Score 30: Teach Vietnam - Hanoi @ TEFL UK | Part-time | 9 m
+[2026-06-25 18:57:05]     Score 30: Giáo viên tiếng anh @ Anh Ngữ TalkFirst | Part-time | 2 m
+[2026-06-25 18:57:05]     Score 30: Primary ESL Teachers - Late July 2026, Licensed Teacher @ Legal & Teaching Jobs for Fore | Contract | 35 m
+[2026-06-25 18:57:05]     Score 30: Giáo Viên Anh Văn - English Teacher @ Hệ thống anh ngữ Quốc tế Bắc M | Part-time | , m
+[2026-06-25 18:57:05]     Score 30: Giáo Viên Anh Văn - English Teacher ( Full time - Part  @ Hệ thống anh ngữ Quốc tế Bắc M | Part-time | , m
+[2026-06-25 18:57:05]     Score 30: Giáo viên Tiếng Anh @ Trung Tam | Part-time | 3 m
+[2026-06-25 18:57:05]     Score 30: English Teacher @ Ninja Teacher TEFL Academy | Part-time | 2 m
+[2026-06-25 18:57:05]     Score 30: FULL-TIME Expat ESL Teachers in Vietnam (BINH DUONG, DO @ Legal & Teaching Jobs for Fore | Contract | 3 m
+[2026-06-25 18:57:05]     Score 30: [HN/HCM] Tuyển dụng giáo viên tiếng Anh IELTS Fulltime @ Jaxtina English Center | Part-time | 1 m
+[2026-06-25 18:57:05]     Score 30: English and Communication Trainer (Attractive package) @ Crossian | Part-time | 12 m
+[2026-06-25 18:57:05]     Score 30: Trợ giảng IELTS @ Công Ty Cổ Phần Trung Tín | Contract | 2 m
+[2026-06-25 18:57:05]     Score 30: Corporate English Trainer @ GFT Technologies APAC & GCC | Part-time | 1 m
+[2026-06-25 18:57:05]     Score 30: PERSONAL ENGLISH COACH FULL-TIME (HUẤN LUYỆN VIÊN TIẾNG @ Axcela English | Part-time | , M
+[2026-06-25 18:57:05]     Score 30: Trợ giảng tiếng Anh @ Công Ty Cổ Phần Trung Tín | Part-time | 2 m
+[2026-06-25 18:57:05]     Score 30: [HN/HCM] Tuyển dụng giáo viên tiếng Anh TOEIC Fulltime/ @ Jaxtina English Center | Part-time | 30 triệu
+[2026-06-25 18:57:05]     Score 30: Giáo viên tiếng anh @ Kingdom | Part-time | 3 m
+[2026-06-25 18:57:05]     Score 30: Lecturer, International Business @ RMIT University Vietnam | Contract | 
+[2026-06-25 18:57:05]     Score 30: Hiring Now! Teach English Overseas with Full Training,  @ English 1 | Contract | 6 m
+[2026-06-25 18:57:05]     Score 30: Hiring for 2026! Teach English Abroad | Full Training,  @ English 1 | Contract | 6 m
+[2026-06-25 18:57:05]     Score 30: ADMISSION OFFICER @ TCL Talent Hub (Viet Nam) | Part-time | 3 m
+[2026-06-25 18:57:05]     Score 30: English Interpreter - Hanoi @ Bureau Veritas | Contract | , m
+[2026-06-25 18:57:05]     Score 30: Interpreter/Translator @ Arup | Contract | , m
+[2026-06-25 18:57:05]     Score 30: Tiếp viên Hàng không (Chưa/Có kinh nghiệm) @ Sun PhuQuoc Airways | Contract | , m
+[2026-06-25 18:57:05]     Score 30: Senior Admissions Officer @ Fulbright University Vietnam | Contract | , M
+[2026-06-25 18:57:05]     Score 30: Mathematics Specialist (Fluent in German) - Freelance T @ Meridial Marketplace, by Invis | Contract | , m
+[2026-06-25 18:57:05]     Score 30: Mathematics Specialist (Fluent in Korean) - Freelance A @ Meridial Marketplace, by Invis | Contract | , m
+[2026-06-25 18:57:05]     Score 30: Trainer - English (Hanoi) @ TELUS Digital | Part-time | , tr
+[2026-06-25 18:57:05]   New unique matched jobs: 18
+[2026-06-25 18:57:05]   Total jobs in data store: 511
+[2026-06-25 18:57:08]   XLS saved: /home/amrba/job_scraper/vietnam/vietnam_jobs_20260625.xlsx (511 jobs)
+[2026-06-25 18:57:09]   Cover letter generated: HỌC VIỆN TƯ VẤN - ĐÀO TẠO PMS_Giáo viên mầm non y tế_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: Apollo Education and Training Organ_English Second Language Teacher_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: Ninja Teacher TEFL Academy_Full-Time Teacher Trainer_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: Monkey Vietnam_Chuyên viên Nội dung tiếng Anh_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: Hilton_SEA Management Trainee 2026 - Vietn_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: PMP ENGLISH_CHUYÊN VIÊN TUYỂN DỤNG  HỖ TRỢ GIÁO_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: Công Ty Cổ Phần Trung Tín_TUYỂN DỤNG TRỢ GIẢNG TIẾNG ANH_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: KinderWorld International Group_Prep Reception Teacher_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: Ni Hao Ma - Mandarin Learning Lab_Student - Teacher Liaison_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: Nói Tiếng Anh Đi_Giáo viên tiếng nhật_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: FPT University  Dai hoc FPT_Media And Communication Lecturer_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: Cognita Schools_Primary Learning Support Teacher_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: Jabil_Training Specialist_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: Hệ Thống Học Trực Tuyến VioEdu - Tậ_Nhân viên hỗ trợ học tập_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: DataAnnotation_English Teacher - AI Trainer_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: TEFL UK_Teach Vietnam - Hanoi_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: Axcela English_PERSONAL ENGLISH COACH FULL-TIME HU_20260625.docx
+[2026-06-25 18:57:09]   Cover letter generated: Sun PhuQuoc Airways_Tiếp viên Hàng không ChưaCó kinh ng_20260625.docx
+[2026-06-25 18:57:09]   Cover letters generated: 18
+[2026-06-25 18:57:09] === Vietnam Job Scraper END: 18 new, 18 cover letters ===
