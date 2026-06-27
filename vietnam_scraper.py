@@ -41,8 +41,13 @@ def _get_pw():
         _browser = _playwright_instance.chromium.launch(
             headless=True,
             executable_path=PLAYWRIGHT_BROWSER_PATH,
-            args=['--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu',
-                  '--disable-software-rasterizer', '--disable-web-security']
+            args=[
+                '--no-sandbox', '--disable-dev-shm-usage', '--disable-gpu',
+                '--disable-software-rasterizer', '--disable-web-security',
+                '--disable-blink-features=AutomationControlled',
+                '--disable-features=IsolateOrigins,site-per-process',
+                '--window-size=1920,1080',
+            ]
         )
     return _playwright_instance, _browser
 
@@ -333,18 +338,30 @@ def scrape_vietnamworks():
 
             page = None
             try:
-                page = browser.new_page()
-                page.goto(url, timeout=30000, wait_until='domcontentloaded')
-                page.wait_for_timeout(2500)
+                ctx = browser.new_context(
+                    user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+                    viewport={'width': 1920, 'height': 1080},
+                    locale='en-US',
+                )
+                page = ctx.new_page()
+                # Remove webdriver flag
+                page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+                page.goto(url, timeout=30000, wait_until='networkidle')
+                page.wait_for_timeout(5000)
                 html = page.content()
 
-                # Find job listing cards
+                # Find job listing cards — multiple selectors
                 job_cards = page.locator('.job-item, .job-search-result-item, '
-                                          '[data-job-id], .jobs-card').all()
+                                          '[data-job-id], .jobs-card, '
+                                          '[class*="job-item"], [class*="JobCard"]').all()
                 log(f"      Found {len(job_cards)} job cards on page")
 
-                # Also try regex for job URLs
+                # Try multiple regex patterns for job URLs
                 job_urls = re.findall(r'href="(/en/jobs/view/\d+[^"]*)"', html)
+                job_urls += re.findall(r'href="(/viec-lam/[^"]+/[^"]*-\d+)"', html)
+                job_urls += re.findall(r'href="(/en/jobs/[^"]*-\d+)"', html)
+                job_urls += re.findall(r'"jobUrl"\s*:\s*"([^"]+)"', html)
+                job_urls += re.findall(r'"url"\s*:\s*"(https://www\.vietnamworks\.com/en/jobs/[^"]+)"', html)
                 job_urls = list(set(job_urls))
                 log(f"      Found {len(job_urls)} job URLs via regex")
 
@@ -382,10 +399,16 @@ def scrape_vietnamworks():
 
 def _fetch_vietnamworks_job(browser, url):
     """Fetch a single Vietnamworks job detail page."""
-    page = browser.new_page()
+    ctx = browser.new_context(
+        user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        viewport={'width': 1920, 'height': 1080},
+        locale='en-US',
+    )
+    page = ctx.new_page()
+    page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
     try:
-        page.goto(url, timeout=30000, wait_until='domcontentloaded')
-        page.wait_for_timeout(2000)
+        page.goto(url, timeout=30000, wait_until='networkidle')
+        page.wait_for_timeout(3000)
 
         body_text = page.inner_text('body')
         if len(body_text) < 80:
