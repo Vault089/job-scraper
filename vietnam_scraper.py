@@ -524,6 +524,8 @@ REJECT_KEYWORDS = [
     'elementary', 'grade 1', 'grade 2', 'grade 3', 'grade 4', 'grade 5',
     'lớp 1', 'lớp 2', 'lớp 3', 'lớp 4', 'lớp 5', 'mẫu giáo',
     'kids', 'children',
+    'vietnamese teacher', 'vietnamese english teacher', 'vnt',
+    'giáo viên việt nam', 'giáo viên người việt',
 ]
 
 def grade_level(text):
@@ -547,6 +549,25 @@ def score_job(job):
                  job.get('description', '') + ' ' +
                  job.get('requirements', '')).lower()
     salary_text = job.get('salary', '') or ''
+
+    # ── Grade screening / scoring ──────────────────────────────────────────
+    grade = grade_level(full_text)
+    if grade == 0:
+        job['match_score'] = 0
+        job['match_reasons'] = 'Rejected by title/grade filter'
+        return False
+    if isinstance(grade, int) and grade >= PROFILE['min_grade']:
+        score += 40
+        reasons.append(f'Grade {grade}')
+    elif grade == 'high':
+        score += 30
+        reasons.append('High School')
+    elif grade == 'uni':
+        score += 20
+        reasons.append('University')
+    elif grade is None:
+        score += 10
+        reasons.append('Grade unspecified')
 
     # ── Subject match ──────────────────────────────────────────────────────
     if subject_match(full_text):

@@ -513,6 +513,8 @@ REJECT_KEYWORDS = [
     'elementary', 'grade 1', 'grade 2', 'grade 3', 'grade 4', 'grade 5',
     'lớp 1', 'lớp 2', 'lớp 3', 'lớp 4', 'lớp 5', 'mẫu giáo',
     'kids', 'children',
+    'vietnamese teacher', 'vietnamese english teacher', 'vnt',
+    'giáo viên việt nam', 'giáo viên người việt',
 ]
 
 def grade_level(text):
